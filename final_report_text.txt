@@ -1,0 +1,497 @@
+
+=== PAGE 1 ===
+UNIVERSITY OF MORATUWA
+Faculty of Engineering
+Registered Module No:MT 3993 – Industrial Training
+Industrial Training Report
+Consulting Engineering and Contractors (Pvt)
+Ltd
+From: 05/12/2024 to 23/05/2025
+Date of Submission:
+25/07/2025
+Premakumara H.P.S.
+210494D
+Department of Materials Science and Engineering
+
+=== PAGE 2 ===
+Preface
+The field of Materials Science and Engineering plays a critical role in ensuring the safety,
+quality, and long-term sustainability of civil infrastructure. As a student of the Department of
+Materials Science and Engineering at the University of Moratuwa, I had the opportunity to
+undergo a six-month industrial training program at Consulting Engineering and Contractors
+(Pvt) Ltd, under the supervision of the Sri Lanka Road Development Authority (RDA). This
+internship allowed me to bridge the gap between academic learning and real-world engineering
+practice within the context of a nationally significant rural road construction project.
+The internship was carried out over a 24-week period and was structured into four progressive
+stages, each designed to expose me to the technical, managerial, and practical aspects of road
+development. I began with core field and laboratory investigations—such as Dynamic Cone
+Penetration (DCP) tests, Proctor compaction, and sieve analysis—which laid the foundation for
+understanding soil behaviour and subgrade performance. The second stage deepened my
+knowledge in material sourcing, borrow pit evaluation, and laboratory testing on aggregates,
+leading to a broader appreciation for quality control in road construction materials.
+Subsequent stages focused on more advanced technical work, including pavement design,
+compaction verification using field density tests, and participation in concrete works involving
+mix design, slump testing, and cube casting. In the final phase, I was involved in bitumen
+testing, asphalt mix validation, and on-site asphalt laying trials. A special highlight was
+conducting a research study focused on the feasibility of reducing asphalt thickness as a cost-
+saving and performance-optimized measure, a task that connected both technical analysis and
+practical field evaluation.
+This report captures the full scope of my internship experience—documenting technical
+responsibilities, professional interactions, and personal development. The training enhanced
+my practical understanding of materials testing, construction workflows, and site-level
+decision-making, while also sharpening my problem-solving, documentation, and teamwork
+skills.
+
+=== PAGE 3 ===
+I consider this internship an essential milestone in my academic and professional journey, one
+that has meaningfully prepared me for a future career in the field of civil and materials
+engineering.
+
+=== PAGE 4 ===
+Acknowledgement
+I would like to thank all the people and organizations who helped and supported me during my
+industrial training. This internship was a very important part of my university education, and I
+am truly grateful to everyone who made it a meaningful and valuable experience.
+First, I would like to thank the National Apprentice and Industrial Training Authority (NAITA)
+and the Industrial Training Division of the University of Moratuwa for arranging this training
+opportunity and for their support throughout the internship period. I also want to thank the
+Department of Materials Science and Engineering, especially Senior Lecturer S. P. Guluwita,
+for guiding me through both academic and training work.
+I am very thankful to Consulting Engineering and Contractors (Pvt) Ltd for giving me the
+chance to complete my training with them. The support I received from the engineers, technical
+officers, and laboratory staff helped me learn a lot about construction work and materials
+testing. I was able to get real-world experience through their advice and assistance, both at the
+site and in the lab.
+I especially thank my supervisors and the site engineers for giving me useful feedback and
+encouraging me to take part in many important activities such as soil testing, bitumen and
+asphalt work, pavement design, and compaction testing.
+Finally, I would like to thank my family and friends for their continuous support and
+encouragement during this journey. Their belief in me gave me the strength to do my best
+throughout the training period.
+This experience has helped me grow in many ways, and I am truly grateful to everyone who
+made it possible.
+
+=== PAGE 5 ===
+Table of Contents
+1. Description of the Organization ......................................................................................... 8
+1.1. Vision and Mission ..................................................................................................... 9
+1.2. Organizational Structure ............................................................................................. 9
+1.3. Company Facilities and Equipment .......................................................................... 10
+1.4. Project Portfolio ........................................................................................................ 10
+1.5. Health, Safety, and Environmental (HSE) Policy .................................................... 12
+2. Familiarization Work & Experiences ............................................................................... 12
+2.1. Initial Familiarization & Support Systems ............................................................... 12
+2.1.1. Orientation and Site Introduction ..................................................................... 13
+2.1.2. Exposure to Internal Systems ........................................................................... 13
+2.1.2.1. Health, Safety, and Environment (HSE) .................................................. 13
+2.1.2.2. Logistics and Administration ................................................................... 14
+2.1.2.3. Laboratory Equipment Calibration ........................................................... 15
+2.1.3. Familiarization with Field Testing Procedures ................................................ 15
+2.2. Technical Work and Hands-on Training .................................................................. 16
+2.2.1. Soil Investigations and Testing ........................................................................ 17
+2.2.2. Material Management and Sourcing ................................................................ 18
+2.2.3. Asphalt and Concrete Mix Design ................................................................... 19
+2.2.4. Quality Control and Site Compaction Testing ................................................. 20
+2.2.5. Bitumen and Aggregate Testing ....................................................................... 21
+2.2.6. Daily Engineering Routines ............................................................................. 22
+2.3. Soft Skills, Documentation & SWOT Analysis ....................................................... 22
+
+=== PAGE 6 ===
+2.3.1. Communication and Collaboration .................................................................. 23
+2.3.2. Use of Digital Tools and Documentation ......................................................... 23
+2.3.3. Self SWOT Analysis ........................................................................................ 24
+2.3.4. Organizational SWOT Analysis ....................................................................... 25
+3. Conclusion ........................................................................................................................ 26
+3.1. Reflection on Internship Experience ........................................................................ 26
+3.2. Areas for Improvement in the Internship Process .................................................... 26
+3.3. Self-Assessment and Growth.................................................................................... 27
+4. References ........................................................................................................................ 28
+
+=== PAGE 7 ===
+Table of Figures
+Figure 1 : Company Logo ______________________________________________________________________ 8
+Figure 2 : Head office of CEC ___________________________________________________________________ 8
+Figure 3 : Organizational Structure of CEC (Pvt) Ltd _________________________________________________ 9
+Figure 4 : Laboratory equipment calibrating _____________________________________________________ 10
+Figure 5 : Laboratory Equipment Used for Material Testing at CEC ___________________________________ 10
+Figure 6 : Road Rehabilitation Work - 1 _________________________________________________________ 11
+Figure 7 : Road Rehabilitation Work - 2 _________________________________________________________ 11
+Figure 8 : Road Rehabilitation Work - 3 _________________________________________________________ 11
+Figure 9 : Safety Measures Implemented at Site - 1 ________________________________________________ 12
+Figure 10 : Safety Measures Implemented at Site - 2 _______________________________________________ 12
+Figure 11 : Morning Safety Briefing at the Site - 1 _________________________________________________ 14
+Figure 12 : Morning Safety Briefing at the Site - 2 _________________________________________________ 14
+Figure 13 : Technician Demonstrating Equipment- 2 _______________________________________________ 15
+Figure 14 : Technician Demonstrating Equipment - 1 ______________________________________________ 15
+Figure 15 : Performing the DCP Test ____________________________________________________________ 16
+Figure 16 : Preparing Soil Samples for Standard Proctor Test ________________________________________ 17
+Figure 17 : Stockpile Verification and Sampling at Site - 1 ___________________________________________ 18
+Figure 18 : Stockpile Verification and Sampling at Site - 2 ___________________________________________ 19
+Figure 19 : Performing Marshall Stability Test for Asphalt Mix Evaluation ______________________________ 20
+Figure 20 : Field Density Test Using Sand Cone Method ____________________________________________ 21
+Figure 21 : Measuring Penetration of Bitumen Sample at Lab _______________________________________ 22
+
+=== PAGE 8 ===
+1. Description of the Organization
+Consulting Engineering and Contractors (Pvt) Ltd, commonly known as CEC, is a leading
+construction firm in Sri Lanka specializing in infrastructure development, particularly in road
+construction. The company was established in 1997 by Eng. Ashoka Randeni, and over the
+years, it has built a strong reputation for delivering high-quality, cost-effective, and sustainable
+engineering solutions. CEC is categorized under C1 by ICTAD (Institute for Construction
+Training and Development), which signifies the highest level of registration for construction
+contractors in Sri Lanka. The company is also certified under ISO 9001 standards, highlighting
+its commitment to quality management practices.
+CEC has played a major role in national infrastructure projects, particularly those funded by
+international organizations such as the World Bank and Asian Development Bank. Its core
+services include road and highway construction, drainage and bridge works, earthworks, and
+asphalt production and paving. With a team of experienced engineers, technicians, and skilled
+workers, CEC emphasizes professionalism, adherence to engineering standards, and innovation
+in project delivery.
+Figure 1 : Company Logo
+Figure 2 : Head office of CEC
+
+=== PAGE 9 ===
+1.1.Vision and Mission
+CEC’s vision is to be a nationally recognized leader in the construction sector, delivering
+infrastructure that supports economic growth and community well-being. Its mission is to
+provide reliable, efficient, and environmentally sustainable construction services that meet or
+exceed client expectations through skilled manpower and modern technology.
+1.2.Organizational Structure
+The company operates under a structured hierarchy to ensure smooth communication and
+accountability. At the top of the structure is the Managing Director, followed by Project
+Managers, Engineers, Quantity Surveyors, Material Engineers, Site Supervisors, Technicians,
+and administrative staff.
+Figure 3 : Organizational Structure of CEC (Pvt) Ltd
+
+=== PAGE 10 ===
+Each project typically has a dedicated team that includes a Project Manager, a Site Engineer, a
+Materials Engineer, and supporting technicians and workers. This structure ensures that all
+engineering, financial, and administrative functions are efficiently managed.
+1.3.Company Facilities and Equipment
+CEC maintains its own fleet of construction equipment, testing laboratories, and asphalt plants.
+The company’s material laboratory is equipped to conduct all standard geotechnical and
+construction material tests, including soil classification, compaction tests, concrete and asphalt
+testing, and quality assurance analysis.
+These facilities play a vital role in ensuring material compliance and construction quality across
+all project phases. The ability to carry out in-house testing gives the company more control over
+quality and reduces delays associated with third-party testing.
+Figure 4 : Laboratory equipment
+Figure 5 : Laboratory Equipment Used calibrating
+for Material Testing at CEC
+1.4.Project Portfolio
+CEC has completed numerous projects across Sri Lanka. These include rural road development,
+national highways, and urban infrastructure. One of the significant ongoing projects is the
+Inclusive Connectivity & Development Project (ICDP) in Homagama, funded by the World
+Bank. Under this project, CEC was awarded four road segments (lots), with the goal of
+
+=== PAGE 11 ===
+upgrading and rehabilitating existing rural roads to improve accessibility, safety, and economic
+connectivity.
+I was assigned to Lot 1,2,3,4 – COL/All. The scope of this lot included subgrade preparation,
+embankment construction, sub-base and base layer placement, asphalt paving, and related
+quality control testing.
+Figure 6 : Road Rehabilitation Work - 1
+Figure 7 : Road Rehabilitation Work - 2
+Figure 8 : Road Rehabilitation Work - 3
+
+=== PAGE 12 ===
+1.5.Health, Safety, and Environmental (HSE) Policy
+CEC has a strong HSE policy aimed at ensuring worker safety, environmental protection, and
+compliance with national regulations. The company regularly conducts safety training for its
+workers and ensures the use of personal protective equipment (PPE) at all job sites.
+Environmental controls such as proper disposal of waste materials, erosion control, and dust
+suppression are actively implemented.
+The company’s HSE culture also encourages reporting of incidents and near misses to improve
+workplace practices and reduce risks.
+Figure 9 : Safety Measures Implemented at Site - 1
+Figure 10 : Safety Measures Implemented at Site - 2
+2. Familiarization Work & Experiences
+2.1.Initial Familiarization & Support Systems
+At the beginning of the internship, I was introduced to the operational environment of
+Consulting Engineering and Contractors (Pvt) Ltd (CEC) and the Sri Lanka Road
+Development Authority (RDA)-funded rural road construction project in Homagama. This
+
+=== PAGE 13 ===
+initial stage helped me understand the project framework, team structure, site practices, and the
+core systems that support construction operations.
+2.1.1. Orientation and Site Introduction
+During the first week, I participated in the orientation process at the site office, where I was
+introduced to the main project team, including the Site Engineer, Material Engineer, Quantity
+Surveyor, and Lab Technicians. I was also briefed on the project scope, which involved the
+rehabilitation of approximately 4.7 kilometers of rural road under Lot 2 – COL/2.
+I was provided with access to technical documents, including:
+• ICTAD Specifications (SCA/4, SCA/5, and SCA/8)
+• Project-specific requirements from RDA and the supervising consultant
+• Method statements for testing and construction processes
+• Drawings and contract documents
+These materials helped me gain an understanding of engineering practices, site safety
+requirements, and the workflow expected by both the contractor and the client.
+2.1.2. Exposure to Internal Systems
+2.1.2.1.Health, Safety, and Environment (HSE)
+Safety was a key priority from the first day. I was trained on the importance of wearing
+Personal Protective Equipment (PPE), attending safety briefings, and reporting unsafe
+conditions or near misses. Toolbox meetings were held daily before fieldwork. I also observed
+practices such as:
+• Clear site demarcation using safety signage
+• Dust suppression during excavation
+
+=== PAGE 14 ===
+• Safe material handling and storage
+These practices follow standard RDA and ICTAD guidelines and aim to reduce risks on-site.
+Figure 11 : Morning Safety Briefing at the Site - 1
+Figure 12 : Morning Safety Briefing at the Site - 2
+2.1.2.2.Logistics and Administration
+I gained exposure to the logistics processes such as:
+• Managing materials delivered to the site
+• Preparing gate passes and material inspection forms
+• Organizing soil bags and sample tracking sheets for lab testing
+The administration team also kept detailed records of Daily Progress Reports (DPRs),
+Request for Inspections (RFIs), and contractor-client communication. I reviewed these
+documents to understand the flow of approval and inspection.
+
+=== PAGE 15 ===
+2.1.2.3.Laboratory Equipment Calibration
+Before conducting any material testing, it was critical to ensure that lab equipment was properly
+calibrated. Under the supervision of the Material Engineer, I learned how to:
+• Calibrate balance scales, ovens, and compaction molds
+• Maintain records of calibration logs
+• Check condition of sieves and molds regularly
+Proper calibration ensures accuracy and consistency in lab results, which is essential for quality
+assurance in road construction.
+Figure 13 : Technician
+Figure 14 : Technician
+Demonstrating Equipment- 2
+Demonstrating Equipment - 1
+2.1.3. Familiarization with Field Testing Procedures
+In this phase, I was introduced to basic site investigation tests, particularly:
+• Dynamic Cone Penetration (DCP) Test
+• Test pit excavation and soil bag collection
+
+=== PAGE 16 ===
+The DCP test helped assess subgrade strength. I learned how to:
+• Record blows and penetration depths
+• Calculate CBR values from DCP index
+• Prepare manual summary sheets
+Later, I assisted in developing an automated Excel workbook for DCP data entry and report
+generation, which increased efficiency and accuracy in field documentation.
+Figure 15 : Performing the DCP Test
+This familiarization phase was critical in building a strong foundation for the rest of my
+training. It helped me understand the systems, documentation, safety culture, and testing
+methods that support successful project delivery in a real construction environment. It also gave
+me the confidence to take on more technical responsibilities in the following stages of the
+internship.
+2.2.Technical Work and Hands-on Training
+This part of the internship covered the core technical and practical activities involved in road
+construction and quality assurance. During this period, I had the opportunity to work closely
+with the Material Engineer, Site Engineers, and Laboratory Technicians to perform various
+tests, manage materials, and ensure that construction followed the required engineering
+standards. The experience was mainly focused on field investigations, laboratory testing, mix
+design verification, and day-to-day construction monitoring.
+
+=== PAGE 17 ===
+2.2.1. Soil Investigations and Testing
+The foundation of any road construction project lies in the quality of the soil. I actively
+participated in subgrade evaluations and soil testing, particularly:
+• Dynamic Cone Penetration (DCP) tests for estimating in-situ CBR values
+• Proctor Compaction Test to determine OMC and MDD
+• Sieve Analysis and Plasticity Index (PI) tests to classify soils (AASHTO and USCS)
+• California Bearing Ratio (CBR) test in both soaked and unsoaked conditions
+I learned to prepare soil samples, conduct field sampling procedures, and assist in the
+preparation of laboratory reports under the guidance of the lab technician. These activities
+helped me understand the correlation between soil properties and pavement performance.
+Figure 16 : Preparing Soil Samples for Standard Proctor
+Test
+
+=== PAGE 18 ===
+2.2.2. Material Management and Sourcing
+I was also exposed to the selection and approval process for road construction materials such
+as:
+• ABC (Aggregate Base Course)
+• Quarry dust and crusher-run
+• River sand and metal aggregates
+• Asphaltic materials
+Key activities included:
+• Verification of material stockpiles
+• Monitoring moisture content at stock yards
+• Assisting in sample collection for approvals
+These tasks helped me appreciate the importance of material compliance with ICTAD standards
+and the logistics behind sourcing and delivery.
+Figure 17 : Stockpile Verification and Sampling at Site - 1
+
+=== PAGE 19 ===
+Figure 18 : Stockpile Verification and Sampling at Site - 2
+2.2.3. Asphalt and Concrete Mix Design
+One of the most technically enriching parts of my training was learning about asphalt and
+concrete mix designs. I worked with the Material Engineer and lab team to:
+• Prepare asphalt mix specimens using the Marshall Method
+• Conduct Marshall Stability and Flow tests
+• Calculate VMA, VFA, and air void content
+• Participate in trial mix production and plant inspections
+In terms of concrete, I was involved in:
+• Slump testing
+• Casting and curing of cube samples
+• Compression strength testing after 7 and 28 days
+These tests were critical for verifying mix consistency and performance.
+
+=== PAGE 20 ===
+Figure 19 : Performing Marshall Stability Test for Asphalt Mix Evaluation
+2.2.4. Quality Control and Site Compaction Testing
+On-site quality assurance was a daily routine. I was tasked with:
+• Monitoring sub-base and base layer compaction
+• Performing Field Density Tests (Sand Cone Method)
+• Verifying compaction against MDD values
+• Supporting engineers in backfilling inspections and RFI preparation
+I also learned how to document test results and integrate them into QA reports for consultant
+review.
+
+=== PAGE 21 ===
+Figure 20 : Field Density Test Using Sand Cone Method
+2.2.5. Bitumen and Aggregate Testing
+In the lab, I supported the testing of key pavement materials. For bitumen, tests included:
+• Penetration and softening point
+• Specific gravity
+• Ductility and flash point
+For aggregates, I helped conduct:
+• Aggregate Impact Value (AIV)
+• Flakiness and Elongation Index (FI & EI)
+• Aggregate Crushing Value (ACV)
+This hands-on training gave me a strong understanding of the role of material characteristics in
+durability and performance.
+
+=== PAGE 22 ===
+Figure 21 : Measuring Penetration of Bitumen Sample at Lab
+2.2.6. Daily Engineering Routines
+My daily duties typically included:
+• Assisting with sample preparation and field inspections
+• Preparing and organizing lab result sheets
+• Supporting the QA/QC team in data entry and reporting
+• Attending site progress meetings and safety briefings
+These experiences not only strengthened my technical skills but also improved my work
+discipline, time management, and ability to work within multidisciplinary teams.
+2.3.Soft Skills, Documentation & SWOT Analysis
+Throughout the internship, I had the opportunity not only to develop technical capabilities but
+also to enhance professional soft skills and participate in documentation and quality assurance
+practices, which are vital in any engineering environment.
+
+=== PAGE 23 ===
+2.3.1. Communication and Collaboration
+Working on a multidisciplinary team consisting of engineers, supervisors, technicians, and
+laborers helped me develop better communication and teamwork skills. I regularly participated
+in:
+• Site coordination meetings and toolbox talks
+• Discussions with the Materials Engineer and Consultant's representative
+• Clarification meetings regarding RFI submissions and approvals
+Through these interactions, I improved my ability to convey technical information clearly and
+learned how to adjust communication styles based on the audience (e.g., supervisors vs.
+technicians).
+Additionally, I learned the importance of active listening, respecting diverse opinions, and
+providing constructive feedback, especially when coordinating daily testing plans or site work
+priorities.
+2.3.2. Use of Digital Tools and Documentation
+As part of quality assurance and engineering documentation, I was given tasks that involved
+using modern tools and systems such as:
+• Microsoft Excel: I developed and used automated spreadsheets to streamline test data
+entry (e.g., DCP results, compaction test summaries, moisture content logs). Functions
+such as VLOOKUP, conditional formatting, and data validation were useful.
+• Word & PDF Editors: Assisted in preparing formal test reports, method statements,
+and DPRs.
+• Digital Camera/Phone Tools: Helped document site progress and material stockpiles
+with GPS-tagged photos.
+
+=== PAGE 24 ===
+I also gained exposure to the Request for Inspection (RFI) process, understanding the typical
+workflow:
+1. Preparing the RFI with reference to contract items and specifications
+2. Coordinating the consultant's inspection
+3. Logging inspection outcomes and approvals/rejections
+This experience gave me valuable insight into the flow of quality control and compliance within
+large-scale construction projects.
+2.3.3. Self SWOT Analysis
+Performing a SWOT analysis helped me reflect on my personal and professional development
+during the internship.
+Strengths:
+• Strong grasp of material testing procedures
+• Fast learner with Excel/data handling
+• Willingness to work under field/lab conditions
+• Positive attitude and discipline
+Weaknesses:
+• Initial lack of field confidence
+• Limited knowledge of construction workflow
+• Hesitation in decision-making during early weeks
+
+=== PAGE 25 ===
+Opportunities:
+• Exposure to real-world infrastructure projects
+• Mentorship from experienced engineers
+• Improving both technical and interpersonal skills
+Threats:
+• High-pressure environment with tight deadlines
+• Possibility of making mistakes due to inexperience
+• Need for continuous self-learning to stay relevant
+This exercise helped me recognize areas for growth while reinforcing my strengths.
+2.3.4. Organizational SWOT Analysis
+In addition to analyzing myself, I also evaluated the organization based on my observations.
+Strengths:
+• Well-established reputation in road construction
+• Skilled workforce and dedicated materials lab
+• Strong adherence to quality control and safety standards
+Weaknesses:
+• Occasional delays in procurement and approvals
+• Over-dependence on manual documentation
+
+=== PAGE 26 ===
+Opportunities:
+• Adoption of digital project management systems
+• Expansion into urban and high-speed road projects
+Threats:
+• Regulatory changes or funding delays from clients
+• Rising material costs and workforce availability
+This SWOT analysis offered a better understanding of CEC's operational landscape and
+strategic challenges.
+3. Conclusion
+3.1.Reflection on Internship Experience
+The internship at Consulting Engineering and Contractors (Pvt) Ltd (CEC) offered me a
+transformative opportunity to apply my academic knowledge to real-world engineering
+practices. Over the 24-week training period, I was exposed to a wide spectrum of technical,
+managerial, and personal development experiences. From soil testing and asphalt design to
+report generation and stakeholder communication, each activity broadened my understanding
+of how a construction project functions from concept to execution.
+Working in both field and laboratory settings gave me firsthand experience in quality control
+procedures and the importance of adhering to standards such as ICTAD and RDA guidelines. I
+developed a clearer perspective on how engineering decisions impact safety, efficiency, and
+cost. Moreover, witnessing the day-to-day interactions among engineers, technicians, and
+workers enhanced my soft skills, especially in communication and teamwork.
+3.2.Areas for Improvement in the Internship Process
+While the internship was largely successful, there are areas that could be improved to enhance
+the learning outcomes for future trainees:
+
+=== PAGE 27 ===
+• Structured Orientation: A more formalized orientation schedule would help trainees
+adapt more quickly. Though I received adequate initial guidance, a structured training
+manual or daily plan would make the transition smoother.
+• Mentorship Assignment: Assigning each intern a dedicated mentor (e.g., Site Engineer
+or Material Engineer) could streamline knowledge transfer and help resolve doubts
+more efficiently.
+• Rotational Exposure: Enabling interns to rotate through different departments such as
+surveying, estimation, and procurement would offer a more holistic understanding of
+the project cycle.
+• Access to Digital Tools: Increased exposure to construction management software such
+as AutoCAD Civil 3D, Primavera, or project management tools would provide valuable
+industry skills.
+3.3.Self-Assessment and Growth
+Personally, I experienced significant growth during this internship. I became more confident in
+performing technical tests, managing documentation, and interacting with professionals at
+different levels. Initially hesitant in decision-making, I gradually took more responsibility and
+contributed to quality assessments and troubleshooting.
+The hands-on training refined my practical engineering judgment and strengthened my interest
+in infrastructure development. I now have a clearer career direction and am better prepared to
+handle the responsibilities of a graduate engineer in the construction sector.
+This internship has not only enriched my academic learning but has also shaped my professional
+mindset, emphasizing discipline, safety, collaboration, and continuous learning. I am grateful
+for this experience and look forward to applying these lessons in my future career.
+
+=== PAGE 28 ===
+4. References
+[1] Consulting Engineers & Contractors (Pvt) Ltd. CEC: Consulting Engineers and
+Contractors - Official Website. [Online]. Available: https://www.cec.lk/. [Accessed: Jul. 20,
+2025].

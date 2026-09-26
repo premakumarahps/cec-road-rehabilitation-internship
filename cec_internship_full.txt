@@ -1,0 +1,4690 @@
+CEC Internship Report - Full Text Extraction
+Total Pages: 261
+Image-only pages: [1, 4, 6, 13, 21, 30, 35, 36, 41, 55, 70, 71, 77, 88, 104, 109, 115, 123, 131, 134, 138, 140, 145, 146, 149, 153, 158, 159, 170, 186, 191, 196, 198, 203, 204, 205, 208, 257]
+
+
+=== PAGE 1 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 2 ===
+Program Outcomes (POs):
+● PO1 – Engineering knowledge
+Apply knowledge of mathematics, natural science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+● PO2 – Problem analysis
+Identify, formulate, research literature and analyze complex engineering problems
+reaching substantiated conclusions using first principles of mathematics, natural
+sciences and engineering sciences.
+● PO3 – Design/development of solutions
+Design solutions for complex engineering problems and design systems,
+components or processes that meet specified needs with appropriate consideration
+for public health and safety, cultural, societal and environmental considerations.
+● PO4 – Investigation
+Conduct investigations of complex problems using research-based knowledge and
+research methods including design of experiments, analysis and interpretation of
+data, and synthesis of information to provide valid conclusions.
+● PO5 – Modern tool usage
+Create, select and apply appropriate techniques, resources and modern engineering
+and IT tools, including prediction and modelling, to complex engineering problems,
+with an understanding of the limitations.
+● PO6 – The engineer and society
+Apply reasoning informed by contextual knowledge to assess societal, health, safety,
+legal and cultural issues and the consequent responsibilities relevant to professional
+engineering practice and solutions to complex engineering problems.
+● PO7 – Environment and sustainability
+Understand and evaluate the sustainability and impact of professional engineering
+work in the solution of complex engineering problems in societal and environmental
+contexts.
+● PO8 – Ethics
+Apply ethical principles and commit to professional ethics and responsibilities and
+norms of engineering practice.
+● PO9 – Individual and teamwork
+Function effectively as an individual, and as a member or leader in diverse teams
+and in multi-disciplinary settings.
+● PO10 – Communication
+Communicate effectively on complex engineering activities with the engineering
+
+=== PAGE 3 ===
+community and society at large, such as being able to comprehend and write
+effective reports and design documentation, make effective presentations and give
+and receive clear instructions.
+● PO11 – Project management and finance
+Demonstrate knowledge and understanding of engineering management principles
+and economic decision-making and apply these to one’s own work as a member and
+leader in a team, to manage projects and in multi-disciplinary environments.
+● PO12 – Life-long learning
+Recognize the need for, and have the preparation and ability to engage in,
+independent and life-long learning in the broadest context of technological change.
+
+=== PAGE 4 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 5 ===
+Learning Outcomes (LOs):
+1. Relate the fundamentals of materials science and technology behind industrial
+processes.
+2. Determine the ability to ensure suitability and enhancement of industrial
+management.
+3. Identify good Health, Safety and Environment (HSE) practices and HSE
+management systems.
+4. Describe various managerial practices within the organization.
+
+=== PAGE 6 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 7 ===
+Internship Learning Summary
+Internship Role: Trainee Material Engineer
+Company: Consulting Engineering and Contractors (Pvt) Ltd
+Employer: Sri Lanka Road Development Authority (RDA)
+Project: Road Construction Project (awarded in four lots through bidding)
+Table of Contents
+1st six week
+Week1✅
+1. Introduction
+○ About the Company
+Week2✅
+○ About the Project
+Week3✅
+2. Reference Standards
+○ ICTAD Specifications
+○ Project-Specific Requirements
+○ Method statements
+3. Lab equipment Calibration
+4. Initial Site Testing & Investigation
+○ Road Investigation
+■ DCP Test & DCP Test Summary
+Week4
+
+=== PAGE 8 ===
+■ Identifying Managerial Issues In Preparing DCP Test Reports &
+Summary
+■ Develop Automated DCP Report generate workbook
+■ Soil Sample Collection
+Week5
+1. Proctor Compaction Test ✅
+Week6
+2. Sieve Analysis (SA) ✅
+2nd six week
+Week7
+3. California Bearing Ratio (CBR) 🟡
+Week8
+4. Plasticity Index (PI) ✅
+Week9
+5. Material Sourcing
+○ Borrow Pit Investigation
+■ Site Selection & Testing or Select Supplier & Testing
+■ Stockpile Management
+1. Material Types
+a. ABC
+b. Concrete Aggregate
+i. Course
+ii. Fine
+c. SB
+i. Type I
+ii. Type II
+d. EMB
+i. Type I
+ii. Type II
+
+=== PAGE 9 ===
+e. Shoulder Material
+f. River-sand, Quarry dust, M-sand (based on project
+specification and project happening area)
+Week10
+2. Quality Testing
+For soil, ABC and Concrete agg. (course)
+a. SA
+b. PI
+c. Proctor
+d. CBR
+Week11
+For ABC
+e. FI ✅
+f. AIV ✅
+g. LAAV ✅
+Week12
+h. TFV
+i. ACV
+For Concrete Aggregate
+j. Specific Gravity
+3rd six week
+Week13
+6. Pavement Design ✅
+Week14
+7. Road Construction Activities
+○ Daily Progress Report (DPR)
+
+=== PAGE 10 ===
+■ Issued by Site Engineer
+○ Request for Inspection (RFI) Process
+○ Submission to Resident Engineer (RE) - DPR + RFI
+■ Consulting Site Engineer Inspect And Hand Over RFI With Signature
+■ RFI Management & QA Documentation
+■ Automation With Excel WorkBook - RFI Management & QA
+Documentation
+Week15
+8. Compaction Testing ✅
+○ Field Density Test (FDT)
+■ Subgrade Preparation
+■ Edgewidening subgrade preparation
+■ Subgrade prepared Area Fill with Material
+a. With Embankment
+b. With Subase
+c. With Shoulder Material
+■ ABC Laying
+○ Compaction Thickness And Limitation
+Week16
+9. Concrete Works ✅
+○ Properties of Concrete, Important Parameters and How Can Change Them
+○ Slump Test
+Week17
+○ Concrete Mix Method ✅
+■ HSR
+■ Concrete Mix Design
+■ Nominal Mix
+■ Ready Mix
+
+=== PAGE 11 ===
+Week18
+○ Concrete Cube Cast In Site ✅
+○ Concrete Cube Test
+4th six week
+Week19
+1. Bitumen Testing
+○ Select Supplier their penetration report
+○ Rechecking Penetration in Laboratory
+2. Bitumen Laying
+○ Bitumen Tray Test
+○ Application of Blotting Material
+Week20
+3. Asphalt Mix Design & Testing
+○ Sending Mix Design to Asphalt Plant
+○ Plant Batching Process
+○ Plant Trial and Sampling
+■ Extraction Test
+Week21
+■ Sieve Analysis
+Week 22
+■ Marshall Stability Test
+Week 23
+
+=== PAGE 12 ===
+4. Asphalt Laying
+○ Asphalt Laying Trial
+■ Pre-laying Sample Check: Extraction, Sieve Analysis, Marshall Test
+○ Core Cutting for Asphalt Quality Verification
+Week24
+5. Make research on how to reduce asphalt thickness
+
+=== PAGE 13 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 14 ===
+Learning prompt version
+
+=== PAGE 15 ===
+Internship Learning Summary
+Internship Role: Trainee Material Engineer
+Company: Consulting Engineering and Contractors (Pvt) Ltd. (Contractor)
+Employer: Sri Lanka Road Development Authority (RDA)
+Consultant: Euro group for engineering consultancy
+Project: Road Construction Project (4 LOTs)
+--------------------------------------------------------------------------------------------
+1st six week
+--------------------------------------------------------------------------------------------
+Week1
+-About the Company
+Week2
+-About the Project
+Week3
+-Reference Standards
+--ICTAD Specifications
+--Project-Specific Requirements
+--Method statements
+-Lab equipment Calibration
+-Initial Site Testing & Investigation
+--Road Investigation
+---DCP Test & DCP Test Summary
+
+=== PAGE 16 ===
+Week4
+---Identifying Managerial Issues In Preparing DCP Test Reports & Summary
+---Develop Automated DCP Report generate workbook
+---Soil Sample Collection
+Week5
+----Proctor Compaction Test
+Week6
+----Sieve Analysis (SA)
+--------------------------------------------------------------------------------------------
+2nd six week
+-------------------------------------------------------------------------------------------
+Week7
+----California Bearing Ratio (CBR)
+Week8
+----Plasticity Index (PI)
+Week9
+-Material Sourcing
+--Borrow Pit Investigation
+---Site Selection & Testing or Select Supplier & Testing
+---Stockpile Management
+----Material Types
+-----ABC
+-----Concrete Aggregate
+------Course
+
+=== PAGE 17 ===
+------Fine
+-----SB
+------Type I
+------Type II
+-----EMB
+------Type I
+------Type II
+-----Shoulder Material
+-----River-sand, Quarry dust, M-sand (based on project specification and project happening
+area)
+Week10
+----Quality Testing
+For soil, ABC and Concrete agg. (course)
+-----SA
+-----PI
+-----Proctor
+-----CBR
+Week11
+For ABC
+-----FI
+-----AIV
+-----LAAV
+Week12
+-----TFV
+
+=== PAGE 18 ===
+-----ACV
+For Concrete Aggregate
+-----Specific Gravity
+--------------------------------------------------------------------------------------------
+3rd six week
+--------------------------------------------------------------------------------------------
+Week13
+-Pavement Design
+Week14
+-Road Construction Activities
+--Daily Progress Report (DPR)
+---Issued by Site Engineer
+--Request for Inspection (RFI) Process
+--Submission to Resident Engineer (RE) - DPR + RFI
+---Consulting Site Engineer Inspect And Hand Over RFI With Signature
+---RFI Management & QA Documentation
+---Automation With Excel WorkBook - RFI Management & QA Documentation
+Week15
+-Compaction Testing
+--Field Density Test (FDT)
+---Subgrade Preparation
+---Edgewidening subgrade preparation
+---Subgrade prepared Area Fill with Material
+----With Embankment
+
+=== PAGE 19 ===
+----With Subase
+----With Shoulder Material
+---ABC Laying
+--Compaction Thickness And Limitation
+Week16
+-Concrete Works
+--Properties of Concrete, Important Parameters and How Can Change Them
+--Slump Test
+Week17
+--Concrete Mix Method
+---HSR
+---Concrete Mix Design
+---Nominal Mix
+---Ready Mix
+Week18
+--Concrete Cube Cast In Site
+--Concrete Cube Test
+--------------------------------------------------------------------------------------------
+4th six week
+--------------------------------------------------------------------------------------------
+Week19
+-Bitumen Testing
+--Select Supplier their penetration report
+--Rechecking Penetration in Laboratory
+
+=== PAGE 20 ===
+-Bitumen Laying
+--Bitumen Tray Test
+--Application of Blotting Material
+Week20
+-Asphalt Mix Design & Testing
+--Sending Mix Design to Asphalt Plant
+--Plant Batching Process
+--Plant Trial and Sampling
+---Extraction Test
+Week21
+---Sieve Analysis
+Week 22
+---Marshall Stability Test
+Week 23
+-Asphalt Laying
+--Asphalt Laying Trial
+---Pre-laying Sample Check: Extraction, Sieve Analysis, Marshall Test
+--Core Cutting for Asphalt Quality Verification
+Week24
+-Make research on how to reduce asphalt thickness
+according to that we can break main learning outcomes which i got actually.
+
+=== PAGE 21 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 22 ===
+📌
+About The Project
+📛 Project Name:
+Inclusive Connectivity & Development Project (ICDP)
+🎯 Purpose:
+The project aims to rehabilitate and improve the rural road network in the
+Homagama area, which will enhance road infrastructure, connectivity, and overall
+socio-economic conditions in the region. The project also includes the maintenance
+of these roads to ensure their sustainability.
+📥 How the Project Was Received:
+The project is funded by the World Bank and received by the Road Development
+Authority (RDA) of Sri Lanka. The consultant for the project is Euro Group for
+Engineering Consultants, and the contractor is Consulting Engineers & Contractors
+(Pvt) Ltd. The contractor company was awarded a total of 4 lots from 5, each
+covering specific road sections within the Homagama Divisional Secretariat area.
+These lots cover various roads throughout the Western Province of Sri Lanka.
+🛣
+Procurement Process for Rural Road Rehabilitation
+in Homagama
+1 ⃣ Invitation for Bids (IFB) or Request for Proposals (RFP)
+● RDA (Road Development Authority) issues an Invitation for Bids (IFB) or
+Request for Proposals (RFP).
+● This is a public announcement that details the project scope, specifications,
+deadlines, and eligibility criteria.
+● The project is funded by the World Bank, so the bidding process must comply
+with international standards and procedures set by the World Bank.
+2 ⃣ Bid Submission
+● Interested contractors or companies prepare their proposals or bids.
+The bid usually includes:
+○ Technical documents (project plan, approach, qualifications, etc.)
+
+=== PAGE 23 ===
+○ Financial documents (cost breakdown, schedule, etc.)
+● These bids are submitted within the deadline specified in the IFB/RFP.
+3 ⃣ Bid Evaluation
+● After all bids are submitted, the RDA evaluates them based on predefined
+criteria, including:
+○ Technical Competence (experience, expertise, etc.)
+○ Financial Proposal (cost-effectiveness, budget alignment)
+○ Past Performance (track record of similar projects)
+○ Compliance with World Bank guidelines (for international funding)
+4 ⃣ Awarding of Contract
+● After evaluation, the RDA selects the best-qualified bidder and awards the
+contract.
+● In this case, the contractor selected for the Rehabilitation/Improvement and
+Maintenance of Rural Roads project is Consulting Engineers & Contractors
+(Pvt) Ltd.
+● The World Bank’s approval is also required for the final selection to ensure
+transparency and compliance with international standards.
+5 ⃣ Contract Signing
+● After the bid is awarded, the RDA and the selected contractor sign a formal
+contract.
+● The contract outlines terms, scope, deliverables, timeline, and payment
+structure — ensuring both parties understand their roles and responsibilities.
+6 ⃣ Implementation
+● The contractor begins work according to the project’s requirements and
+timeline.
+
+=== PAGE 24 ===
+● The consultant, Euro Group For Engineering Consultants, oversees the
+project — ensuring it stays on track, meets quality standards, and remains
+within budget.
+7 ⃣ Supervision and Monitoring
+● Regular monitoring and progress reviews are conducted by the RDA,
+consultant, and contractor.
+● World Bank auditors may also participate in monitoring the financials and
+compliance with project guidelines.
+📄
+Contract Document in Road Projects
+Contract documents are the legal foundation of any construction project. In road projects,
+especially those funded by international agencies like the World Bank, these documents are
+essential to ensure transparency, accountability, and proper execution in line with ICTAD
+guidelines.
+They are signed between the Road Development Authority (RDA) and the selected
+contractor — here, Consulting Engineers & Contractors (Pvt) Ltd — under the Inclusive
+Connectivity & Development Project (ICDP).
+🧾 Key Components of Contract Documents
+📘 1. Conditions of Contract (SCA/4)
+Governs the legal obligations, rights, and responsibilities of all parties involved — including
+the client (RDA), contractor, and consultant. It ensures all legal terms are clearly defined.
+📐 2. Drawings and Specifications
+Provide detailed engineering designs, construction methods, material standards, and
+execution procedures to be followed during the project.
+📊 3. Bill of Quantities (BOQ)
+
+=== PAGE 25 ===
+Lists all work items, estimated quantities, unit rates, and total costs. The BOQ is used for
+tendering, budgeting, and progress payments.
+📆 4. Schedules (e.g., SCA/8)
+Include time schedules, rate schedules for labor and materials, and other predefined
+operational timelines for various stages of work.
+🎯 Purpose and Importance
+● Define scope, timeline, and cost of the project with precision.
+● Prevent disputes by ensuring all terms and expectations are clearly outlined and
+mutually agreed upon.
+● Ensure alignment with ICTAD standards and World Bank guidelines on quality,
+payments, and penalties.
+● Support project monitoring by consultants (e.g., Euro Group for Engineering
+Consultants) and enable effective implementation.
+📌 Additional Provisions in the Signed Contract
+📅 Project Timeline
+Specifies start and end dates, major milestones, and delay penalties.
+💵 Payment Terms
+Outlines interim payments, retention money, final payments, and performance securities.
+🛠 Variation & Change Orders
+Describes procedures for managing changes to work scope, design, or unforeseen site
+conditions.
+⚖ Dispute Resolution
+Provides mechanisms such as arbitration or mediation in case of disagreements.
+🦺 Health, Safety, and Environmental (HSE) Guidelines
+Ensures compliance with safety protocols and environmental protection standards.
+
+=== PAGE 26 ===
+🌍 Donor Compliance
+As a World Bank-funded project, the contract must adhere to international procurement,
+transparency, and reporting standards.
+🏢
+Project Office Staff
+1 ⃣ Managing Director
+The highest authority responsible for overall project decision-making and company
+ownership in our case.
+
+=== PAGE 27 ===
+2 ⃣ General Manager
+Supervises all departments, ensuring projects run smoothly and align with company
+objectives.
+3 ⃣ Project Manager (PM)
+Oversees the entire project from planning to completion. Manages resources, budget, and
+timeline. Coordinates with clients, stakeholders, and regulatory authorities.
+4 ⃣ Site Engineering Team
+● Site Engineer: Supervises construction activities, ensures technical specifications
+are met, and manages on-site execution.
+○ TO (Technical Officer): Assists the site engineer in technical matters and
+monitors work quality.
+○ Supervisor: Directly manages site labor and daily work execution.
+■ Skilled Labour: Performs specialized construction tasks (e.g.,
+masonry, welding, equipment operation).
+■ Unskilled Labour: Assists with general construction activities such as
+material handling and cleaning.
+■ Trainee: Gains practical experience in site engineering.
+5 ⃣ Quantity Surveying Team
+● QS (Quantity Surveyor): Manages project costs, prepares estimates, and ensures
+financial efficiency. Also prepares the Interim Payment Application (IPA) monthly.
+○ AQS (Assistant Quantity Surveyor): Supports the QS in cost analysis and
+documentation.
+6 ⃣ Drafting & Design Team
+
+=== PAGE 28 ===
+● Draftsman: Creates technical drawings and site plans; assists engineers with design
+modifications.
+○ Trainee: Learns surveying and drafting skills under supervision.
+7 ⃣ Material Engineering & Quality Team
+● ME (Material Engineer) (also called Quality Assurance Manager – QAM in some
+projects): Ensures proper material testing and quality control. Handles mix designs
+(concrete/asphalt) and ensures compliance with standards.
+○ Trainee: Receives training in material engineering and assists in report
+preparation.
+○ MT (Material Technician): Conducts tests and manages lab equipment under
+the guidance of the ME.
+○ AMT (Assistant Material Technician): Supports MT in sample collection,
+testing, and documentation.
+○ Lab Helper: Assists with basic lab tasks and sample preparation.
+8 ⃣ Environmental & Safety Team
+● ESO (Environmental & Safety Officer): Oversees environmental management and
+ensures workplace safety compliance.
+○ SO (Safety Officer): Monitors on-site safety practices and enforces safety
+measures.
+9 ⃣ Survey Team
+● Surveyor: Conducts land and roadway surveys to determine elevation, alignment,
+and boundaries; provides data for the drafting team.
+○ Surveyor Helper: Assists the surveyor with data collection and
+documentation.
+
+=== PAGE 29 ===
+🔟 Human Resources
+● HR Officer: Manages recruitment, payroll, employee welfare, and labor law
+compliance. Also handles conflict resolution.
+1 ⃣1 ⃣ Finance & Administration
+● Accountant & Admin Officer: Handles budgeting, financial transactions, record
+keeping, and general office administration.
+1 ⃣2 ⃣ Quality Assurance
+● QAI (Quality Assurance Inspector): Ensures all site work complies with relevant
+standards and limitations. Manages RFI (Request for Inspection) and prepares QA
+documents alongside IPA.
+1 ⃣3 ⃣ Store Management
+● SK (Storekeeper): Manages inventory, tools, and materials. Maintains accurate
+stock records and ensures proper storage practices.
+○ ASK (Assistant Storekeeper): Supports storekeeping duties and helps with
+documentation.
+
+=== PAGE 30 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 31 ===
+📘
+Understanding ICTAD Specifications and Their Role in
+Material Testing
+🔎 What is ICTAD?
+ICTAD (Institute for Construction Training and Development) is the national authority
+under the Ministry of Construction and Engineering Services in Sri Lanka. It issues
+mandatory technical specifications, standard bidding documents, and rate schedules used in
+public infrastructure projects, including road construction.
+🛠 Relevance of ICTAD in Road Construction Projects
+📑 1. Standard Specifications (SCA/5 & others)
+These are standard documents issued by ICTAD to guide construction projects in Sri Lanka
+● SCA/5: This contains the technical specifications for building and civil engineering
+works. It explains the required quality of materials, construction methods, testing
+procedures, and acceptance criteria.
+● SCA/4: This document outlines the conditions of contract. It includes legal terms,
+contractor responsibilities, payment conditions, and dispute resolution procedures.
+● SCA/8: This is the Schedule of Rates. It gives the standard unit rates for various
+construction activities and materials, which helps in cost estimation and billing.
+These documents define:
+● Material quality requirements (e.g., max flakiness index for aggregates)
+● Testing frequencies and acceptance criteria
+● Tolerances for compaction, layer thickness, etc.
+📦 2. Material Selection
+ICTAD specifications influence:
+● Whether River sand, Quarry dust, or M-sand can be used (based on local
+availability and test results)
+
+=== PAGE 32 ===
+● Approvals for Type I/II embankment or subbase materials based on test
+compliance
+📘 3. Frequency & Format of Testing
+● ICTAD outlines how often tests (like FDT or sieve analysis) must be conducted
+based on the volume of work or material batches
+● QA documents and lab reports must follow ICTAD-prescribed formats
+🧩
+Project-Specific Specifications vs. ICTAD
+While ICTAD sets baseline national standards, project-specific specifications (from RDA
+or the consultant) may tighten these limits depending on:
+● Funding agency requirements (e.g., World Bank)
+● Local soil conditions
+● Design pavement life
+● Environmental conditions
+For example:
+● Project specs may require a higher minimum CBR than ICTAD.
+● Specific tests like Asphalt Extraction or Bitumen Penetration might have stricter
+tolerances than the ICTAD default.
+✅
+Conclusion
+ICTAD specifications are the backbone of quality assurance in Sri Lankan infrastructure
+projects. Understanding and applying them is critical for:
+● Accurate test execution
+● Material approval
+● Compliance in QA documentation
+
+=== PAGE 33 ===
+● Preventing rework and disputes
+They serve as both technical benchmarks and legal reference points during construction
+and auditing phases.
+
+=== PAGE 34 ===
+Lab Equpment Calibrate
+
+=== PAGE 35 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 36 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 37 ===
+1. Testing Initialization
+Initially We are performing road investigation (called “site investigation") to assess the
+existing road condition before construction
+At Each Test Location:
+1. ✅ DCP Test (Dynamic Cone Penetration Test):
+○ Determines the in-situ strength of subgrade and pavement layers.
+○ Gives insight into layer thicknesses and compaction quality.
+2. ✅ Soil Sample Collection (Called “Test pit collect”)
+○ We also record the existing layers in the road while collecting samples. This
+helps to get an idea about the current existing road visually.
+
+=== PAGE 38 ===
+From now on i called collected soil sample “Soil Bag”
+Lab Testing for Each Soil Bag:
+For every Soil bag we do 4 tests in the laboratory.
+● SA – Sieve Analysis ✔
+Grading and particle distribution (SA)
+● PI – Plasticity Index (via Atterberg Limits) ✔
+Plasticity and soil behavior (PI)
+● Proctor – Compaction test (to determine OMC and MDD) ✔
+Optimum compaction conditions (Proctor)
+● CBR – California Bearing Ratio ✔
+Bearing capacity for design (CBR)
+From the laboratory, they preserve some part of the sample to see visitors or future use.
+
+=== PAGE 39 ===
+2.Dynamic Cone Penetration (DCP) Test
+The Dynamic Cone Penetration (DCP) Test is a widely used in-situ testing method in
+geotechnical and pavement engineering to assess the strength and stiffness characteristics
+of subgrade and pavement layers. It is particularly valued for its simplicity, speed, and
+cost-effectiveness in field conditions.
+In this test, a steel cone is driven into the ground by repeated drops of a standard-weight
+hammer from a fixed height. The penetration per blow, known as the DCP Index (DPI),
+provides a quantitative measure of soil resistance. This index can be empirically correlated
+to the California Bearing Ratio (CBR), which is crucial for designing pavement structures
+and evaluating subgrade quality.
+DCP testing helps engineers identify soil layer boundaries, detect under-compacted zones,
+estimate bearing capacity, and monitor compaction quality. Because it requires no borehole,
+the DCP test is ideal for rapid assessments across large project sites, particularly for road
+work, embankments, and shallow foundation investigations.
+While highly effective in granular and stiff soils, the test’s accuracy can be affected by factors
+such as rod friction, cone wear, and soil moisture content. Special considerations and
+modified correlations are needed for cohesive soils, especially clay types with low CBR
+values.
+The DCP Test is standardized under ASTM D6951, and its results play a key role in quality
+control, subgrade evaluation, and pavement design optimization—making it an
+essential tool in modern infrastructure development.
+Read the relevant note to get an idea about the method, interpretation, and specification
+references!
+3.Managerial Problem Identified: Manual DCP Test Report
+Creation (2024-12-23)
+📌 Problem Statement:
+The DCP (Dynamic Cone Penetration) test reports are currently created using a
+manual process, which involves handwritten field logs and manual data entry
+into spreadsheets or reports. This process is time-consuming, prone to
+errors, and lacks standardization, affecting efficiency and data reliability in
+material quality control and decision-making.
+
+=== PAGE 40 ===
+🧪
+4.Test Pit Analysis (Soil Bag Testing)
+📌 Introduction
+As part of the site investigation process, soil samples are collected at each DCP test
+location through test pits. These samples, referred to as “Soil Bags,” are carefully labeled
+and transported to the laboratory for detailed geotechnical analysis.
+The primary goal of test pit analysis is to determine the engineering properties of in-situ
+materials, evaluate their suitability for use in road construction (e.g., as embankment or sub
+base), and ensure compliance with ICTAD specifications.
+Each soil bag represents the actual material encountered in the field, making it a critical link
+between field observations and laboratory data. By analyzing these samples, we gain
+essential insights into:
+● Grading characteristics
+● Plasticity behavior
+● Moisture–density relationships
+● Load-bearing capacity
+This analysis guides decisions on:
+● Material classification (e.g., SB, EMB, SHO)
+● Suitability for reuse or replacement
+● Stabilization or treatment needs
+● Source approval and stockpile categorization
+Read the relevant note to get an idea about the lab tests breakdown (SA, PI, Proctor, CBR)
+with method, interpretation, and specification references!
+
+=== PAGE 41 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 42 ===
+🛣 What is a Macadam Road?
+A Macadam road is a type of road built using layers of crushed stones, compacted to form
+a hard surface. It was invented by John Loudon McAdam in the early 1800s.
+🧱 Layers of a Macadam Road
+🏖 Sand Layer (Optional Wearing Course or
+Filler)
+● May be used as a blinding layer or for
+leveling.
+● Sometimes skipped or replaced by
+bituminous surfacing.
+🟡 Prime Coat
+● Bituminous emulsion sprayed to bind the
+stone base with the next layer.
+● Helps prevent dust and water penetration.
+🧱 37.5/50/60 mm Stone Layer (Base Course)
+● Crushed stones laid and compacted in layers (~100–150mm each).
+● Forms the structural base of the road.
+🪨 6" X 9" Stone Rubble Layer
+● Acts as a foundation or sub-base.
+● Large stones manually packed to provide drainage and load-bearing strength.
+🟤 Subgrade
+● Natural soil at the bottom, compacted to provide support.
+● Treated if weak (e.g., with lime or cement stabilization).
+
+=== PAGE 43 ===
+Dynamic Cone Penetration
+
+=== PAGE 44 ===
+Dynamic Cone Penetration
+(DCP) Test
+📌 Purpose of the DCP Test
+The Dynamic Cone Penetration (DCP) Test is
+an economical and effective in-situ field method
+used to evaluate the strength, stiffness, and
+bearing capacity of subgrade and pavement
+materials. It provides fast data for quality control,
+layer thickness evaluation, and preliminary
+pavement and foundation design.
+🎯 Key Applications
+● Measure in-situ resistance of soil to penetration.
+● Evaluate compaction quality of pavement and subgrade layers.
+● Estimate California Bearing Ratio (CBR) indirectly.
+● Determine soil stiffness, bearing strength, and layer interfaces.
+● Detects under-compacted fill in embankments or pavement sections.
+● Monitor changes in granular subgrade condition over time.
+● Aid in pavement thickness design and foundation suitability checks.
+● Support decisions on subgrade stabilization or improvement.
+🛠 Equipment Details (Standard DCP Kit Includes)
+📦 Standard Components
+● Steel Cone: Hardened steel, 60° apex angle, 20
+mm diameter.
+● Steel Rods: Upper and lower rods, typically 5/8"
+diameter.
+
+=== PAGE 45 ===
+● Hammer: 8 kg (17.6 lb) dropped from 575 mm (2.26
+ft). Dual-mass hammers (4.6 kg + 3.4 kg
+detachable).
+● Anvil: Transfers energy from the hammer to cone
+rod.
+● Graduated Vertical Scale: With 1 mm resolution or
+electronic reader.
+● Accessories: Handle, handguard, 1 m ruler, tommy bars, thread-locking adhesive.
+🔁 Hammer System
+● Single-Mass: 8 kg – suitable for general soil types.
+● Dual-Mass: 4.6 kg (detachable 3.4 kg surcharge). Used for soft soils to avoid
+over-penetration.
+🛠 Cone Variants
+● Reusable cones: Threaded and removable. Replace when worn.
+● Disposable cones: Useful in expanding or sticky soils. Detached after testing.
+🧰 Additional Features
+● Electronic logging systems available for automatic data capture.
+● Extension rods allow testing depths up to 1200 mm or 5 feet.
+● Apparatus costs range from $1,600–$2,200 USD for manual kits.
+🔬 Working Principle
+The DCP test is based on measuring soil resistance to cone penetration caused by a
+falling hammer. The penetration depth per blow correlates with soil stiffness and bearing
+strength, and is used to compute the DCP Index and indirectly estimate CBR and other
+parameters.
+🧮 Energy Calculation:
+𝐸 = 𝑚𝑔ℎ
+𝐸 = 8 × 9.81 × 0.575 = 45.08 𝐽 (𝑃𝑒𝑟 𝐵𝑙𝑜𝑤)
+
+=== PAGE 46 ===
+Where:
+● E = Impact energy (Joules)
+● m = Mass of hammer (8 kg)
+● g = Gravity (9.81 m/s²)
+● h = Drop height (0.575 m)
+🛠 Testing Procedure (Step-by-Step)
+1. 📍 Select Location
+○ Choose representative points across
+the project site.
+○ For paved areas, predrill holes to reach
+the subgrade.
+2. ⛏ Prepare Surface
+○ Clear debris. Ensure level contact for
+cone base.
+3. ⚙ Assemble Apparatus
+○ Tighten all joints using tommy bars and
+apply thread-locking adhesive.
+○ Secure the handle, anvil, and cone
+connections.
+4. 📏 Zero the Device
+○ Place the cone vertically, flush on the
+ground.
+○ Record initial depth reading.
+5. 🔨 Begin Testing
+
+=== PAGE 47 ===
+○ Raise the hammer to 575 mm and drop freely.
+○ Avoid pushing or lowering the hammer by hand.
+○ In cohesive soils, slightly rotate the rod to prevent sticking.
+6. ✍ Record Data
+○ Record penetration after each blow or after a set number
+of blows.
+○ Use tighter intervals for soft soils (every 1–2 blows) and
+wider for stiff soils (5–10 blows).
+○ Minimum: 25 mm penetration between data points.
+7. 📉 Stop When
+○ Desired depth is reached (typically 800–1200 mm).
+○ Cone reaches refusal (penetration <3.175 mm in 10
+blows).
+○ Hard layer or obstruction is encountered.
+8. 🔁 Remove Equipment
+○ Gently tap the hammer upward.
+○ Avoid aggressive removal to extend instrument life.
+📊 Data Analysis & Interpretation
+🧮 DCP Index (mm/blow) - (𝐷𝑃𝐼):
+𝐷
+𝐷𝑃𝐼 =
+𝑁
+Where:
+● D = Total penetration depth (mm)
+● N = Number of blows
+
+=== PAGE 48 ===
+📈 Empirical Correlations to CBR:
+Common Approximation (ASTM D6951, Kleyn et al.):
+−1.12
+𝐶𝐵𝑅 = 292 × (𝐷𝑃𝐼)
+Alternate Logarithmic Formula (for granular soils):
+𝑙𝑜𝑔 (𝐶𝐵𝑅) = 2.48 − 1.057 × 𝑙𝑜𝑔 (𝐷𝑃𝐼)
+10 10
+⚠ Note: Do not apply these to CL or CH soils. Use ASTM-modified formulas.
+🧮 CBR-SPT Relationship:
+𝑙𝑜𝑔 (𝐷𝑃𝐼) =− 1.05 + 2.03 × 𝑙𝑜𝑔 (𝑆𝑃𝑇)
+10 10
+Where:
+● CBR = California Bearing Ratio
+● DPI = DCP Penetration Index
+● SPT = Standard Penetration Test (ASTM D 1586-64)
+📊 Graphs to Plot:
+● Depth vs. Blow Count – to detect soil layers.
+● CBR vs. Depth (semi-log) – to evaluate strength variation with depth.
+🧠 Interpreting Results
+DCP Index (mm/blow) Soil Strength
+Low (1–5) Very strong soil
+Moderate (5–15) Medium strength soil
+High (>15) Weak or loose soil
+
+=== PAGE 49 ===
+● Sharp change in index → Layer interface or material change
+● Consistent high index → Soft subgrade / need for stabilization
+Equivalent CBR Value
+Since multiple CBR values are typically obtained at various depths within a single test
+location (especially when multiple soil layers are present), a single representative value is
+often required for analysis or design purposes. In such cases, the Equivalent CBR Value is
+calculated to represent the average strength characteristics of the tested subgrade section.
+🧮 How to Calculate the Equivalent CBR:
+The Equivalent CBR is typically computed using a weighted average approach over the
+required design depth (e.g., top 500 mm or 700 mm), where the contribution of each layer is
+proportionally considered based on its thickness:
+( 1/3 )3
+∑𝐿𝐶𝐵𝑅
+𝐶𝐵𝑅 = 𝑖 𝑖 𝑖
+𝑒𝑞 ∑𝐿
+𝑖 𝑖
+Where:
+● 𝐿 - Thickness of each layer
+𝑖
+● 𝐶𝐵𝑅 - CBR value of each layer
+𝑖
+This method ensures the varying strengths of each layer are properly accounted for when
+determining the representative bearing value at a test point.
+This Equivalent CBR Value is crucial for pavement design, subgrade evaluation, and
+assessing the need for stabilization treatments.
+
+=== PAGE 50 ===
+🧮 Comparison: SPT vs SCPT vs DCPT
+Test Mode Sampling Best For Notes
+SPT Impact-driven Yes Loose to dense soils Requires borehole
+(Standard
+Penetration
+Test )
+SCPT Static thrust No Very soft soils Continuous
+measurement
+(Static Cone
+Penetration
+Test)
+DCPT (DCP) Dynamic drop No Granular/stiff soils Field-portable, no
+borehole
+(Dynamic Cone
+Penetration
+Test)
+🧰 Factors Affecting Accuracy
+● Rod alignment
+● Cone tip condition
+● Hammer weight and drop height
+● Moisture content
+● Soil type and compaction level
+● Friction along extension rods
+
+=== PAGE 51 ===
+● Apex angle (should remain 60°)
+📚 Standards & References
+● ASTM D6951 – Standard Method for Shallow Pavement Applications.
+● ICTAD Guidelines – Sri Lankan road subgrade quality standards.
+● Portland Cement Association (PCA) – Bearing capacity estimation.
+● USACE Manuals, Powell et al., Heukelom & Klomp – Soil modulus & CBR
+relations.
+🚧 Importance in Road & Foundation Projects
+● Verifies subgrade strength before construction.
+● Guides design decisions on stabilization and layer thickness.
+● Identifies weak zones and ensures uniform compaction.
+● Enables rapid, low-cost evaluation across large areas.
+● Essential tool for quality control, pavement design, and foundation planning.
+⚠ Precautions
+● Always use calibrated drop height (575 mm).
+● Avoid testing during monsoons due to softening of subgrade.
+● Take repeated readings to minimize errors.
+● Use thread-lock to prevent joint loosening during testing.
+
+=== PAGE 52 ===
+✅ Key Advantages
+● No borehole required – minimal disruption.
+● Simple, fast(results within minutes.), and repeatable.
+● Low cost, lightweight, Portable and operator-friendly.
+● Effective for identifying weak zones and compaction quality.
+● Dual-mass systems provide flexibility for different soil types.
+● Minimal operator training required.
+❌ Limitations
+● Not suitable for deep soil investigation (>1.2 m).
+● Not ideal for very cohesive or very loose soils.
+● Friction in extension rods may affect accuracy at greater depths.
+⚠ Special Case: Clay Soils (CL & CH) with Low CBR
+In clay soils classified as:
+● CL: Lean clay (low plasticity)
+● CH: Fat clay (high plasticity)
+The standard DCP–CBR correlation:
+−1.12
+𝐶𝐵𝑅 = 292 × (𝐷𝑃𝐼)
+does not work reliably when CBR < 10.
+Why?
+
+=== PAGE 53 ===
+Because clayey soils deform differently — they don’t resist penetration in the same way
+as granular soils, and moisture or plasticity affects penetration a lot. That leads to
+underestimated or inconsistent CBR values if you use the standard equation.
+✅ ASTM D6951 Solution:
+The ASTM D6951 standard recommends using alternative regression equations (based
+on lab calibration data) for CL and CH soils, or direct CBR testing if accurate results are
+needed.
+Some research-backed examples:
+● For CL soils:
+𝑙𝑜𝑔 (𝐶𝐵𝑅) = 2.465 − 1.12 × 𝑙𝑜𝑔 (𝐷𝑃𝐼)
+10 10
+● For CH soils:
+−0.6
+𝐶𝐵𝑅 = 35 × (𝐷𝑃𝐼)
+Note: These values (e.g., 2.465, 1.12, 0.6) depend on the soil dataset and
+may vary project to project. Always calibrate with site-specific CBR tests when
+possible.
+📌 Summary:
+● Standard equation is unreliable for clayey soils with CBR <10.
+● Use modified equations from ASTM D6951 or literature.
+● Better: Run lab CBR tests alongside DCP to calibrate for the site.
+📌 Understanding the DCP-SPT Correlation
+𝑙𝑜𝑔 (𝐷𝑃𝐼) =− 1.05 + 2.03 × 𝑙𝑜𝑔 (𝑆𝑃𝑇)
+10 10
+● This empirical relationship allows comparison between field DCP and
+borehole-based SPT results.
+
+=== PAGE 54 ===
+● Useful when:
+○ No borehole is available, but design requires equivalent SPT N-values.
+○ Back-calculating DPI when SPT N-values are available from previous
+investigations.
+● Note: This formula is site-sensitive and should be used cautiously—only when both
+tests are calibrated for local soils.
+
+=== PAGE 55 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 56 ===
+1.Managerial Problem Identified: Manual DCP Test
+Report Creation (2024-12-23)
+📌 Problem Statement:
+The DCP (Dynamic Cone Penetration) test reports are currently created using a
+manual process, which involves handwritten field logs and manual data entry
+into spreadsheets or reports. This process is time-consuming, prone to
+errors, and lacks standardization, affecting efficiency and data reliability in
+material quality control and decision-making.
+🔍 Why This is a Managerial Problem:
+1. ⚙ Inefficient Use of Human Resources:
+○ Technicians spend considerable time compiling, plotting, and formatting
+reports manually.
+○ Reduces time available for actual testing and analysis.
+2. 📉 Inconsistency & Human Error:
+○ Manual calculations and transcriptions can introduce errors.
+○ Graphs (e.g., depth vs. blow) are often skipped or inaccurately drawn.
+3. 📂 Poor Data Traceability:
+○ Difficult to retrieve past reports or audit the accuracy.
+○ No centralized digital database or version control.
+4. ⏳ Delayed Decision-Making:
+○ Site engineers and managers receive test results late.
+○ Delays in approving subgrade quality or releasing work fronts.
+5. 📊 Lack of Real-Time Insights:
+
+=== PAGE 57 ===
+○ No quick visualization or auto-calculated CBR values.
+○ Misses the chance to flag weak zones immediately on site.
+🛠 How Can I Present It? (Intern Report or Presentation):
+Element Your Example
+Identified Managerial Manual DCP test report preparation and analysis
+Problem
+Root Cause Reliance on handwritten logs, Excel files without
+automation
+Impact on Operations Time delays, data errors, reduced productivity, reporting
+lag
+Affected Stakeholders Material engineers, QA/QC team, site engineers,
+consultants
+Potential Solution Digitize DCP reporting using automated tools, apps, or
+(Suggestion) Excel macros
+Benefit If Solved Faster reporting, reduced error, better resource utilization,
+instant CBR graphs
+💡 Possible Solution Can Propose
+● 📊 Design an automated Excel DCP log sheet (enter blow data → autograph +
+CBR).
+● 💻 Create a simple desktop app in VBA or Python.
+● 📱 Even propose a mobile-based logging tool (e.g., Google Forms → Sheets →
+Auto Report).
+
+=== PAGE 58 ===
+📌 Justification for Selecting Option 1: Automated Excel DCP Log Sheet
+To address the managerial problem of manual and error-prone Dynamic Cone Penetration
+(DCP) test report creation, I have selected the first solution option: Designing an
+automated Excel DCP log sheet. This approach was chosen based on practical, technical,
+and organizational considerations observed during my training period.
+🔧 1. Alignment with Existing Office Practices
+● The engineering staff in our organization already widely uses Excel for most
+data logging, calculations, and reporting tasks.
+● Staff are familiar with Excel interfaces and functions, which reduces the learning
+curve.
+● Integrating automation within Excel leverages existing workflows instead of
+introducing unfamiliar tools or systems.
+🧠 2. Simplicity and Accessibility
+● The proposed Excel-based automation can be easily deployed without additional
+software installations or changes to current systems.
+● No internet connection or high-performance computers are required, which suits
+the current infrastructure where low-spec office computers are used.
+● The tool remains lightweight and easy to modify based on user feedback or future
+updates.
+💸 3. Cost-Effective and Sustainable
+● Excel is already licensed and used in the office. No additional budget is needed for
+new software.
+● This approach minimizes operational disruption and maximizes return on existing
+tools.
+● No programming expertise is needed once the macro-enabled sheet is created.
+Users only input blow data, and outputs (graphs, CBR, depths) are auto-generated.
+🎯 4. Fast Implementation & Immediate Impact
+
+=== PAGE 59 ===
+● The Excel tool can be developed, tested, and deployed within a short time frame
+during the internship period itself.
+● Immediate benefits can be demonstrated: auto-generated depth vs. blow graphs,
+estimated CBR, and data consistency.
+📌 Conclusion
+Given the technical limitations, the need for user-friendliness, and the office’s reliance
+on Excel, the most practical and effective solution is to create a macro-enabled Excel DCP
+reporting tool. This ensures faster, error-free, and standardized reporting without burdening
+the current system or requiring high-end infrastructure.
+📄
+Digital Automation of DCP Test Report Creation &
+Summary
+🔍 Problem Summary
+In our QA/QC workflow, Dynamic Cone Penetration (DCP) test data were previously
+handled using manual Excel sheets. This process was:
+● ❌ Time-consuming
+● ❌ Prone to data entry and plotting errors
+● ❌ Lacked consistency and traceability
+Each report required:
+● Manual entry of blow counts and penetration depths
+● Plotting of depth vs. blow charts
+● Manual detection of soil layers and estimation of CBR values
+● Separate summary sheet preparation across multiple locations
+
+=== PAGE 60 ===
+✅ Objective
+Develop a fully automated, Excel-based reporting system that:
+● 📑 Standardizes DCP test report generation
+● 📉 Detects soil layers automatically
+● 📋 Summarizes reports into a central summary sheet
+● 🔒 Enforces controlled workflow (prevents closing until processing is complete)
+● 📊 Visualizes data and computes CBR seamlessly
+🏗 Project Structure
+Workbook Name: DCP Test Report Generator.xlsm
+Main Sheets:
+● 🔓 Input – Entry panel & control interface (visible)
+● 📄 DCP_Test_Report_Template – Hidden; used for generating test sheets
+● 📊 DCP_Test_Summary_Template – Hidden; used for final summary
+🧾 Modules Overview
+📦 Module 🛠 Purpose
+ClearerDCPData Clears user input fields for new test
+DetectorDCPLayers Performs automatic soil layer detection using RMSD
+Generator1TestReport Creates individual DCP report sheets
+Generator2FinishReportCre Compiles the final summary sheet
+ation
+
+=== PAGE 61 ===
+⚙ Key Features & Logic
+🔄 1. Startup Behavior
+● Workbook_Open:
+○ Enables test creation (D24 = TRUE)
+○ Clears previous workbook name (D25) and close-lock (D26)
+● Workbook_BeforeClose:
+○ Prevents closing unless test report process is marked finished (D26 = TRUE)
+
+=== PAGE 62 ===
+🎛 2. Input Panel Triggers
+Buttons Linked To:
+Button Triggered Sub
+Create Test btn_create_test_report_Click →
+Report CreateDCPTestReport
+Finish Report btn_finish_test_report_creation_Click →
+Creation FinishDCPTestReportCreation
+Clear Input btn_clear_input_data_Click → ClearDCPData
+🧪 3. CreateDCPTestReport Logic
+● Reads sanitized Road ID & Report Number
+● Creates and names a new sheet: RD_<RoadID>_DCP_<ReportNo>
+● Calls DetectDCPLayer() to identify breakpoints
+● Asks user if they want to smooth the data (optional interpolation)
+● Updates the graph & saves the test report
+🔎 4. DetectDCPLayer Logic
+● Computes RMSD (Root Mean Square Deviation) for each segment
+● Limits breakpoints (e.g., max 12) to avoid overfitting
+● Optionally calls SmoothDCPData() to interpolate penetration values for better
+presentation
+● Stores layer boundaries for plotting and summary
+
+=== PAGE 63 ===
+📊 5. FinishDCPTestReportCreation Flow
+● Opens target workbook listed in D25
+● Deletes default sheet & any previous summary
+● Duplicates and fills the summary sheet with:
+○ Shoulder sheets (P11 ≥ 1.5)
+○ Carriageway sheets (P11 < 1.5)
+● Groups entries by chainage prefix, inserts row gaps where prefix changes
+● Hides summary template and marks process as complete
+
+=== PAGE 64 ===
+📈 Outputs
+● 🧾 Individual Report Sheet: Includes test data, chart, CBR estimates, and layers
+● 📊 Master Summary Sheet: Compiles key values from all test reports
+💡 Benefits Achieved
+✅ Eliminated manual plotting errors
+✅ Improved report consistency and readability
+✅ Ensured all data is tested and summarized before allowing workbook closure
+✅ Enabled faster report generation → more tests per day
+✅ Facilitated internal approval with organized test logs
+🖥 Demonstration of Developed Tool: Automated Excel DCP Test Report
+Generator
+📌 Screenshot Description:
+The image below showcases the Input Panel of the Excel-based automation tool I
+developed to streamline the DCP Test Report process. This panel serves as the central user
+interface for all interactions and is designed with simplicity and clarity in mind to suit on-site
+and office use by engineers and technicians.
+🚀 Workflow Demonstration (via Screenshot):
+1. Enter basic test info → Road ID, Report No., Chainage, offset, etc.
+2. Click "Create Test Report" → Auto-generates report sheet with:
+○ Depth vs. Blow graph
+○ Detected soil layers
+○ CBR calculation
+○ Optionally smooth input dcp data according to detected layers
+3. Repeat for other locations
+
+=== PAGE 65 ===
+4. Click "Finish Report Creation" → Summary sheet attach and fill
+💡 Why This Interface Matters:
+● User-Friendly: Minimal input required; all processing is automated.
+● Error-Free: Eliminates manual plotting and summary issues.
+● Standardized Output: All reports follow a consistent format, aiding both field review
+and managerial approval.
+● Locked Flow Control: Ensures proper testing, reporting, and finalization before
+workbook closure.
+📎 This screenshot demonstrates the actual implementation and functionality developed
+during my internship period. It exemplifies how automation can address real-world
+managerial inefficiencies in material quality control workflows.
+1. Open the Automated Workbook
+Launch the macro-enabled Excel file titled “DCP Test Report Generator.xlsm.”
+2. Enter Basic Test Information
+Fill in the Road ID, Report Number, and DCP input data.
+
+=== PAGE 66 ===
+👉 (Optional) Click the “Clear Input” button to reset previous test data before
+starting a new entry.
+3. Create a Test Report
+Click the “Create Test Report” button to generate a new report sheet. This will
+trigger automatic layer detection and graph generation.
+
+=== PAGE 67 ===
+4. Optional Data Smoothing Prompt
+The system will ask if the user wants to smooth the data for better presentation.
+➕ If confirmed, interpolation is applied to the penetration values without altering the
+blow counts.
+5. Report Creation Confirmation
+A success message will appear, confirming that the individual DCP report was
+generated.
+
+=== PAGE 68 ===
+6. Generate Final Summary
+After creating reports for all required chainages, click “Finish Report Creation” to
+compile the results into a centralized summary sheet.
+
+=== PAGE 69 ===
+7. Access the Final Output
+The completed and saved file will be available in the same folder where the original
+automated workbook is stored.
+
+=== PAGE 70 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 71 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 72 ===
+🧪
+Laboratory Tests on Soil Bags (Test Pit Analysis)
+Each collected Soil Bag is subjected to a standard series of four laboratory tests, as
+required by ICTAD and other road construction guidelines. These tests determine the
+fundamental properties of the soil, helping engineers classify the material and assess its
+suitability for use in embankment, sub base, or shoulder layers.
+1 ⃣ Sieve Analysis (SA) – Grading Test
+📌 Purpose:
+To determine the particle size distribution of the soil.
+⚙ Procedure:
+● Dry the sample.
+● Pass it through a set of standard sieves (e.g., 37.5 mm, 19 mm, 4.75 mm, 425 µm,
+75 µm).
+● Weigh material retained on each sieve.
+● Plot a grading curve (percentage passing vs sieve size).
+📊 What It Tells Us:
+● Classifies the material as well-graded, poorly graded, or gap-graded.
+● Helps determine if the soil is suitable for sub base or embankment.
+● Fine content (passing 75 µm) is important for drainage and compaction.
+📚 Specification Reference:
+● ICTAD specifies grading limits for SB, EMB, and SHO in terms of % passing each
+sieve.
+
+=== PAGE 73 ===
+2 ⃣ Plasticity Index (PI) – Atterberg Limits Test
+📌 Purpose:
+To determine the plastic behavior of fine-grained soil.
+⚙ Procedure:
+● Conduct Liquid Limit (LL) and Plastic Limit (PL) tests.
+● Compute: PI = LL - PL
+📊 What It Tells Us:
+● Low PI → Soil is non-plastic or slightly plastic (good for compaction).
+● High PI → Soil is clayey and may expand/shrink (problematic for subgrade).
+PI Range Plasticity Description
+0–6 Non-plastic to slightly plastic (good)
+7–17 Medium plasticity (acceptable for some fills)
+>17 Highly plastic (may require stabilization)
+📚 Specification Reference:
+● ICTAD often requires PI < 12 for embankment and < 6 for sub base materials.
+3 ⃣ Proctor Compaction Test – OMC & MDD
+📌 Purpose:
+To determine the Optimum Moisture Content (OMC) and Maximum Dry Density (MDD)
+for compaction.
+
+=== PAGE 74 ===
+⚙ Procedure:
+● Compact soil in layers inside a mould using a standard hammer.
+● Vary moisture content in each trial.
+● Plot dry density vs. moisture content curve.
+● Identify peak point:
+○ OMC = Moisture at peak
+○ MDD = Peak dry density
+📊 What It Tells Us:
+● Guides field compaction:
+○ Site compaction is usually done to 95–100% of MDD.
+● Shows how sensitive the soil is to moisture during compaction.
+📚 Specification Reference:
+● ICTAD requires meeting a minimum % of MDD (usually ≥ 95%) for approval.
+4 ⃣ California Bearing Ratio (CBR)
+📌 Purpose:
+To assess the bearing capacity of soil, especially subgrade and pavement layers.
+⚙ Procedure:
+● Soak and compact soil sample in a mould.
+● Penetrate with a plunger at standard rate.
+● Record load vs. penetration.
+● Calculate:
+CBR (%)=Load on specimenStandard Load×100\text{CBR (\%)} = \frac{\text{Load
+
+=== PAGE 75 ===
+on specimen}}{\text{Standard Load}} \times 100CBR (%)=Standard LoadLoad on
+specimen ×100
+📊 What It Tells Us:
+● Indicates how well the soil can support wheel loads.
+● Used directly in pavement thickness design.
+CBR (%) Strength Classification
+>30 Very strong (excellent sub base)
+10–30 Medium strength (common for SB/EMB)
+<10 Weak soil (may require stabilization)
+📚 Specification Reference:
+● ICTAD generally recommends:
+○ CBR > 8% for sub base
+○ CBR > 5% for embankment fills
+
+=== PAGE 76 ===
+🧠
+Summary Table
+Test Main Property Key Use ICTAD Focus
+Measured
+Sieve Particle size Grading & classification % Passing limits
+Analysis distribution
+Plasticity Soil plastic behavior Material suitability & PI limits
+Index swelling
+Proctor OMC & MDD Compaction control Achieving required
+%MDD
+CBR Load-bearing Pavement design CBR ≥ 5%–8%
+strength depending on layer
+
+=== PAGE 77 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 78 ===
+Comprehensive Guide to California Bearing Ratio (CBR) Test
+🛣 Introduction
+The California Bearing Ratio (CBR) Test is a widely used penetration test for evaluating
+the strength of subgrade soil and base materials for road and pavement design. It provides a
+measure of the load-bearing capacity of soils, guiding engineers in determining the thickness
+of pavement layers.
+📌 Purpose of the CBR Test
+● Determine the bearing capacity of soils used in road construction.
+● Classify soils based on strength for subgrade and sub-base layers.
+● Provide data for pavement thickness design as per standards (e.g., RDA, AASHTO,
+IRC).
+🧪 Types of CBR Test
+1. Laboratory CBR Test – Conducted on prepared soil samples (remoulded or
+soaked).
+2. Field CBR Test – Performed in-situ directly on compacted subgrade/base.
+⚙ Equipment Required (Laboratory Test)
+● CBR mould (150 mm dia. × 175 mm height)
+● Spacer disc, collar, and filter paper
+● Loading machine (capacity: 50 kN or more)
+● Penetration plunger (50 mm dia.)
+● Weights for surcharge (if needed)
+
+=== PAGE 79 ===
+● Proving ring or load cell
+● Dial gauges for penetration and load
+● Soaking tank (for soaked test)
+● Compaction tools (Proctor rammer, balance)
+🧪 Test Procedure (Laboratory CBR)
+A. Specimen Preparation
+1. Mix soil at desired moisture content (OMC from Proctor test).
+2. Compact the soil in CBR mould in three layers using Proctor hammer.
+3. Place filter paper and surcharge weights.
+4. For soaked CBR: Soak specimen in water for 4 days.
+B. Testing
+1. Place mould under the loading frame with plunger on soil surface.
+2. Apply load at 1.25 mm/min penetration rate.
+3. Record loads at every 0.5 mm of penetration up to 12.5 mm.
+4. Plot load vs. penetration curve.
+5. Calculate CBR at 2.5 mm and 5.0 mm penetration:
+CBR=Test loadStandard load×100%CBR = \frac{\text{Test load}}{\text{Standard load}} \times
+100\%
+● Standard load at 2.5 mm = 1370 kg
+● Standard load at 5.0 mm = 2055 kg
+● Take higher value between 2.5 mm and 5.0 mm CBR
+
+=== PAGE 80 ===
+📈 Interpretation of Results
+CBR (%) Soil Usage in Road Construction
+Strength
+0–5 Very poor Not suitable without stabilization
+6–10 Poor Subgrade with improved layer
+10–20 Fair Suitable for sub-base
+20–50 Good Suitable for base course
+>50 Excellent Rare for natural soil
+📄 Reporting Format
+A standard CBR report should include:
+● Sample identification and location
+● Moisture content and dry density
+● Soaking condition (if applicable)
+● Load vs. penetration graph
+● CBR at 2.5 mm and 5.0 mm
+● Final reported CBR value
+● Remarks on suitability for pavement design
+⚠ Precautions
+● Maintain proper compaction and moisture level.
+● Ensure uniform surcharge and seating load.
+● Use proper calibration for load and penetration gauges.
+● Avoid disturbances during soaking and testing.
+
+=== PAGE 81 ===
+✅ Conclusion
+The CBR test is a critical tool in highway engineering to assess the structural capacity of soil.
+It helps determine the appropriate pavement thickness and identify needs for soil
+improvement. A well-executed CBR test leads to safer and longer-lasting road infrastructure.
+This guide serves engineers, lab technicians, and project teams involved in road design and
+material evaluation.
+—----------------------------------------------------------------------
+Sandun
+🧪
+CBR Test in Test Pit Analysis – Complete Guide
+📌 What is the CBR Test?
+The California Bearing Ratio (CBR) test measures the bearing capacity of soil and is a
+critical parameter used in the design of pavement thickness.
+It evaluates how well the subgrade soil can resist penetration under load, mimicking
+vehicle wheel loads.
+📍 Where is CBR Used in Test Pit Analysis?
+In road construction, test pits are excavated to visually and physically examine the existing
+subgrade. From these pits:
+● Soil samples are collected and
+● CBR tests are performed (either in the field or the lab)
+🔍
+Why CBR is Important in Subgrade Evaluation:
+Purpose Reason
+🛣 Pavement Design CBR is directly used in determining thickness of sub-base and
+base courses.
+
+=== PAGE 82 ===
+🧱 Subgrade Indicates whether the natural soil can support the pavement
+Strength layers or needs replacement/improvement.
+🌧 Moisture Helps assess how soil behaves under soaked (wet) and
+Sensitivity unsoaked conditions.
+🏗 Construction Low CBR may lead to decisions like soil stabilization,
+Decisions replacement, or thicker pavement layers.
+🧰
+Types of CBR Tests:
+1. Laboratory CBR Test
+● Performed on soil samples collected from test pits
+● Samples are compacted into molds (usually 3 layers, standard or modified effort)
+● Tested under soaked or unsoaked conditions
+2. Field (In-situ) CBR Test
+● Done directly in the test pit bottom
+● Penetration piston pushed into the natural soil
+● Reflects actual field condition, but less controlled than lab test
+🧾
+CBR Test Procedure (Lab – Simplified):
+1. Sample Preparation:
+○ Soil from test pit is air dried and sieved.
+○ Compacted in a mold in 3 layers at optimum moisture content.
+2. Soaking (if required):
+
+=== PAGE 83 ===
+○ Mold is soaked for 4 days (standard for soaked CBR).
+3. Penetration Test:
+○ Load applied via a piston at 1.25 mm/min rate.
+○ Load is recorded at 2.5 mm and 5.0 mm penetration.
+4. CBR Calculation:
+CBR(%)=Test LoadStandard Load×100\text{CBR} (\%) = \frac{\text{Test
+Load}}{\text{Standard Load}} \times 100CBR(%)=Standard LoadTest Load ×100
+○ Standard loads:
+■ 2.5 mm: 1370 kg
+■ 5.0 mm: 2055 kg
+📈
+Interpreting CBR Values:
+CBR Value (%) Subgrade Quality Recommendation
+> 20% Excellent Suitable for high-traffic roads
+10–20% Good Suitable with standard pavement
+5–10% Fair May require sub-base improvement
+< 5% Poor Soil replacement or stabilization needed
+📊
+Tip in Test Pit Analysis:
+● Use multiple CBR values from different test pits per chainage.
+● Compute Equivalent CBR if multiple layers or values are present.
+Example:
+If three values for a location:
+CBR₁ = 6%, CBR₂ = 9%, CBR₃ = 12%
+Then average or weighted CBR may be calculated (based on layer thickness if applicable).
+
+=== PAGE 84 ===
+🔄
+CBR vs DCP:
+● DCP test results can be correlated with CBR (empirical formulas).
+● Faster and cheaper than lab CBR, often used as screening or in dense grid.
+Second time generation
+—-----------------------------------------
+Week 7 – California Bearing Ratio (CBR) Test Summary
+This week, I gained hands-on experience with the California Bearing Ratio (CBR) Test,
+one of the most important tests used in road construction to evaluate the strength of
+subgrade, subbase, and base course materials. The CBR value is a critical design input
+for determining pavement layer thickness.
+🧪 Purpose of the CBR Test
+● To determine the bearing capacity of soils and aggregates.
+● To evaluate the support strength of subgrade and other pavement layers.
+● To assist in the design of flexible pavements using CBR-based methods.
+● Required in both lab testing and field compaction control.
+📋 Test Standards Used
+● Laboratory CBR Test:
+○ ASTM D1883
+○ BS 1377 Part 4
+○ ICTAD Specification Section 1602
+
+=== PAGE 85 ===
+● Field CBR (if conducted in-situ):
+○ Test pit prepared and compacted to field MDD
+○ Penetration testing with surcharge weights
+🧰 Laboratory CBR Test – Step-by-Step Procedure
+1. Sample Preparation
+○ Soil sample is air-dried and passed through a 20 mm sieve.
+○ Compacted in a CBR mould in 3 layers using Proctor compaction energy.
+○ The Optimum Moisture Content (OMC) and Maximum Dry Density (MDD)
+are determined using the Proctor Test.
+2. Soaking (If Required)
+○ The specimen is soaked for 4 days in water to simulate worst-case conditions
+(standard for subgrade design).
+3. Penetration Test
+○ A piston is forced into the compacted soil at a rate of 1.25 mm/min.
+○ Loads are recorded at 2.5 mm and 5.0 mm penetrations.
+○ Load vs. penetration curve is plotted.
+📊 CBR Calculation
+Penetration Depth Standard Load (N)
+2.5 mm 1370 N
+5.0 mm 2055 N
+
+=== PAGE 86 ===
+The higher of the two penetration values is taken as the CBR value, unless 5.0 mm load is
+much greater.
+📈 CBR Classification (Typical Subgrade Strength)
+CBR Value (%) Subgrade Class Description
+< 2 S1 Very Weak
+3–4 S2 Weak
+5–7 S3 Medium Strength
+8–14 S4 Strong
+15–29 S5 Very Strong
+≥ 30 S6 Exceptionally Strong
+📌 Site Observations and Relevance
+● Test Pit samples were collected from various roads and borrow areas.
+● Samples were prepared and soaked as per RDA requirements.
+● Subgrade CBR values from the Homagama project typically ranged from 6% to 11%,
+indicating medium to strong support (S3–S4 class).
+● These values were used in pavement design charts to determine required
+pavement thickness.
+🛣 Use of CBR in Pavement Design
+● CBR value is used along with traffic class (ESALs) to determine:
+○ Thickness of sub-base and base layers
+○ Need for subgrade improvement or stabilization
+● If CBR is <5%, stabilization or replacement is usually recommended.
+
+=== PAGE 87 ===
+✅ Conclusion
+The CBR Test is fundamental in pavement engineering. This week helped me understand its
+full testing cycle, from sample preparation to penetration testing, and its real-world
+application in flexible pavement design. The results directly impact layer thickness
+decisions, making this test a cornerstone of road material evaluation under ICTAD and RDA
+standards.
+
+=== PAGE 88 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 89 ===
+Comprehensive Guide to Plasticity Index (PI) Test in Road Construction
+🧪 Introduction
+The Plasticity Index (PI) is a vital parameter in geotechnical and highway engineering. It
+measures the plasticity range of fine-grained soils and indicates the soil's ability to undergo
+deformation without cracking or crumbling. This guide outlines the complete procedure,
+significance, and interpretation of the Plasticity Index Test in road construction.
+📌 What is Plasticity Index?
+The Plasticity Index (PI) is the numerical difference between the Liquid Limit (LL) and
+Plastic Limit (PL) of soil:
+PI=LL−PLPI = LL - PL
+● Liquid Limit (LL): The water content at which soil changes from plastic to liquid
+state.
+● Plastic Limit (PL): The water content at which soil changes from semi-solid to plastic
+state.
+● Plasticity Index (PI): Indicates the moisture range within which the soil remains
+plastic.
+🏗 Importance in Road Projects
+● Helps classify soil using the Unified Soil Classification System (USCS) or
+AASHTO system.
+● Indicates expansive behavior, which is critical for subgrade stability.
+● High PI soils tend to swell/shrink, leading to pavement distress.
+● Assists in determining soil suitability for embankments, subgrade, and backfill.
+⚙ Equipment Required
+
+=== PAGE 90 ===
+● Casagrande liquid limit device
+● Grooving tool
+● Glass plate for rolling threads
+● Spatula and mixing tools
+● Oven (105–110°C)
+● Moisture content containers
+● Balance (accuracy 0.01 g)
+🧪 Test Procedure
+The Plasticity Index is determined by measuring both the Liquid Limit (LL) and Plastic
+Limit (PL) of the soil. These are found through separate tests described below.
+A. Liquid Limit (LL) – Identification Process
+Purpose: To find the water content at which the soil changes from a plastic to a liquid state.
+Steps:
+1. Prepare Soil Paste: Take a portion of soil (passed through 425 µm sieve), add
+distilled water gradually, and mix into a smooth paste.
+2. Fill Casagrande Cup: Place the soil paste evenly into the brass cup of the
+Casagrande apparatus.
+3. Form Groove: Using a standard grooving tool, cut a straight groove through the
+center of the soil.
+4. Operate Device: Turn the handle at a rate of 2 revolutions per second so that the
+cup repeatedly lifts and drops.
+5. Count Blows: Note the number of blows required for the two halves of the soil to
+come together for a length of about 13 mm.
+6. Repeat: Perform at least 4 trials at different water contents (adjusting soil
+consistency).
+7. Plot Flow Curve: Plot water content (y-axis) vs. number of blows (log scale, x-axis).
+
+=== PAGE 91 ===
+8. Determine LL: Read the water content corresponding to 25 blows from the graph.
+That is the Liquid Limit.
+B. Plastic Limit (PL) – Identification Process
+Purpose: To find the water content at which the soil transitions from a semi-solid to a plastic
+state.
+Steps:
+1. Prepare Soil Sample: Take a small quantity of soil (passed through 425 µm sieve)
+and moisten it.
+2. Roll Threads: Roll the moist soil on a clean glass plate or tile using your fingers into
+threads about 3 mm in diameter.
+3. Observe Behavior: If the soil starts crumbling at 3 mm diameter, stop rolling.
+4. Collect Sample: Take this crumbled soil and determine its water content by oven
+drying.
+5. Repeat: Conduct the test with at least three trials and average the moisture content
+to get the Plastic Limit.
+These two water content values allow you to calculate the Plasticity Index (PI = LL - PL),
+which is crucial for classifying and assessing soil for road construction.
+🧮 Calculation
+PI=LL−PLPI = LL - PL
+Example:
+● Liquid Limit (LL) = 42%
+● Plastic Limit (PL) = 22%
+● Plasticity Index (PI) = 42 - 22 = 20%
+📊 Interpretation of PI Values
+
+=== PAGE 92 ===
+PI Value Plasticity Soil Behavior
+Description
+0–5 Non-plastic Good for subgrade
+6–15 Low plastic Suitable with good drainage
+16–30 Medium plastic May need stabilization
+>30 High plastic Poor – not recommended
+📄 Reporting Format
+A standard PI test report should include:
+● Sample ID and location
+● Liquid Limit (%), Plastic Limit (%)
+● Calculated Plasticity Index (PI)
+● Soil description (color, texture)
+● Remarks on usability for subgrade
+⚠ Precautions
+● Soil should be well mixed and sieved through 425 µm sieve.
+● Avoid rapid drying or excess water during preparation.
+● Maintain consistent groove dimensions in LL test.
+✅ Conclusion
+The Plasticity Index Test is a key indicator of a soil’s engineering behavior. In road
+construction, it aids in assessing subgrade suitability and need for soil stabilization.
+Proper execution and interpretation of the test contribute to the long-term durability of
+pavement structures.
+This guide is essential for laboratory technicians, field engineers, and quality controllers
+involved in highway and pavement construction.
+
+=== PAGE 93 ===
+Sandun
+🧪
+Plasticity Index (PI) Test – Complete
+Guide
+🔷
+1. What is Plasticity?
+Plasticity is the ability of soil, especially fine-grained (clayey) soil, to undergo permanent
+deformation without cracking when water is present.
+It is caused by:
+● Presence of clay particles (which are negatively charged)
+● Adsorption of water by clay (water sticks to the clay particles due to polarity)
+🔷
+2. What is Plasticity Index (PI)?
+The Plasticity Index (PI) is the numerical difference between Liquid Limit (LL) and
+Plastic Limit (PL):
+PI=LL−PL
+It represents the range of water content over which the soil remains plastic.
+🔷
+3. Why is PI Important?
+Application Importance
+Soil classification Helps classify soil in AASHTO/USCS systems
+Subgrade design Indicates strength and volume change potential
+Construction behavior High PI = high shrink/swell risk, poor workability
+Drainage Soils with high PI tend to retain water
+
+=== PAGE 94 ===
+🔷
+4. Atterberg Limits Overview
+Limit Definition
+Liquid Limit (LL) Water content at which soil just begins to flow
+Plastic Limit (PL) Water content at which soil starts to crumble when rolled into
+threads
+Shrinkage Limit (SL) Max water content where further drying doesn’t reduce soil
+volume
+🔷
+5. Test Procedures
+📌 A. Liquid Limit (LL) Test (Casagrande Method)
+Equipment:
+● Casagrande apparatus
+● Grooving tool
+● Moisture cans
+● Balance
+Procedure Summary:
+1. Air-dry and sieve soil (< 425 µm).
+2. Mix with water to form a paste.
+3. Fill Casagrande cup to ~1 cm depth.
+4. Cut groove using tool.
+5. Drop cup at ~2 rev/sec until groove closes (10 mm length).
+6. Record number of blows and take sample for moisture content.
+7. Repeat for 4–5 trials with varying moisture content (blows: 15–35).
+
+=== PAGE 95 ===
+8. Plot flow curve (moisture vs. log of blows).
+9. From graph, read LL = water content at 25 blows.
+📌 B. Plastic Limit (PL) Test
+Equipment:
+● Glass plate
+● Moisture cans
+● Balance
+Procedure Summary:
+1. Take ~8 g of soil.
+2. Roll on glass plate into thread.
+3. If thread < 3 mm without cracking, knead to reduce water and repeat.
+4. Stop when thread crumbles at 3 mm.
+5. Collect and measure moisture content.
+6. Repeat 3 times. Average = Plastic Limit (PL).
+🔷
+6. Sample Calculation
+📊 Example:
+● Liquid Limit (LL): 35.2%
+● Plastic Limit (PL): 21.1%
+● PI = 35.2 - 21.1 = 14.1%
+
+=== PAGE 96 ===
+🔷
+7. Interpreting Plasticity Index (PI)
+PI Range Description Engineering Behavior
+PI < 7 Low plasticity Good subgrade, minimal shrink/swell
+7 ≤ PI ≤ 17 Medium plasticity Moderate strength, some volume change
+PI > 17 High plasticity Poor workability, risk of swelling/shrinking
+🔷
+8. Liquid Limit Classification
+Liquid Limit (LL) Description Notation
+< 35% Low plasticity L
+35–50% Intermediate I
+50–70% High H
+70–90% Very high V
+> 90% Extremely high E
+🛠
+Application in Road Construction
+● Subgrade material with low to medium PI is preferred for better strength and
+durability.
+● High PI soils may need stabilization (lime, cement) or replacement with better
+material.
+
+=== PAGE 97 ===
+Proctor Compaction Test
+
+=== PAGE 98 ===
+Proctor Compaction Test – Determining OMC & MDD
+📌 Purpose
+The Proctor Compaction Test is a laboratory method used to determine the Optimum
+Moisture Content (OMC) at which a soil achieves its Maximum Dry Density (MDD). In
+road construction and geotechnical engineering, achieving the correct compaction is
+essential for:
+● 🏗 Ensuring stability and bearing capacity
+● 💧 Reducing permeability and water infiltration
+● 🌍 Minimizing settlement and erosion
+The test provides a reference compaction curve that guides field engineers to achieve
+specified compaction levels (typically ≥95% of MDD) during site work.
+🧮
+Compactive Energy Calculation
+The compactive effort (E) is the energy per unit volume applied during the test:
+𝑊×𝐻×𝑁×𝐿
+𝐸 =
+𝑉
+Where:
+● W = Hammer weight (kg)
+● H = Drop height (m)
+● N = Number of blows per layer
+● L = Number of layers
+● V = Mold volume (m³)
+Example Values:
+● Standard Proctor:
+3
+𝑊 = 2.5 𝑘𝑔, 𝐻 = 0.305𝑚, 𝑁 = 25, 𝐿 = 3, 𝑉 = 0.000943 𝑚
+
+=== PAGE 99 ===
+● Modified Proctor:
+Higher weight, height, and layers
+⇒ E ≈ 2700 kJ/m³
+📏 Test Standards
+The Proctor test is standardized in two main versions: the Standard Proctor (ASTM D698,
+AASHTO T99) and the Modified Proctor (ASTM D1557, AASHTO T180). Both follow the
+same fundamental procedure but with different compaction energies. The Modified Proctor
+was introduced in 1958 to cater to higher compaction needs (e.g. for heavy aircraft runways
+and highways), because soils that met Standard Proctor densities were found to still deform
+under heavier loads. The table below summarizes the key differences between the standard
+and modified Proctor tests:
+Test Type Standard Proctor Modified Proctor
+Standard ASTM D698 / AASHTO T99 ASTM D1557 / AASHTO T180
+Hammer Weight 2.5 kg 4.5 kg
+Drop Height 305 mm (12 in) 457 mm (18 in)
+No. of Layers 3 5
+Blows per Layer 25 25
+Compactive ~593 kJ/m³ ~2700 kJ/m³
+Energy
+Use Case Light-duty compaction (e.g., Heavy-duty compaction (e.g.,
+residential) highways, airports)
+The Modified Proctor uses a hammer roughly twice as heavy dropped from a higher height,
+and compacts the soil in more layers. As a result, it delivers about 4½ times the energy of
+the Standard Proctor. The increased compactive effort produces a higher soil density and
+typically a lower optimum moisture for a given soil . In practical terms, the Modified Proctor
+better represents the compaction achievable by modern heavy compaction equipment (and
+is often specified for airport pavements, highways, and other heavily loaded structures),
+whereas the Standard Proctor is used for lighter compaction requirements (such as
+residential or minor works) or as a baseline for general fills. Engineers choose which Proctor
+standard to use based on project specifications and the level of compaction needed.
+
+=== PAGE 100 ===
+🛠 Equipment Used
+1. Compaction mold with base
+2. Manual rammer (2.5 kg or 4.5 kg)
+3. Scale (mass measurements)
+4. Extruder (to remove compacted soil)
+5. Mixing pan
+6. Trowel/Scoop
+7. Drying oven (~105–110°C)
+8. No. 4 sieve
+9. Moisture cans
+10. Graduated cylinder
+11. Straight edge
+🧪 Test Procedure (Step-by-Step)
+1. Sample Preparation
+○ Air-dry soil, pass through No. 4 sieve
+○ Divide into 4–6 subsamples for varying moisture contents
+2. Water Addition
+○ Add specific amounts of water to each subsample
+○ Mix thoroughly to ensure uniform moisture
+3. Compaction
+○ Place soil in mold in specified layers (3 or 5)
+○ Compact each layer with standard blows using the hammer
+
+=== PAGE 101 ===
+○ Trim excess soil flush with mold top
+4. Weighing & Moisture Sampling
+○ Weigh mold with compacted soil (record moist weight)
+○ Extract soil and take top & bottom samples for moisture content
+○ Dry in oven at 105–110°C for 24 hours
+5. Repeat
+○ Increase moisture by ~2% each trial
+○ Repeat compaction until dry density decreases → covers full compaction
+curve
+📊 Data Analysis
+1. Calculate Moisture Content
+w=Wwet−WdryWdry×100%w = \frac{W_{\text{wet}} - W_{\text{dry}}}{W_{\text{dry}}} \times
+100\%w=Wdry Wwet −Wdry ×100%
+2. Calculate Wet & Dry Densities
+ρ=WmoistV;ρd=ρ1+w\rho = \frac{W_{\text{moist}}}{V} \quad ; \quad \rho_d = \frac{\rho}{1 +
+w}ρ=VWmoist ;ρd =1+wρ
+● ρ\rhoρ = Wet density (g/cm³)
+● ρd\rho_dρd = Dry density (g/cm³)
+● www = Moisture content (decimal form)
+3. Plot the Compaction Curve
+● x-axis: Moisture Content (%)
+● y-axis: Dry Density (g/cm³)
+● Identify:
+○ OMC → Peak moisture content
+
+=== PAGE 102 ===
+○ MDD → Maximum dry density
+🌊 Zero Air Voids Curve
+Also plot the Zero Air Voids (ZAV) Curve, which represents the theoretical max density if all
+air voids are removed.
+wsat=(ρwρd−1Gs)×100w_{\text{sat}} = \left( \frac{\rho_w}{\rho_d} - \frac{1}{G_s} \right) \times
+100wsat =(ρd ρw −Gs 1 )×100
+Where:
+● ρd\rho_dρd = dry density
+● GsG_sGs = specific gravity of soil solids (usually ≈ 2.65–2.70)
+● ρw\rho_wρw = density of water (≈ 1.0 g/cm³)
+The actual curve should always fall below the ZAV line.
+✅ Key Outputs
+● OMC (%) – Optimum moisture for best compaction
+● MDD (g/cm³) – Maximum achievable dry density
+● Compaction Curve – Dry density vs. moisture content
+● ZAV Curve – Theoretical saturation reference
+🧠 Why It Matters
+● Field compaction specs (e.g., 95% MDD) are based on this lab result
+● Guides site team whether to add or remove moisture
+● Directly influences pavement strength, durability, and drainage
+● Applicable to:
+○ Subgrade
+
+=== PAGE 103 ===
+○ Sub Base (SB)
+○ Embankment (EMB)
+○ Shoulder (SHO)
+
+=== PAGE 104 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 105 ===
+🔍 What is Effective Size (d₁₀)?
+● The effective size is the particle diameter at which 10% of the soil (by weight) is
+finer (passed) in the grain size distribution curve.
+● It's a critical indicator of drainage, permeability, and soil behavior.
+🚧 Why d₁₀ Is Important in Road Subgrade Analysis:
+1. Permeability Indicator
+● d₁₀ is directly related to permeability (k) of granular soils (especially sandy soils).
+● Higher d₁₀ → higher permeability, which is good for drainage and avoiding water
+retention in the subgrade.
+2. Foundation Suitability
+● A well-graded subgrade (with suitable d₁₀, C₁ᵤ, and Cc) provides better load
+distribution and reduced settlement.
+● Helps assess whether the subgrade can support the pavement layers without
+excessive deformation.
+3. Used in Soil Classification
+● Part of the criteria for USCS (Unified Soil Classification System):
+○ Determines if soil is well-graded or poorly graded.
+○ Helps classify as GW, SW, etc.
+4. Empirical Design Parameters
+● Some empirical correlations (e.g., Hazen’s formula for permeability) use d₁₀:
+2
+𝑘 = 𝐶 × 𝑑
+10
+(where k is permeability and C is a constant depending on units)
+
+=== PAGE 106 ===
+5. Filter Design & Drainage Layers
+● In pavement design, filter layers and drainage layers often use d₁₀ criteria to
+prevent migration of fine particles.
+✅ Summary
+Aspect Importance of d₁₀
+Drainage Higher d₁₀ → better permeability
+Soil Strength Linked to compaction and shear behavior
+Classification Helps define grading and soil group
+Pavement Performance Ensures stability and avoids pumping
+Filter Design Prevents soil clogging and piping
+🔷
+Uniformity Coefficient (Cu)
+✅ Formula:
+𝑑
+𝐶 = 60
+𝑢 𝑑
+10
+📌 Meaning:
+The Uniformity Coefficient (Cu) indicates the range of particle sizes in a soil sample. It
+tells us whether the soil is:
+● Well-graded (particles of many sizes), or
+● Poorly graded (particles are mostly similar in size).
+🚧 Why It's Important:
+Value of Cu Soil Type Interpretation
+Cu < 4 (for gravel) or < 6 Poorly Uniform size particles – bad for compaction
+(for sand) graded and strength
+
+=== PAGE 107 ===
+Cu ≥ 4 (gravel), ≥ 6 Well-graded Good mix of particle sizes – better compaction,
+(sand) density, and strength
+In subgrade evaluation, a higher Cu generally indicates better load-bearing capacity and
+improved stability.
+🔷
+Coefficient of Gradation (Ck or Cc)
+✅ Formula:
+2
+𝑑
+𝐶 = 30
+𝑘 𝑑 ×𝑑
+60 10
+📌 Meaning:
+The Coefficient of Gradation (Ck) (also known as Coefficient of Curvature) evaluates the
+smoothness and shape of the gradation curve between d₁₀ and d₆₀.
+🚧 Why It's Important:
+Value of Ck Interpretation
+1 ≤ Ck ≤ 3 Well-graded soil
+Outside this range Poorly graded soil (gap-graded or skewed distribution)
+🛠 Use in Road Subgrade:
+● When both Cu and Ck are within desirable limits, the subgrade soil is considered
+well-graded, which is ideal for road construction.
+● Well-graded soils:
+○ Achieve higher density on compaction
+○ Offer better load distribution
+○ Minimize settlement over time
+
+=== PAGE 108 ===
+✅
+Summary Table:
+Parameter Formula Indicates Good Range
+Cu 𝑑 Soil grading spread Cu ≥ 4 (gravel), Cu ≥
+𝐶 = 60
+𝑢 𝑑 6 (sand)
+10
+Ck (Cc) 𝑑 2 Curve shape & 1 ≤ Ck ≤ 3
+𝐶 = 30
+𝑘 𝑑 ×𝑑 gradation
+60 10
+d₁₀ Effective size Permeability, fines Higher d₁₀ → Better
+control drainage
+
+=== PAGE 109 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 110 ===
+🚧 🚧
+Borrow Pit Material
+When sourcing Sub Base (SB), Embankment (EMB), and Shoulder (SHO) materials from a
+Borrow Pit, the process is as follows:
+📍 Step 1: Finding the Borrow Area
+● Identify suitable Borrow Area with required licenses.
+● The license must belong to the project company or authorized supplier.
+🥾 Step 2: Borrow Pit Investigation (Initial Testing)
+● Lab helpers collect three soil samples ("Soil Bags") from three different locations
+within the borrow area. ICTAD has which area should be covered.
+● Conduct essential lab tests for each soil bag:
+○ ✅ SA (Sieve Analysis)
+○ ✅ PI (Plasticity Index)
+○ ✅ Proctor Test (Optimum Moisture Content & Maximum Dry Density)
+○ ✅ CBR Test (California Bearing Ratio)
+● If all tests pass according to ICTAD specifications,
+○ 📤 A Material Approval (called Borrow pit approval) is sent to RDA
+○ 🏛 If RDA approves, the material ✅ can be transported to the stockpile
+🚛 Step 3: Material Transportation
+● Materials are transported using a 3 cubic meter (m³) lorry to the company’s
+stockpile site.
+
+=== PAGE 111 ===
+● Ensure clear separation of different material types in stockpiles:
+○ 🪨 Upper Sub Base (SB Type 1)
+○ 🪨 Lower Sub Base (SB Type 2)
+○ 🏔 Embankment Material (EMB Type 1)
+○ 🏔 Embankment Material (EMB Type 2)
+○ 🛣 Shoulder Material (SHO)
+○ 🚧 Aggregate Base Course (ABC) (this is not borrow pit)
+● Store the materials separately and neatly as per ICTAD guidelines.
+📝 Step 4: Stockpile Testing (Confirmation Testing)
+● Before using the material at the site, conduct confirmation testing again from
+stockpile samples as per ICTAD Sec.1602.
+● ICTAD clearly mentions the testing frequency and specification limits that must be
+followed.
+● If these bulk tests pass again,
+📤 A Material Approval (called stockpile approval) is sent to the RDA
+✅ Upon RDA Approval, the material is cleared for site usage
+🌱 Important Points on Supplier vs. Own Borrow Area
+
+=== PAGE 112 ===
+1 ⃣ Own Company Borrow Area:
+● License held directly by the company.
+● Company directly responsible for borrow pit investigation.
+● Once tests pass, directly transport material to its own stockpile.
+2 ⃣ Supplier’s Borrow Area:
+● Supplier holds the borrow pit license.
+● Supplier provides their own test pass reports.
+● BUT: Company must independently verify tests in their own lab before approval.
+● If verified tests pass, the supplier is instructed to transport the material to the
+company's stockpile.
+● Payment is made to the supplier only after verifying materials that meet ICTAD
+requirements.
+● Once material is delivered to the stockpile, the rest of the procedure (confirmation
+testing, storing separately, ICTAD compliance) remains the same.
+✅
+Stockpile Material Approval Procedure
+Before any construction material (e.g., SB, EMB, SHO, DGAB, etc.) is used, it must undergo
+a formal approval process from RDA. This process ensures compliance with ICTAD
+Specifications and project-specific requirements. So we cannot use it directly at the site
+until it goes through the following important steps:
+🔬 1. Material Sampling and Laboratory Testing (Bulk Material Testing)
+● Once the material is delivered or prepared (e.g., in a stockpile or direct from the
+source(borrow pit area) ), representative samples are collected for testing.
+● Laboratory tests are carried out according to ICTAD Specifications ( Section 1602).
+
+=== PAGE 113 ===
+● Typical tests:
+○ 🧪 Grading (Sieve Analysis)
+○ 🧪 Plasticity Index (PI)
+○ 🧪 Proctor Compaction
+○ 🧪 CBR (California Bearing Ratio)
+○ 🧪 Moisture Content & Specific Gravity (sometimes) depending on material
+type.
+📝 2. Compare with ICTAD Standards
+● The lab results are compared with project material specifications.
+● ICTAD gives specific limits and tolerances for each material (e.g., allowable %
+passing in sieve sizes, PI limits, etc.).
+📤 3. Source Approval Request
+If test results meet all relevant standards:
+● A formal approval request is submitted to the Engineer or relevant authority (e.g.,
+RDA).
+● This is a formal step to document that the material is acceptable for use on the
+project.
+● The source or stockpile may be inspected as part of this process.
+✅ 4. Approval Granted → Ready for Site Use
+● Once the material is approved, it's added to the "Approved Source List."
+● It becomes eligible for use in site works such as embankment filling, sub-base laying,
+etc.
+
+=== PAGE 114 ===
+🚫 In Case of Failure
+If the material fails to meet specifications:
+● It cannot be used at the site.
+● The material must be either removed, reprocessed, or retested until it passes the
+necessary criteria.
+
+=== PAGE 115 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 116 ===
+ICTAD (sec 105, 202, 505 A, 505B, 506, 507, 801)
+When storing road construction materials like Upper Sub-Base (USB Type 1), Lower
+Sub-Base (LSB Type 2), Embankment Material (EMB Type 1 & 2), Shoulder Material
+(SHO), and Aggregate Base Course (ABC) in stockpiles, there are standard procedures
+— especially under ICTAD, RDA, or general highway engineering practice — to ensure
+quality and avoid contamination.
+✅ General Procedure for Stockpiling Road Construction Materials:
+1. Site Selection
+● Choose a dry, well-drained area.
+● Preferably near the site, but away from water bodies and flood-prone zones.
+● Proper access for loading/unloading.
+2. Separation & Marking
+● Each material must be stored separately.
+● Provide clear signboards with:
+○ Material Type (e.g., USB Type 1)
+○ Source (quarry name)
+○ Date of delivery
+○ Test status (e.g., “Approved” / “Rejected”)
+3. Stockpile Shape & Height
+● Follow conical or trapezoidal shape (not elongated piles).
+● Maximum height:
+
+=== PAGE 117 ===
+○ Usually not more than 3 meters.
+● Avoid steep sides — helps prevent segregation.
+4. Base Preparation
+● Stockpiles should be built on a hard, clean surface:
+○ Compacted earth
+○ Concrete pad
+○ Geo-membrane / tarpaulin (if on soft ground)
+● This prevents mixing with soil or mud.
+5. Drainage & Protection
+● Provide side drains around the stockyard.
+● Use tarpaulin or plastic sheets in rainy weather.
+● Avoid material washing away or becoming soaked.
+6. Sampling & Testing
+● Before use, take samples for:
+○ Gradation
+○ Plasticity Index
+○ Moisture Content
+○ CBR/Proctor, etc.
+● Store tested and approved material separately if needed.
+
+=== PAGE 118 ===
+7. Avoid Mixing
+● Maintain a minimum 1–1.5 m gap between different materials.
+● If using machines to move materials, clean the buckets/blades before switching
+material types.
+🚧 Bonus Tip: Sequence of Use
+Use the “First In, First Out” (FIFO) method so older materials are used first, especially for
+moisture-sensitive layers.
+
+=== PAGE 119 ===
+Those are commonly stored materials in roadway construction stockpiles.
+✅ ABC – Aggregate Base Course
+● Crushed stone or gravel.
+● Used as a structural layer below the asphalt.
+● Provides strength and drainage.
+● Typically well-graded and compacted.
+✅ SB – Sub Base
+● Lower quality material than ABC.
+● Placed below ABC.
+● Provides additional load distribution and drainage.
+● Can be natural gravel, sand, or other approved material.
+✅ EMB – Embankment Material
+● Used to build up the road to the desired elevation.
+● Usually made of soil, rock, or borrowed material.
+● Needs to be well-compacted.
+● Can also include cut-and-fill operations.
+✅ Shoulder Material
+● Placed along the sides of the pavement.
+● Can be the same as ABC, or a less expensive material like gravel or crushed rock.
+● Provides lateral support to the pavement.
+● Also helps in drainage and safety.
+
+=== PAGE 120 ===
+📄
+Method Statement for Stockpiling Road
+Construction Materials
+Title: Stockpiling of Construction Materials (USB, LSB, EMB, ABC, SHO)
+Location: [Project Name / Site]
+Prepared by: [Site Engineer / Contractor]
+Date: [DD/MM/YYYY]
+1. Scope
+This method statement outlines the procedure for proper receiving, storing, and maintaining
+road construction materials to prevent contamination, ensure quality, and support efficient
+site operations.
+2. Materials Covered
+● Upper Sub-Base (USB) Type 1
+● Lower Sub-Base (LSB) Type 2
+● Embankment Material (EMB) Type 1 & 2
+● Shoulder Material (SHO)
+● Aggregate Base Course (ABC)
+3. Responsibilities
+Role Responsibility
+Site Engineer Supervise location, separation, and compliance.
+Storekeeper Record deliveries and quantities.
+QA/QC Engineer Approve material quality and testing.
+Machine Operator Handle material loading/unloading safely.
+
+=== PAGE 121 ===
+4. Equipment Used
+● Dump trucks
+● Front-end loader or backhoe
+● Surveying tools
+● Signboards
+● Tarpaulins (during rain)
+5. Procedure
+a. Site Preparation
+● Clear and level ground.
+● Provide compacted base or tarpaulin layer.
+● Construct side drains for rainwater diversion.
+b. Stockpile Arrangement
+● Assign specific areas for each material with a minimum 1m gap.
+● Display signboards showing material type, source, and test status.
+● Pile height should not exceed 3m to avoid segregation.
+c. Material Unloading
+● Unload approved materials only.
+● Visually check for contamination or mixing.
+d. Moisture Management
+● During rain, cover piles with tarpaulin.
+
+=== PAGE 122 ===
+● Avoid water stagnation around piles.
+e. Testing and Approval
+● Collect random samples as per ITP.
+● Do not use materials until test results are approved.
+6. Safety Measures
+● Use PPE (helmets, boots, gloves) during loading/unloading.
+● Maintain clear paths for machinery.
+● No unauthorized persons in stockyard.
+📋
+Stockpile Inspection Checklist
+Item Yes/No Remarks
+Approved location used?
+Signboards in place?
+Materials clearly separated?
+Stockpile height < 3m?
+Tarpaulin used during rain?
+Drainage around stockpile okay?
+No contamination observed?
+Samples tested and approved?
+FIFO maintained?
+
+=== PAGE 123 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 124 ===
+🚫🏞 ✅🪨
+ABC Material is NOT from Borrow Pit
+📌 What is ABC?
+ABC – Aggregate Base Course
+● A crushed stone or gravel material used as a strong foundation layer under
+asphalt.
+● Provides load-bearing strength and good drainage.
+🏗 Where Does ABC Come From?
+● ✅ NOT collected from natural borrow pits like SB, EMB, or SHO.
+● ✅ Usually sourced from:
+○ 🪓 Quarries
+○ 🏗 Crusher plants
+○ 🧾 Licensed aggregate suppliers
+📦 How is it Supplied?
+● Delivered in bulk by truckloads from approved quarries or crusher plants.
+● Must meet the grading, strength, and durability specs in ICTAD.
+●
+🔬
+Lab Testing required for:
+○ Sieve Analysis (Grading) - SA 📊
+○ Proctor Test – for OMC and MDD ⚖
+○ Plasticity Index (PI) – should be non-plastic or within limits 📉
+○ California Bearing Ratio (CBR) – check bearing capacity 📈
+
+=== PAGE 125 ===
+○ Flakiness Index (FI) – control flaky particles 📏
+○ Aggregate Impact Value (AIV) – toughness to impact 💥
+○ Los Angeles Abrasion Value (LAAV) – resistance to abrasion 🧱
+○ Ten Percent Fines Value (TFV) – crushing resistance 🧨
+○ Aggregate Crushing Value (ACV) – strength check 🪨
+○ Specific Gravity & Water Absorption – density and durability check 💧
+🏗 ✅
+DGAB – Dense Graded Aggregate Base
+📖 Full Form:
+DGAB = Dense Graded Aggregate Base
+📌 Key Details:
+● DGAB is a type of ABC (Aggregate Base Course) but more specific.
+● Called “dense graded” because:
+○ It contains a wide range of aggregate sizes, from fine dust to coarse stones.
+○ These mix together tightly to form a strong, well-compacted base.
+🧱 DGAB Properties:
+Property Description
+Material Type Crushed stone / gravel
+Grading Wide range (dust to ~37.5 mm)
+Strength High load-bearing
+Compaction Very good due to dense grading
+
+=== PAGE 126 ===
+Usage Base layer for roads, before asphalt
+Source Quarry / Crusher plant
+Lab Tests Grading (SA), LAA, ACV, SG, etc.
+✅ Why It’s Better Than Regular ABC
+● DGAB offers better compaction, stability, and drainage than loose or poorly graded
+ABC.
+● It’s the preferred base material in many national standards and is mentioned in
+ICTAD specs.
+💡 Fun Fact:
+Some places still use "ABC" as a general term, but DGAB is the more accurate
+engineering term for base layers that meet proper gradation and compaction standards.
+
+=== PAGE 127 ===
+Stone-Related Material Terms
+
+=== PAGE 128 ===
+🧱
+Stone-Related Material Terms
+1 ⃣ Aggregate (Agg) – The General Term
+● Definition: A general name for granular materials used in construction.
+● Includes: Crushed stone, gravel, sand, recycled concrete, etc.
+● 📚 Used in: Concrete, asphalt, road base, drainage, etc.
+2 ⃣ Fine Aggregate (Fine Agg) 🏖
+● Definition: Aggregates that pass through a 4.75 mm sieve.
+● Examples: Natural sand, crusher dust, manufactured sand.
+● Use: Fills voids between coarse aggregates, used in concrete and asphalt.
+3 ⃣ Coarse Aggregate (Coarse Agg) 🪨
+● Definition: Aggregates that stay on a 4.75 mm sieve.
+● Examples: Crushed stone (10 mm, 20 mm, 40 mm), gravel.
+● Use: Major component of concrete and base layers.
+4 ⃣ Gravel 🪵
+● Definition: Natural rounded stone, usually from riverbeds.
+● Shape: Round or sub-rounded (not angular).
+● Use: Drainage layers, sub base (if permitted), sometimes in concrete.
+
+=== PAGE 129 ===
+● ✅ May be less preferred than crushed stone in road bases due to round shape
+(less interlock).
+5 ⃣ Crushed Stone (Manufactured Aggregate) 🪓
+● Definition: Rock mechanically crushed in quarries.
+● Shape: Angular with sharp edges.
+● Use: Stronger interlocking → ideal for DGAB / ABC, concrete, asphalt.
+6 ⃣ ABC (Aggregate Base Course) / DGAB 🏗
+● Definition: A specific mixture of coarse and fine crushed stone to create a dense
+base layer.
+● Also called: DGAB (Dense Graded Aggregate Base).
+● Use: Placed under asphalt, pavers, or concrete to carry load.
+📊 Quick Comparison Table
+Term Size Range Shape Natural/Crushed Common Use
+Aggregate Any size Varies Natural/Crushed General term for
+stone materials
+Fine < 4.75 mm Fine sand-like Both Concrete, asphalt,
+Aggregate filler
+Coarse Agg > 4.75 mm Gravel/stone Both Concrete, road
+layers
+Gravel Usually Rounded Natural Sub base,
+5–50 mm drainage
+
+=== PAGE 130 ===
+Crushed Varies Angular Crushed Strong base
+Stone layers, concrete,
+asphalt
+ABC / DGAB 0–37.5 mm Angular & fines Crushed Base layer below
+(mixed) asphalt
+📌 Summary
+● 🪨 Aggregate (Agg) = General term for stone/sand mix
+● 🏖 Fine Agg = Small particles like sand
+● 🪨 Coarse Agg = Bigger pieces like gravel/stones
+● 🪵 Gravel = Natural, rounded stone
+● 🪓 Crushed Stone = Angular, strong material from quarries
+● 🚧 ABC / DGAB = Specific mix of fine + coarse crushed stone used as base layer
+
+=== PAGE 131 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 132 ===
+The difference between gravel and soil mainly lies in particle size, composition, and
+engineering behavior:
+🔹 1. Particle Size
+● Gravel:
+○ Coarse particles > 2 mm in diameter
+○ Includes pebbles, cobbles, and boulders
+● Soil:
+○ Mixture of smaller particles like:
+■ Sand (0.075–2 mm)
+■ Silt (0.002–0.075 mm)
+■ Clay (< 0.002 mm)
+🔹 2. Composition
+● Gravel:
+○ Mostly rock fragments (quartz, granite, limestone, etc.)
+○ Very low in organic matter
+● Soil:
+○ Contains minerals, organic material, water, and air
+○ Can support plant growth due to nutrients and organics
+🔹 3. Water Behavior
+
+=== PAGE 133 ===
+● Gravel:
+○ Drains quickly, low water retention
+○ Doesn't compact easily
+● Soil:
+○ Holds water, especially if clay is present
+○ May compact and swell depending on moisture content
+🔹 4. Engineering Properties
+● Gravel:
+○ High bearing capacity, good for road bases and foundations
+○ Low plasticity (doesn’t deform easily)
+● Soil:
+○ Strength varies with type (e.g., clay vs. sand)
+○ Often needs stabilization in construction
+🔹 5. Classification (Geotechnical Engineering)
+According to the Unified Soil Classification System (USCS):
+● Gravel = Coarse-grained soil with >50% retained on No. 4 sieve
+● Soil = May refer broadly to all unconsolidated materials, but often implies finer
+particles like sand, silt, and clay
+
+=== PAGE 134 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 135 ===
+During this week, I was actively involved in understanding how road construction materials
+are sourced, tested, and managed before they are used on-site. This includes material
+investigation from borrow pits, testing compliance with ICTAD standards, and maintaining a
+well-organized stockpile system.
+🚧 Borrow Pit Investigation
+To source materials like Sub Base (SB), Embankment (EMB), and Shoulder (SHO), the
+company can either:
+1. Use Own Borrow Area – Must hold a valid license.
+2. Use a Supplier’s Borrow Pit – Supplier must provide license and sample access.
+For either case, soil samples are collected from different locations within the pit and tested
+for:
+● Sieve Analysis (SA)
+● Plasticity Index (PI)
+● Proctor Compaction Test
+● California Bearing Ratio (CBR)
+Only if results meet ICTAD requirements, Borrow Pit Approval is submitted to the RDA for
+clearance.
+🧪 Site Selection & Supplier Testing
+If using a supplier’s source, we independently verify the material through our lab testing
+before accepting any delivery. Upon passing results, the supplier is authorized to deliver
+material to our site stockpile. Payment is made only after approval.
+For own-source borrow pits, the company performs all testing internally and directly
+manages transport and stockpile buildup.
+📦 Stockpile Management
+
+=== PAGE 136 ===
+Once materials are transported to our project site, they are stored in separate, clearly
+identified stockpiles to prevent cross-contamination. Before being used in road layers, each
+material is subjected to confirmation (bulk) testing from the stockpile. These tests again
+include:
+● Grading
+● PI
+● CBR
+● Proctor Compaction
+Approval is then sought from the RDA to include the stockpile material in the “Approved
+Material List.”
+📘 Material Types & Specifications
+All materials must follow project-specific and ICTAD (Section 1602) standards.
+Material Type Sub-Types Notes
+Sub Base (SB) Type I & Type II Used below base layer. Type based on
+CBR & grading requirements.
+Embankment Type I & Type II Selected based on strength and plasticity
+(EMB) criteria.
+Shoulder (SHO) – Must ensure stability and drainage along
+pavement edge.
+ABC – Not from borrow pit; sourced from quarry.
+Requires strict grading.
+Concrete Coarse & Fine Used in concrete works; must meet specific
+Aggregate gravity & shape tests.
+Sand (Fine) River Sand, Quarry Depends on site availability and spec;
+Dust, M-Sand tested for cleanliness & gradation.
+✅ Conclusion
+
+=== PAGE 137 ===
+Week 9 gave me deep exposure to the material approval workflow—starting from borrow pit
+selection or supplier testing, to ICTAD-compliant lab evaluations, and proper stockpile
+management. Understanding this process is vital for quality control and smooth construction
+progress.
+
+=== PAGE 138 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 139 ===
+Project Summary – Asphalt Thickness Reduction Study
+Our company, Consulting Engineering and Contractors (Pvt) Ltd., is currently undertaking a
+road construction project in Homagama, Sri Lanka. As part of this project, the Road
+Development Authority (RDA) has requested a study to assess the feasibility of reducing the
+asphalt layer thickness as a cost-saving measure.
+The project consists of four lots, and we are responsible for Lot 2, which includes the road
+segment labeled COL/2, spanning approximately 4.7 kilometers. For this study, we have
+selected two separate 450-meter sections from different locations along the COL/2 road to
+carry out the research.
+The RDA’s main objective is to reduce construction costs, with one proposed method being
+the reduction of asphalt layer thickness. However, before proceeding, we aim to evaluate
+other cost-reduction options and examine their practicality within the Sri Lankan context. The
+goal is to identify whether asphalt thickness reduction is the most effective and feasible
+solution. My idea is that asphalt is the highest cost in road construction. my plan is make a
+asphalt mix design reducing highest valuable materials
+Currently, a 40 mm thick asphalt layer is being applied. The RDA has proposed trialing two
+reduced thicknesses: 25 mm and 30 mm. For this study, one section will be constructed
+using a 25 mm layer, and the other with a 30 mm layer. I have selected the 25 mm section
+for further evaluation.
+I am a trainee material engineer at the company, and this is the project I have been assigned
+for my internship.
+
+=== PAGE 140 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 141 ===
+Road Project General Information:
+This page contains general information about the road project.
+
+=== PAGE 142 ===
+Earth Drain, U-Drain, and Leaderway
+
+=== PAGE 143 ===
+Difference Between Earth Drain, U-Drain, and Leaderway (Leederway)
+1. Earth Drain
+A simple, unlined open channel dug into the earth.
+· Key Features:
+· Made by excavating soil.
+· Cheapest option.
+· Common in rural areas or temporary setups.
+· Prone to erosion, siltation, and weed growth.
+· Requires regular maintenance.
+· Use:
+· Used where the budget is tight and stormwater flow is minimal or temporary.
+2. U-Drain
+A concrete channel shaped like a "U", used to carry water.
+· Key Features:
+· Precast or cast-in-situ concrete.
+· Smooth surface allows faster and more controlled flow.
+· Durable and long-lasting.
+· Can be covered or left open.
+· Less maintenance than earth drains.
+· Use:
+· Ideal in urban areas, roads, or industrial zones where a clean, controlled drainage system
+is needed.
+
+=== PAGE 144 ===
+3. Leaderway (Leederway)
+A lined side drain (stone/brick/concrete) that runs alongside roads to guide surface water to
+a drain or natural outlet.
+· Key Features:
+· Usually lined with concrete, stone, or bricks.
+· Positioned to collect water from the pavement/road shoulder.
+· Designed with proper gradient and alignment.
+· Sometimes includes U-drains or other types of channels.
+· Use:
+· Acts as a transition path for stormwater, collecting water from surfaces and directing it to
+the main drain or culvert.
+Comparison Table
+Feature Earth Drain U-Drain Leaderway
+(Leederway)
+Material Soil only Concrete Brick, stone, or
+concrete lining
+Cost Low High Medium to high
+Durability Low High Medium to high
+Maintenance High Low Moderate
+Usage Rural/Temporary Urban/Permanent Roadside drainage
+system
+Water Flow Control Poor Excellent Good
+Bonus Tip
+Sometimes a U-drain is used as a leaderway in modern designs—especially in
+cities—because it's more efficient and neater.
+
+=== PAGE 145 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 146 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 147 ===
+Retaining Wall
+The retaining wall project was an integral part of the site’s design, to stabilize the slope and
+manage water flow effectively.
+The design incorporates structural elements, drainage systems, and backfill materials to
+ensure durability, safety, and functionality.
+1. Filter Layer Installation
+○ Material Used: 75 mm thick filter material (granular type).
+○ The filter layer is used to prevent soil from clogging the drainage system while
+allowing water to pass through.
+2. Dry Stone Lining
+○ Material Used: Stones of size 50-200 mm, minimum 600 mm thick.
+○ Dry stone lining provides a sturdy yet permeable barrier for water drainage while
+supporting the structure.
+3. PVC Pipe Weep Holes
+
+=== PAGE 148 ===
+○ Material Used: ∅110 mm PVC pipes (Type 600) spaced at 1500 mm centers.
+○ These pipes help drain water collected behind the wall, reducing hydrostatic pressure.
+4. Clay Puddle
+○ Material Used: Compacted clay, dimensions 300 mm × 600 mm.
+○ Clay is impervious to water and prevents seepage through the wall.
+5. Concrete Layer
+○ Material Used:
+Concrete Grade 15 (19 mm aggregate) for the base layer.
+Concrete Grade 25 (20 mm aggregate) for structural stability.
+○ The different grades ensure cost-effective use of materials while maintaining strength
+and stability.
+6. Reinforcement Steel
+○ Material Used: Reinforcement bars Y10-01-200 and Y10-02-300.
+○ Reinforcement improves tensile strength and resists cracking.
+7. Screed Concrete
+○ Material Used: 75 mm thick screed concrete.
+○ Provides a smooth and level surface for further construction or finishing.
+
+=== PAGE 149 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 150 ===
+Precast Dish Drain
+The pre-cast dish drain project was designed to manage surface runoff effectively, ensuring
+proper drainage along access roads and other critical areas. The system integrates pre-cast
+concrete components, reinforcement, and a base preparation to guarantee longevity and
+functionality.
+Let’s road length as L.
+1. Base Preparation
+o Material Used: Compacted subgrade and aggregate base.
+o Provides a stable and leveled foundation for the installation of pre-cast elements.
+o Quantity Calculations not need here.
+2. Pre-Cast Dish Drain Units
+o Material Used: Pre-cast concrete dish drain sections.
+o Pre-cast units reduce construction time and ensure uniformity in size and quality.
+o Quantity Calculation:
+§ Number of units: .
+§ Volume per unit: Provided by manufacturer’s specifications.
+
+=== PAGE 151 ===
+3. Reinforcement Steel
+o Material Used: Steel reinforcement bars (e.g., R10-150 or equivalent).
+o Reinforcement enhances the tensile strength of the pre-cast units.
+o Quantity Calculation:
+§ Based on the manufacturer’s design and spacing of the bars.
+4. Wearing Surface
+o Material Used: Asphalt or D.B.S.T.
+o Protects the drain edges and ensures a smooth transition between the drain and the
+road.
+o Quantity Calculation not needed here
+5. Jointing and Sealing
+o Material Used: Concrete grout or sealant.
+o Ensures watertight joints between pre-cast sections.
+o Quantity Calculation not needed here.
+6. Slope and Alignment
+o Design Specifications: 6% slope (as per the drawing).
+
+=== PAGE 152 ===
+o Ensures efficient water flow and prevents stagnation.
+
+=== PAGE 153 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 154 ===
+Comprehensive Guide to Field Density Test (FDT) for Road Layers
+🚧 Introduction
+The Field Density Test (FDT) is a critical quality control procedure used in road construction
+to ensure that each compacted layer (such as subgrade, sub-base, and base) meets
+specified density requirements. Adequate compaction improves the load-bearing capacity,
+stability, and longevity of the road structure. This guide outlines the complete process of
+performing and evaluating FDT for road construction projects.
+📊 1. Purpose of Field Density Testing
+● Verify if the compacted layer meets the specified dry density.
+● Prevent structural failures due to under-compacted materials.
+● Ensure compliance with project specifications and standards.
+🧪 2. Common Test Methods
+There are two widely used methods for FDT in road projects:
+✅ a. Sand Replacement Method (Standard Method)
+Used where the soil is granular or fine-grained. Suitable for embankment, subgrade, and
+base layers.
+✅ b. Core Cutter Method (For cohesive soils only)
+Used primarily in laboratory or for fine cohesive soils in the field. Not ideal for granular or
+coarse materials.
+🛋 3. Equipment Required (Sand Replacement Method)
+● Sand pouring cylinder with calibrated cone
+● Metal tray with a central hole (approx. 10 cm diameter)
+
+=== PAGE 155 ===
+● Clean, dry standard sand (with known density)
+● Weighing balance
+● Digging tools (trowel, brush)
+● Moisture content containers
+● Oven or moisture meter
+✅ 4. Test Procedure (Step-by-Step)
+a. Preparation
+● Level the surface of the compacted layer.
+● Place the tray on the surface and cut a clean hole (approx. 10 cm diameter, 10–15
+cm depth).
+● Collect the excavated soil and place in a container for moisture and weight
+measurement.
+b. Weighing Operations
+● Weigh the sand pouring cylinder filled with standard sand (W1).
+● Place it on the hole and allow sand to fill the hole completely.
+● Weigh the cylinder again after pouring (W2).
+● Also, perform a calibration by filling a standard calibration cone to find the weight of
+sand in cone alone.
+c. Measurements
+● Weight of excavated soil (wet) = W3
+● Moisture content = (Wwet - Wdry) / Wdry × 100
+● Volume of hole = (W1 - W2 - Wcone) / Sand density
+● Dry Density = Weight of dry soil / Volume of hole
+
+=== PAGE 156 ===
+🔢 5. Calculations
+Let:
+● Ws = Weight of dry soil (g)
+● V = Volume of the hole (cm³)
+Dry Density (g/cm³):
+ρd=WsV\rho_d = \frac{Ws}{V}
+Degree of Compaction (%):
+Degree of Compaction=ρdρd(max)×100\text{Degree of Compaction} =
+\frac{\rho_d}{\rho_{d(max)}} \times 100
+Where:
+● ρd(max)\rho_d(max) = Maximum dry density from Proctor Test
+📊 6. Acceptance Criteria
+Each road layer has a specific compaction requirement, usually defined as a percentage of
+the Maximum Dry Density (MDD) obtained from a Modified or Standard Proctor Test.
+Proper compaction ensures the strength and durability of the pavement structure.
+Road Layer Minimum Compaction Requirement
+Subgrade 90–95% of MDD
+Edge Widening Subgrade 95% of MDD
+Material Filling
+└── Embankment 90–95% of MDD
+└── Sub-base 95% of MDD
+
+=== PAGE 157 ===
+└── Shoulder 95% of MDD
+Aggregate Base Course (ABC Layer) 98% of MDD
+🧰 7. Documentation
+A typical FDT report includes:
+● Location and layer details
+● Test method used
+● Moisture content
+● Bulk and dry density
+● Degree of compaction
+● Test result (pass/fail)
+⚡ Common Issues and Precautions
+● Ensure the hole is not too shallow or irregular.
+● Use standard, uniformly graded dry sand.
+● Protect the test spot from water, vibration, and contamination.
+● Check calibration of sand cone regularly.
+🔧 Conclusion
+FDT is essential for ensuring the structural reliability of road layers. By following the standard
+procedure, engineers can confirm whether the compaction meets the design intent, thereby
+preventing costly failures and rework.
+This guide enables field technicians, quality inspectors, and engineers to confidently execute
+and interpret FDT results for road construction layers.
+
+=== PAGE 158 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 159 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 160 ===
+Comprehensive Guide to Concrete Testing in Road Projects
+🏗 Introduction
+What is Concrete?
+Concrete is a composite construction material made by mixing cement, water, fine
+aggregates (sand), and coarse aggregates (gravel or crushed stone). It hardens over time
+due to a chemical reaction known as hydration, resulting in a strong and durable material.
+Ready Mix vs Nominal Mix
+● Nominal Mix: A traditional method using approximate volume-based ratios (e.g.,
+1:2:4 for M15), commonly used in small-scale works and where high precision is not
+critical. In many road projects, especially in minor structures, the Highway Schedule
+of Rates (HSR) guideline is followed. HSR provides standard mix ratios and
+specifications for commonly used grades of concrete to ensure consistency, ease of
+estimation, and suitability for public infrastructure. While it simplifies field batching, it
+may lack the rigorous control of a formal design mix.
+● Ready Mix Concrete (RMC): A factory-batched and quality-controlled product
+delivered to site. The mix is proportioned by weight using a design mix method (e.g.,
+M25, M30) and is ideal for road projects due to its uniformity, consistency, and
+controlled strength.
+Why is Concrete Used in Road Construction?
+Concrete is extensively used in road construction due to its high compressive strength,
+durability, versatility, and relatively low maintenance. It is ideal for:
+● Rigid pavements
+● Kerbs and side drains
+● Box culverts and retaining walls
+● Shoulder slabs and medians
+Concrete can withstand heavy loads and adverse weather conditions, making it suitable for
+critical structural components in highways and road infrastructure.
+Improving Concrete Properties with Chemical Admixtures
+To enhance workability, strength, durability, and setting characteristics, chemical admixtures
+are added to concrete. Common types include:
+
+=== PAGE 161 ===
+● Plasticizers / Superplasticizers: Improve workability without increasing water
+content
+● Retarders: Delay setting time, useful in hot climates
+● Accelerators: Speed up setting and early strength gain
+● Air-entraining agents: Introduce microscopic air bubbles to improve freeze-thaw
+resistance
+● Waterproofing agents: Reduce permeability and enhance durability
+These admixtures allow engineers to tailor the concrete mix to suit environmental conditions,
+structural requirements, and construction timelines.
+Impact of Water on Concrete Strength Water plays a dual role: it is essential for hydration
+but excess water weakens concrete. A low water-cement ratio (W/C) increases strength,
+while high W/C results in reduced strength, segregation, and increased permeability. A
+typical W/C ratio ranges from 0.4 to 0.5 for road concrete.
+Effect of Admixtures on Workability Admixtures like plasticizers and superplasticizers
+improve workability by dispersing cement particles. This enables easier placement without
+increasing water content, thus maintaining strength and durability.
+Setting Time of Concrete
+● Initial setting time: Approx. 30–90 minutes after mixing
+● Final setting time: Approx. 6–10 hours Setting time can be adjusted with admixtures
+depending on ambient conditions and transportation delays in ready mix applications.
+Testing of Concrete Materials (Before Mixing) To ensure concrete quality, materials must
+be tested:
+● Cement: Fineness, setting time, soundness, compressive strength
+● Fine aggregates (sand): Sieve analysis, silt content, specific gravity
+● Coarse aggregates: Sieve analysis, aggregate crushing value, water absorption
+● Water: pH level, total solids, organic matter (must be clean and potable)
+Concrete Mix Design Concrete mix design is the process of determining the optimal
+proportion of cement, water, fine and coarse aggregates to achieve the required strength
+and workability.
+Steps for Mix Design
+1. Define Target Strength: Add a margin (typically 5 MPa) above characteristic
+strength.
+2. Choose W/C Ratio: Based on strength and exposure conditions.
+3. Select Water Content: From IS chart based on slump requirement.
+
+=== PAGE 162 ===
+4. Calculate Cement Content: Using W/C ratio and selected water.
+5. Choose Aggregate Proportions: Balance based on density, gradation, and
+workability.
+6. Adjust for Admixtures: Deduct water or cement if using plasticizers.
+7. Trial Mix: Prepare sample batches and test slump and strength.
+8. Finalize Mix: Based on achieving desired slump and 28-day compressive strength.
+Proper mix design ensures durable, economical, and high-performance concrete suitable for
+the demands of road construction.
+🔢 1. Key Properties of Concrete to be Tested
+● Workability
+● Compressive strength
+● Consistency
+● Air content (if air-entrained)
+● Density and water absorption
+● Curing and setting time
+📈 2. Concrete Tests in Road Projects
+✅ a. Slump Test – Workability Assessment
+The Slump Test is a simple field test used to measure the workability or consistency of fresh
+concrete before it sets. It helps ensure that the concrete has the right water-cement ratio and is
+suitable for placement, compaction, and finishing on site. The test is widely used in road
+construction, building works, bridges, and precast applications as part of routine quality
+control.
+Why use a concrete slump test?
+The main reason to perform the test is to ensure batches of the same concrete are of constant
+quality and strength. The more water is added to a mix, the weaker the concrete gets. If
+customers require a higher workability/more flowing concrete ( a higher slump result) we
+need to increase the cement content to ensure the concrete still reaches its target strength.
+
+=== PAGE 163 ===
+This test is just one of the ways we ensure the quality of our concrete. Water is the enemy
+when it comes to concrete strengths.
+How do you carry out a slump test?
+This easy test is carried out in just seven stages, using a slump cone, a steel rod, and a
+measuring stick. Here’s how you carry out the test:
+· Place the cone on a flat, smooth, horizontal surface and stand on the footholds either side
+to ensure the cone is planted firmly on the ground
+● Fill the cone in three layers, using the steel tamping rod to compact - or tamp - the
+concrete after each layer in an even, uniform manner (this should be done 25 times
+per layer).
+● Once the cone is filled, remove any overflowing concrete from the top, making sure
+the concrete fills the cone exactly to the top level. Remove any spilled concrete from
+the base of the cone, too.
+● Lift the cone vertically, using a slow and steady motion until the cone is clear of the
+concrete. Place the cone upside down on the surface next to the concrete.
+● The concrete will subside or slump. To measure the slump, place the steel rod across
+the top of the upturned cone so it overhangs the concrete.
+● Now, measure from the rod down to the top of the slump. The level of slump is
+measured to the nearest 5mm.
+Results of the slump test
+Depending on the water-cement ratio of the mix, the concrete slump will fall under one of
+four categories
+● True slump - the concrete largely retains its cone shape, demonstrating that the mix is
+cohesive and its workability isn’t too high.
+● Zero slump - the concrete retains its shape completely. This shows that the mix is
+very dry (this kind of concrete is best used in road construction).
+● Shear slump - the top half of the concrete subsides dramatically, leaning to one side,
+meaning the mix has workability but low cohesion. The mix may have too much
+water content and can be retested after being amended
+● Collapse - the mix doesn’t retain its shape at all and completely collapses. This means
+the water-cement ratio is too high and needs to be fully amended.
+✅ b. Concrete Cube Test – Compressive Strength Verification
+This test is the standard method for determining the compressive strength of concrete used
+in road works.
+
+=== PAGE 164 ===
+● Sample Preparation (Cube Casting):
+○ Cast three 150 mm × 150 mm × 150 mm cubes for each sample.
+○ Fill the mould in three layers, tamping each layer with 25 strokes.
+○ Surface is leveled and moulds are stored in a controlled environment for 24
+hours.
+○ After 24 hours, demould and place in curing tank until testing.
+● Testing Ages: 7 days, 14 days (optional), and 28 days (standard).
+● Testing Procedure:
+○ Use a compression testing machine (CTM).
+○ Apply load gradually until failure.
+○ Record maximum load and calculate compressive strength using:
+where:
+■ f_c = compressive strength (MPa)
+■ PP = maximum load (N)
+■ AA = area of specimen face (mm²)
+● Acceptance Criteria:
+○ Minimum 28-day average strength ≥ specified strength (e.g., 25 MPa, 30
+MPa).
+○ No individual cube should fall below 85% of target strength.
+📊 3. Acceptance Criteria for Slump and Cube Tests
+For road construction, concrete quality is assessed using key parameters based on testing
+outcomes. The criteria below reflect common acceptance standards used in the industry:
+✅ Slump Test (Workability Check)
+
+=== PAGE 165 ===
+● The acceptable slump range depends on the concrete placement method and
+structural element.
+● For general road structures (e.g., kerbs, drains, and shoulders), the slump range is
+typically:
+○ 25–75 mm for medium workability (manually placed sections)
+○ 75–100 mm for higher workability (sections requiring pumping or deep
+placement)
+● If slump is outside the specified range:
+○ Reject the batch
+○ Adjust water content or admixture and retest
+✅ Cube Compressive Strength Test
+● Minimum strength must meet or exceed the design compressive strength.
+● Standard target strengths: 25 MPa, 30 MPa, or higher depending on structural use
+● Evaluation at 28 days:
+○ Average of 3 cubes ≥ specified strength
+○ No individual cube < 85% of specified strength
+● If cubes fail:
+○ Conduct testing on retained samples
+○ Use rebound hammer/core cutting for in-situ verification
+These criteria ensure that concrete placed in roadworks can endure structural loads and
+environmental effects as intended.
+💼 4. Field Records and Reporting
+● Cube register/logbook (date, location, mix ID)
+● Slump test records
+
+=== PAGE 166 ===
+● Cube curing tank record
+● Test certificates from laboratory
+● Site instruction records (if rejection or rework needed)
+⚡ Common Issues and Prevention
+Issue Cause Prevention
+Low cube strength Poor mix, curing issues Follow correct proportions &
+curing
+High slump / Excess water Maintain W/C ratio, retest before
+segregation pour
+Incomplete Lack of vibration Ensure proper vibration during
+compaction casting
+Cracks in cubes Improper demoulding or Handle carefully and cure
+curing consistently
+🔧 Conclusion
+Concrete quality testing is essential to ensure structural integrity and durability in
+road-related works. Adhering to proper testing procedures—from slump to cube
+strength—helps prevent failure, delays, and costly repairs. This guide empowers field
+engineers, supervisors, and QA teams to carry out systematic and compliant concrete
+testing at all stages of a road project.
+Sandun
+—------------------------------------------
+Here is your professionally written Week 18 Internship Diary Entry, focused on Concrete
+Cube Casting and Compressive Strength Testing, which is a vital quality control process
+in road and structural concrete works under RDA/ICTAD supervision.
+Week 18 – Concrete Cube Casting and Compressive
+Strength Testing
+
+=== PAGE 167 ===
+This week, I was involved in the casting and testing of concrete cubes, which is the
+standard method for verifying the compressive strength of concrete used in structural
+works such as culvert headwalls, drain bases, and side walls.
+🧱 Purpose of Cube Testing
+Concrete cube tests are conducted to:
+● Verify if concrete achieves its design strength (e.g., 25 MPa for M25)
+● Ensure compliance with project specifications and ICTAD standards
+● Monitor quality of Ready Mix Concrete (RMC) and site-mixed concrete
+● Validate the performance of curing and placement procedures
+📦 Cube Casting Procedure (On Site)
+1. Sampling
+○ Concrete is collected from the middle portion of the delivery or pour.
+○ The sample is representative of the batch.
+2. Mould Preparation
+○ Moulds (typically 150 mm x 150 mm x 150 mm) are cleaned, oiled, and
+assembled.
+○ Placed on a firm and level base.
+3. Filling the Mould
+○ Filled in three layers, each layer compacted 25 times using a standard
+tamping rod.
+○ Surface is leveled and smoothed.
+4. Initial Curing
+
+=== PAGE 168 ===
+○ Moulds are kept in a shaded area for 24 hours and covered with damp cloths
+or polythene.
+5. Demoulding & Curing
+○ After 24 hours, cubes are demoulded and placed in a curing tank with clean
+water at 27°C ±2°C until the testing date.
+🧪 Testing Procedure – Compressive Strength Test
+● Standard: BS EN 12390 / ASTM C39
+● Testing ages: 7 days and 28 days (sometimes 3 days for early strength check)
+● The cube is placed in a compression testing machine and loaded until failure.
+● The maximum load is recorded and used to calculate compressive strength:
+Example:
+● Max load = 450,000 N
+● Area = 150 mm × 150 mm = 22,500 mm²
+● Strength = 450,000 ÷ 22,500 = 20 MPa
+📊 Acceptance Criteria (per ICTAD)
+Grade of Concrete 7-Day Strength 28-Day Target Strength
+M20 ≥ 15 MPa ≥ 20 MPa
+M25 ≥ 17 MPa ≥ 25 MPa
+
+=== PAGE 169 ===
+M30 ≥ 20 MPa ≥ 30 MPa
+Concrete is accepted if average strength of 3 cubes meets the target and no individual cube
+falls below 85% of target.
+📌 Site Observations
+● Cubes were cast from each concrete delivery (RMC and site mix).
+● Each cube was properly labeled (date, road no, structure, mix grade).
+● The test results were documented and compared with design values.
+● In one case, a 28-day cube failed below 85%, and the consultant was notified for
+further investigation.
+✅ Conclusion
+The cube casting and testing process is essential for ensuring that concrete delivered and
+placed meets required structural standards. This week enhanced my understanding of
+quality assurance in concrete works, including sampling, curing, documentation, and
+strength verification in accordance with ICTAD and RDA requirements.
+Let me know if you'd like all 18 weeks combined into a formatted PDF internship report or
+ready-to-print document.
+
+=== PAGE 170 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 171 ===
+Comprehensive Guide to Pavement Design
+🚧 Introduction
+Pavement design is a critical component of road construction projects. It ensures that the
+road can withstand expected traffic loads and environmental conditions over its intended
+lifespan. This guide explains the complete step-by-step process of designing a flexible
+pavement, based on common methodologies and engineering standards such as those
+outlined in the Road Development Authority (RDA) of Sri Lanka pavement manuals.
+📍 1. Project Understanding and Road Classification
+Before starting the design:
+● Identify the location and classification of the road.
+● Assess terrain type (plain, rolling, mountainous).
+● Note climatic conditions and soil characteristics.
+● Determine the functional classification of the road (e.g., arterial, collector, local
+road).
+This background is essential to choose suitable materials and design parameters.
+🚗 2. Traffic Data Collection & Analysis
+A pavement must be designed to carry the expected traffic load throughout its life. Here’s
+how to estimate the traffic:
+✅ a. Conduct Traffic Surveys
+● Use manual or automatic counters to count the number and type of vehicles.
+● Focus on Commercial Vehicles per Day (CVPD).
+✅ b. Convert to Design Traffic in ESALs
+Design traffic is expressed in Equivalent Standard Axle Loads (ESALs) using the formula:
+
+=== PAGE 172 ===
+Where:
+● A = Initial daily commercial vehicle count
+● r = Annual traffic growth rate (typically 5-7%)
+● n = Design life (in years, typically 15-20)
+● F = Vehicle Damage Factor (VDF), based on axle load surveys or RDA standards
+This gives the total expected traffic loading the pavement must support.
+✅ c. Identify the Traffic Class
+Based on the cumulative number of ESALs calculated, traffic is categorized into classes.
+This helps to select the appropriate pavement thickness from design charts. Common
+classifications are:
+Traffic Class ESAL Range (Millions) Description
+T1 < 0.1 Very low traffic volume
+T2 0.1 – 0.3 Low traffic volume
+T3 0.3 – 1.0 Medium traffic volume
+T4 1.0 – 3.0 Medium-high traffic volume
+T5 3.0 – 10.0 High traffic volume
+T6 > 10.0 Very high traffic volume
+The appropriate traffic class determines the minimum thickness and type of materials
+required for each pavement layer.
+
+=== PAGE 173 ===
+🧪 3. Subgrade Soil Evaluation
+The subgrade is the natural soil foundation for the pavement and plays a critical role in the
+pavement's structural performance.
+✅ a. Soil Sampling and Testing
+● Collect soil samples from the site at representative intervals.
+● Conduct CBR (California Bearing Ratio) tests following ASTM D1883.
+● Perform laboratory or field CBR tests after proper moisture conditioning and
+compaction.
+● Use the lowest CBR value observed along the alignment for conservative design.
+✅ b. Subgrade Class Identification
+Subgrade soils are classified into strength classes based on their CBR values. These
+classes are referenced in pavement design charts to determine appropriate pavement layer
+thickness. The classification system below follows the standard used by many national road
+authorities:
+Subgrade CBR Range (%) Description
+Class
+S1 ≤ 2% Very weak subgrade
+S2 3 – 4% Weak subgrade
+S3 5 – 7% Medium strength
+S4 8 – 14% Strong subgrade
+S5(a) 15 – 19% Very strong
+subgrade
+S5(b) 20 – 29% Very strong
+subgrade
+S6 ≥ 30% Exceptionally strong
+This classification ensures that the subgrade strength is accurately factored into the
+structural design. Lower classes (S1, S2) typically require thicker pavement structures or soil
+improvement methods to meet design performance criteria.
+✅ c. Soil Improvement (if required)
+If the subgrade is classified as S1 or S2, soil stabilization or improvement may be required:
+
+=== PAGE 174 ===
+● Mechanical stabilization: Blending with gravel or crushed stone.
+● Chemical stabilization: Lime or cement treatment.
+● Replacement: Removing weak soil and replacing with better material.
+Proper subgrade preparation is essential to the long-term performance of the pavement.
+The subgrade is the natural soil foundation for the pavement.
+🧰 4. Pavement Type Selection
+Choose between:
+● Flexible Pavement (bitumen-based, layered system): Common in many countries.
+● Rigid Pavement (concrete slab): Used for heavy-duty or long-lasting roads.
+Flexible pavement is generally more cost-effective and easier to maintain, which makes it
+suitable for most public road projects.
+🔄 5. Pavement Layer Thickness Design
+One of the critical steps in flexible pavement design is determining the appropriate thickness
+of each pavement layer to safely distribute traffic loads to the subgrade. This is where the
+concept of Structure Number (SN) becomes important.
+✅ a. Understanding Structure Number (SN)
+The Structure Number (SN) is a numerical index that represents the overall structural
+strength of a pavement. It is calculated using the thickness and strength (layer coefficients)
+of each pavement layer:
+SN = a₁·D₁ + a₂·D₂ + a₃·D₃ + ...
+Where:
+● a₁, a₂, a₃ = Structural layer coefficients (strength per unit thickness)
+
+=== PAGE 175 ===
+● D₁, D₂, D₃ = Thickness of each layer (in inches)
+The required SN depends on traffic loading (ESALs) and subgrade support conditions. It
+ensures that the designed pavement is neither over- nor under-built.
+✅ b. Structural Layer Coefficients (Standard Values)
+Below is a table of standard structural coefficients derived from pavement design guidelines.
+These coefficients represent the relative structural contribution of each material layer per unit
+thickness (typically per inch):
+Layer Description Structural Coefficient (a)
+Single surface dressing 0.10
+Sand seal, hot bitumen application 0.05 – 0.10
+Double surface dressing 0.20
+Asphalt concrete (high stability) 0.40
+Hot rolled asphalt (surfacing) 0.35 – 0.40
+Flexible bituminous surfacing 0.35 – 0.40
+Bitumen macadam roadbase 0.30
+Bitumen bound base / asphalt treated base 0.28
+Penetration macadam 0.20
+Dense graded crushed stone base (CBR 110) 0.14
+Water bound / dry bound macadam 0.14
+Single sized aggregate base 0.125
+Granular base (CBR 80) 0.12
+Cement/lime stabilized base (3.0–6.0 MPa) 0.18 – 0.27
+Cement/lime stabilized base (1.5–3.0 MPa) 0.13 – 0.18
+Cement/lime stabilized base (CBR 80) 0.12
+Cement/lime stabilized subbase (0.75–1.5 0.11
+MPa)
+Granular subbase (CBR 30) 0.11
+Granular subbase (CBR 20) 0.095
+
+=== PAGE 176 ===
+Capping layer (CBR 15) 0.09
+Granular subbase / capping layer (CBR 8) 0.07
+These coefficients should be used when computing the Structure Number (SN) for flexible
+pavement design. Selection depends on material quality, CBR, and stabilization method.
+Lower coefficients are used for weaker materials and higher for stiffer, better-performing
+materials.
+✅ c. Using SN in Design
+Design manuals (such as AASHTO) provide SN values required for different combinations of
+ESALs and subgrade CBR or Resilient Modulus (MR). The designer selects appropriate
+layer materials and thicknesses such that their combined SN meets or exceeds the required
+SN.
+This method provides flexibility and optimization in pavement layer selection while ensuring
+structural adequacy.
+🗂 Pavement Design Alternatives (Charts)
+Based on the RDA Pavement Design Manual, there are multiple standard pavement
+configurations available depending on traffic class, subgrade condition, material availability,
+and intended performance. These are typically represented in the form of charts:
+📊 Chart 1: Single Sized Aggregate Base / Bituminous Applications
+Used in lighter traffic situations where high-quality, single-sized aggregates and bituminous
+layers are available.
+📊 Chart 2: Granular Base / Double Bituminous Surface Treatment and Sand Seal
+(Surface Dressing – SD)
+This configuration is commonly used for low to moderate traffic roads, especially in rural
+or secondary networks. It includes:
+● A well-compacted granular base (e.g., ABC material)
+● A double surface dressing (two coats of bitumen and chips)
+● A final sand seal to enhance binding and surface quality
+It is cost-effective, quick to construct, and suitable for roads with traffic classes ranging
+from T1 to T4 depending on subgrade condition.
+📊 Chart 3: Granular Base / Asphalt Concrete Surfacing
+
+=== PAGE 177 ===
+Ideal for roads with medium to high traffic volumes, combining a durable granular base
+with an asphalt surfacing layer. Offers longer service life and better resistance to
+environmental wear.
+📊 Chart 4: Bitumen Bound Base / Double Bituminous Surface Treatment and Sand
+Seal
+Used in high-strength base applications with relatively thin bituminous surfacing. The base
+layer is stabilized or bound with bitumen or asphalt, giving it a higher structural contribution.
+👉 In the current pavement design scenario, Chart 2 has been selected. This approach
+balances durability with cost-effectiveness and is appropriate for the expected traffic and
+subgrade conditions. It is widely used for rural roads and rehabilitation projects where
+resources are limited, but reliable service performance is required.
+🧮 Example: Design Section and Existing Pavement Consideration
+When designing a new pavement using Chart 2 (Granular Road Base / Double Bituminous
+Surface Treatment and Sand Seal), it is common to calculate the Structure Number (SN) of
+both the proposed new design and the existing road structure.
+📐 Design Section (Chart 2 Configuration)
+Layer Layer Type Structural Coefficient
+Thickness
+20 mm Surface Dressing 0.20
+175 mm Granular Road 0.12
+Base
+125 mm Granular Sub-base 0.095
+Calculated Structure Number:
+SN=(20×0.20)+(175×0.12)+(125×0.095)=36.875SN = (20 × 0.20) + (175 × 0.12) + (125 ×
+0.095) = 36.875
+🧱 Existing Section (Damaged or Deteriorated)
+Layer Layer Type Structural Coefficient
+Thickness
+50 mm Macadam 0.14
+100 mm DGAB (CBR > 80) 0.12
+Existing SN:
+
+=== PAGE 178 ===
+SN=(50×0.14)+(100×0.12)=19SN = (50 × 0.14) + (100 × 0.12) = 19
+🔁 Effective Contribution of Existing Structure
+Due to deterioration and reduced integrity of old pavement, only 25% of its structural value
+is considered:
+EffectiveSNofExistingSection=19×0.25=4.75Effective SN of Existing Section = 19 × 0.25 =
+4.75
+✅ Required Structure Number (after considering existing structure):
+RequiredSN=36.875−4.75=32.125Required SN = 36.875 - 4.75 = 32.125
+This approach allows designers to account for remaining strength in existing pavements
+while still meeting the structural requirements of the design traffic and subgrade condition.
+🧱 Widening Area Design Consideration
+In projects involving widening of existing macadam roads, it is important to ensure that the
+proposed widening section meets or exceeds the structural strength of the existing
+carriageway.
+📐 Design Section for Widening (Chart 2 Based)
+Based on RDA Chart 2 (Granular Road Base / Double Bituminous Surface Treatment and
+Sand Seal):
+Layer Layer Type Structural Coefficient
+Thickness
+20 mm Surface Dressing 0.20
+175 mm Granular Road 0.12
+Base
+125 mm Granular Sub-base 0.095
+Structure Number of Design Section:
+SN=(20×0.20)+(175×0.12)+(125×0.095)=36.875SN = (20 × 0.20) + (175 × 0.12) + (125 ×
+0.095) = 36.875
+🧾 Matching Existing Pavement Strength
+In field inspections, the existing pavement was found to have an average 100 mm thick
+ABC layer. To ensure the edge widening has equivalent strength, the minimum structural
+number of 12 (100 × 0.12) must be achieved.
+
+=== PAGE 179 ===
+Thus, for widening compatibility, a 100 mm thick DGAB layer is proposed to replicate or
+exceed the existing layer’s performance.
+🧰 Proposed Section for Widening
+Considering unevenness and field constraints, the following structure is recommended for
+the widening section:
+Layer Layer Type Structural Coefficient
+Thickness
+40 mm Asphalt Concrete 0.40
+150 mm DGAB (CBR > 80) 0.12
+100 mm DGAB (CBR > 80) 0.12
+Proposed Section Structure Number:
+SN=(40×0.40)+(150×0.12)+(100×0.12)=46SN = (40 × 0.40) + (150 × 0.12) + (100 × 0.12) =
+46
+Since the required structure number of 36.875 is exceeded, this section provides adequate
+strength and can be accepted as suitable for edge widening construction.
+Flexible pavement includes the following layers:
+1. Wearing Course (top asphalt layer)
+2. Binder Course (intermediate asphalt)
+3. Base Course (crushed aggregate)
+4. Sub-base (granular material)
+5. Subgrade (compacted natural soil)
+✅ a. Reference Design Charts
+● Use appropriate pavement design manuals (e.g., RDA Manual, AASHTO Guide,
+IRC:37).
+● Match design ESALs and Subgrade Strength Class to get layer thickness.
+Example:
+
+=== PAGE 180 ===
+For T1(b) and S4, charts recommend:
+● Sub-base = 125 mm
+● Granular Road Base = 175 mm
+● Surface Dressing = 20mm
+☔ 6. Drainage Consideration
+Water is the enemy of pavement. Drainage design includes:
+● Cross slope (camber) of 2-3% for water runoff.
+● Side drains or culverts to prevent water accumulation.
+● Subsurface drainage if soil is poorly draining or water table is high.
+Poor drainage can cause pavement failure regardless of good design.
+(cid:0) 7. Final Documentation
+Prepare detailed design documentation:
+● Cross-sectional drawings showing layer composition and thickness.
+● Material specifications for each layer.
+● Quantity estimates for budgeting.
+● Construction notes on compaction, testing, and quality control.
+✍ Sample Pavement Design Summary
+Layer Thickness Material Description
+(mm)
+Wearing 40 Asphalt Concrete (AC)
+Course
+Binder Course 60 Dense Bitumen Macadam (DBM)
+
+=== PAGE 181 ===
+Base Course 200 Crushed Aggregate Base
+Sub-base 150 Granular Sub-base (ABC material)
+Subgrade - Compacted Natural Soil (CBR = 5%)
+⚙ Tools & Standards Used
+● RDA Pavement Design Manual – Sri Lanka (2004 Edition)
+● ASTM D1883 – CBR Test Procedure
+● IRC:37 (Indian Roads Congress)
+● AASHTO Guide for Design of Pavement Structures
+🔧 Conclusion
+Pavement design is a structured engineering task involving traffic estimation, soil strength
+analysis, and material layer configuration. By following this guide and using pavement
+design standards, one can develop a cost-effective and durable flexible pavement suitable
+for diverse road conditions.
+This document ensures that any engineer, trainee, or stakeholder can understand the full
+process and independently prepare a pavement design for practical projects.
+REFERENCES
+● Overseas Road Note 31, Transport & Road Research Laboratory, United
+Kingdom.
+● Overseas Road Note 40, Transport & Road Research Laboratory, United
+Kingdom.
+● A Guide to the Structural Design of Roads under Sri Lankan Conditions, Road
+Development Authority, April, 1999.
+● AASHTO Guide for Design of Pavement Structures, 1993.
+● Standard Specification for Construction and Maintenance of Roads and
+Bridges, ICTAD Publication No. SCA/5, June, 2009.
+Sandun
+—--------------------------
+
+=== PAGE 182 ===
+Week 13 – Pavement Design Summary
+🚧 Introduction
+Pavement design ensures a road structure can withstand traffic loads and environmental
+effects over its design life. This process follows RDA, ICTAD, and AASHTO guidelines, with
+focus on material quality, traffic volume, and subgrade condition.
+📍 1. Project Understanding
+● Assess location, terrain, climate, and functional road class.
+● Classify the road (arterial, collector, rural, etc.) to guide material selection and layer
+thickness.
+🚗 2. Traffic Data Analysis
+● Conduct traffic surveys to determine Commercial Vehicles per Day (CVPD).
+● Convert traffic into Equivalent Standard Axle Loads (ESALs).
+● Categorize traffic into classes (T1–T6) to determine required pavement strength.
+🧪 3. Subgrade Evaluation
+● Perform CBR tests on site soils.
+● Classify subgrade strength (S1–S6) based on CBR:
+○ S1 ≤ 2% – Very weak
+○ S6 ≥ 30% – Very strong
+● For weak subgrades, apply mechanical/chemical stabilization or replacement.
+
+=== PAGE 183 ===
+🧰 4. Pavement Type
+● Flexible Pavement (bitumen-based) – Cost-effective, commonly used.
+● Rigid Pavement – For heavy-duty or long-life roads.
+🧮 5. Pavement Layer Design
+🔢 Structure Number (SN) Method:
+SN = a₁·D₁ + a₂·D₂ + a₃·D₃ + …
+● a = layer coefficient (strength/unit thickness)
+● D = thickness (in inches)
+📐 Coefficient Examples:
+Layer Type Coefficient (a)
+Asphalt Concrete 0.40
+Granular Base (CBR 80–100) 0.12–0.14
+Granular Sub-base (CBR 30) 0.11
+Surface Dressing 0.20
+Design SN depends on ESALs and subgrade class.
+📊 6. Design Charts (RDA Pavement Design Manual)
+Common options:
+● Chart 2: Granular base + Double Surface Dressing + Sand Seal
+→ Used for T1–T4 traffic class in rural roads
+● Chart 3: Granular base + Asphalt surfacing → Medium to high traffic
+● Chart 4: Bitumen-bound base + surface dressing → High strength
+
+=== PAGE 184 ===
+🏗 Design Example
+Selected Structure (Chart 2):
+● Surface Dressing: 20 mm (a = 0.20)
+● Granular Base: 175 mm (a = 0.12)
+● Sub-base: 125 mm (a = 0.095)
+→ SN = 36.875
+Existing Pavement (Macadam 50 mm + DGAB 100 mm):
+→ SN = 19 × 0.25 (degraded) = 4.75
+→ Required SN = 36.875 – 4.75 = 32.125
+➕ Widening Design
+To match existing pavement strength (ABC 100 mm → SN = 12), new layers proposed:
+● Asphalt Concrete: 40 mm (a = 0.40)
+● DGAB: 250 mm total (a = 0.12)
+→ SN = 46 ≥ 36.875 → Acceptable
+☔ 7. Drainage Design
+● Ensure 2–3% camber for runoff.
+● Use side drains, culverts, and subdrains as needed.
+● Drainage is critical to pavement life.
+🗂 8. Final Documentation
+● Cross-sections and design drawings.
+
+=== PAGE 185 ===
+● Material specifications.
+● Quantity estimates.
+● Construction and QC notes.
+📘 Standards & References Used
+● RDA Pavement Design Manual (SL)
+● AASHTO Guide (1993)
+● IRC:37 – Indian Roads Congress
+● ICTAD SCA/5
+● ASTM D1883 (CBR Test)
+● Overseas Road Notes 31 & 40 (TRRL UK)
+✅ Conclusion
+This pavement design process ensures structurally sound, cost-effective, and durable
+flexible pavements tailored to Sri Lankan road conditions. The method integrates field data,
+engineering calculations, and national standards for successful implementation.
+
+=== PAGE 186 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 187 ===
+Comprehensive Guide to Flakiness Index Test
+🧪 Introduction
+The Flakiness Index Test is a standard procedure used in both road and concrete
+construction to evaluate the shape characteristics of coarse aggregates. In concrete
+applications, aggregate shape significantly influences workability, compaction, strength, and
+long-term durability. This test identifies the percentage of flaky particles—those whose least
+dimension is less than 0.6 times the mean size. A high percentage of flaky particles can
+reduce interlocking, impair cement bonding, and weaken the concrete structure.
+📌 Purpose of the Test
+● Evaluate the shape quality of coarse aggregates used in concrete and road
+construction.
+● Ensure aggregates meet flakiness limits for strength, workability, and durability.
+● Prevent poor packing and segregation in fresh concrete due to excess flaky particles.
+● Maintain reliable bonding between cement paste and aggregate.
+⚙ Equipment Required
+● Flakiness Index Gauge (Thickness Gauge)
+● Weighing Balance (accuracy 0.1 g)
+● Standard IS Sieves: 63 mm, 50 mm, 40 mm, 31.5 mm, 25 mm, 20 mm, 16 mm, 12.5
+mm, 10 mm, 6.3 mm
+● Sample of coarse aggregate (approximately 5 kg)
+● Tray and brush
+🧪 Test Procedure
+
+=== PAGE 188 ===
+1. Sample Preparation:
+○ Sieve the aggregate sample into standard size fractions (e.g., 63–50 mm,
+50–40 mm, etc.).
+○ Discard particles retained on 63 mm sieve and passing through 6.3 mm sieve.
+2. Weighing Size Fractions:
+○ Weigh at least 200 particles from each fraction (or a minimum of 50 pieces if
+availability is low).
+○ Record the total weight of particles in each fraction (W1).
+3. Flakiness Measurement:
+○ Pass each particle from the fraction through the corresponding slot on the
+flakiness gauge.
+○ Particles passing through the gauge are considered flaky.
+○ Collect and weigh all flaky particles (W2).
+4. Repeat the process for all sieve fractions.
+📐 Calculation
+📊 Acceptance Criteria
+
+=== PAGE 189 ===
+Application Area Max. Flakiness Index (%)
+Plain Cement Concrete (PCC) 25
+Reinforced Cement Concrete (RCC) 15–20
+Concrete Pavement Layers 15–20
+Granular Sub-base / WMM / GSB Layers 30–35
+Exceeding these values may reduce concrete strength, compaction efficiency, and overall
+mix performance.
+📄 Reporting Format
+A Flakiness Index test report should include:
+● Project name, location, and sample details
+● Sieve fraction data
+● Weight of each size fraction (W1)
+● Weight of flaky particles in each fraction (W2)
+● Individual and total Flakiness Index values
+● Remarks on compliance with specification
+⚠ Precautions
+● Use dry and clean aggregates.
+● Ensure proper calibration of flakiness gauge.
+● Avoid double counting or reusing broken particles.
+✅ Conclusion
+The Flakiness Index Test is essential for evaluating the shape of coarse aggregates used in
+concrete and pavement construction. Lower flakiness ensures better compaction, packing
+
+=== PAGE 190 ===
+density, bonding with cement, and ultimately stronger and more durable concrete. The test
+plays a key role in quality control, especially for structural and load-bearing elements.
+This guide is intended to assist QA/QC engineers, lab technicians, and site supervisors in
+correctly performing and evaluating flakiness index tests for aggregate compliance and
+concrete performance.
+
+=== PAGE 191 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 192 ===
+Comprehensive Guide to Aggregate Impact Value (AIV) Test
+🧪 Introduction
+The Aggregate Impact Value (AIV) Test is a mechanical test used to determine the impact
+strength or toughness of coarse aggregates. It measures the resistance of aggregates to
+sudden shock or impact, which is crucial for aggregates used in concrete, pavement base,
+and sub-base layers. Lower AIV indicates tougher and more impact-resistant aggregates,
+desirable in heavy traffic and structural concrete applications.
+📌 Purpose of the Test
+● Assess the aggregate's resistance to impact or sudden load.
+● Determine the suitability of aggregates for concrete and road construction.
+● Ensure aggregates meet specifications for high-impact areas like highways and
+airfields.
+⚙ Equipment Required
+● Aggregate Impact Testing Machine (with cylindrical cup and hammer)
+● IS Sieves: 12.5 mm and 10 mm
+● Weighing Balance (accuracy 0.1 g)
+● Tamping rod (10 mm diameter, 230 mm length)
+● Oven (100°C to 110°C)
+● Measuring cylinder
+● Tray and brush
+🧪 Test Procedure
+
+=== PAGE 193 ===
+1. Sample Preparation
+○ Sieve the aggregate sample to collect particles passing through 12.5 mm and
+retained on 10 mm sieve.
+○ Oven dry the sample at 105°C–110°C for 4 hours and cool to room
+temperature.
+○ Weigh 350–400 g of the prepared aggregate.
+2. Filling the Cup
+○ Fill the cylindrical cup in three layers, tamping each layer 25 times using the
+tamping rod.
+○ Level the surface and fix the cup in position under the hammer.
+3. Impact Application
+○ Raise the hammer to 380 mm and allow it to fall freely onto the aggregates.
+○ Apply 15 blows at regular intervals.
+4. Sieve Analysis After Impact
+○ Remove and sieve the impacted sample through a 2.36 mm IS sieve.
+○ Weigh the material passing (W2) and retained (W1) separately.
+📐 Calculation
+
+=== PAGE 194 ===
+📊 Acceptance Criteria
+Application Area Max. AIV (%)
+Wearing Course (bituminous) 30
+Base Course (granular) 40
+Concrete Works 45
+(non-structural)
+Concrete (high-strength) 25–30
+Lower AIV values are preferred for concrete and surface courses subjected to dynamic
+loads.
+📄 Reporting Format
+An AIV test report should include:
+● Project and sample details
+● Date of test, location, sample source
+● Weight of oven-dried sample
+● Weight retained and passing 2.36 mm sieve
+● Aggregate Impact Value (%)
+● Compliance with relevant standard (e.g., IS 2386 Part IV)
+⚠ Precautions
+● Ensure hammer drop height is consistent.
+● Oven-dry aggregates uniformly.
+● Avoid repeated use of impacted samples.
+
+=== PAGE 195 ===
+● Clean and reset equipment between tests.
+✅ Conclusion
+The Aggregate Impact Value Test helps assess aggregate durability against impact loading.
+It is a vital quality control measure in construction projects using concrete or granular layers.
+Aggregates with lower AIV are more suitable for concrete and surface layers exposed to
+traffic loads.
+This guide supports QA/QC engineers, lab technicians, and site supervisors in correctly
+performing and interpreting AIV test results.
+
+=== PAGE 196 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 197 ===
+The LAAV test, or Los Angeles Abrasion Value Test, is a standard method used to assess
+the wear resistance of aggregate materials like those used in road construction. It
+determines the percentage of aggregate that breaks down into smaller sizes due to abrasion
+and impact from steel balls within a rotating drum. Lower LAAV values indicate higher
+resistance to abrasion and a tougher aggregate.
+
+=== PAGE 198 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 199 ===
+Comprehensive Guide to Ten Percent Fines Value (TFV) Test
+🧪 Introduction
+The Ten Percent Fines Value (TFV) Test is a strength test that measures the resistance of
+coarse aggregates to crushing under gradually applied compressive load. Unlike the
+Aggregate Crushing Value (ACV) test which calculates the percentage of crushed material,
+the TFV test determines the load at which 10% fines (material passing a 2.36 mm sieve) are
+generated. It is particularly useful for assessing aggregates used in concrete, asphalt, and
+base/sub-base layers.
+📌 Purpose of the Test
+● Assess the crushing strength of coarse aggregates.
+● Identify aggregates suitable for heavy-duty concrete or pavement layers.
+● Compare aggregate strength across different sources.
+⚙ Equipment Required
+● Compression testing machine (200 kN or higher capacity)
+● Steel cylinder (150 mm dia., 130 mm height)
+● Plunger and base plate
+● Weighing balance (accuracy 0.1 g)
+● 2.36 mm IS sieve
+● Tamping rod
+● Oven (100°C to 110°C)
+● Aggregate sample (typically 2.8 – 3.2 kg)
+
+=== PAGE 200 ===
+🧪 Test Procedure
+1. Sample Preparation
+○ Obtain aggregate passing 14 mm and retained on 10 mm sieve.
+○ Oven-dry the sample at 105°C–110°C and cool to room temperature.
+○ Weigh exactly 2.5 kg of the sample.
+2. First Trial (To Estimate Load for 10% Fines)
+○ Fill the steel cylinder with the dried sample in three layers, tamping each layer
+25 times.
+○ Place the plunger on top and apply load gradually over 10 minutes until
+visible crushing is achieved.
+○ Remove and sieve the crushed material using a 2.36 mm sieve.
+○ Weigh fines passing through the sieve.
+○ Calculate percentage fines to estimate the load required for exactly 10%
+fines.
+3. Final Test (Main Determination)
+○ Repeat the crushing procedure with three different loads, adjusting to produce
+close to 10% fines.
+○ For each load, weigh and record the mass of fines generated.
+○ Use interpolation to determine load corresponding to exactly 10% fines.
+📐 Calculation
+Ten Percent Fines Value (TFV)=Load at which 10% of sample passes 2.36 mm sieve
+
+=== PAGE 201 ===
+Where:
+● P = Load corresponding to % fines just below 10
+● Q = Load corresponding to % fines just above 10
+● X = % fines from Q
+● Y = % fines from P
+📊 Acceptance Criteria (Typical Guidelines)
+Application Area Minimum TFV (kN)
+Concrete (Heavy ≥ 150
+Structures)
+Bituminous Layers ≥ 100
+Base/Sub-base (Granular) ≥ 50
+Note: Specifications may vary by country or project requirements.
+📄 Reporting Format
+A TFV test report should include:
+● Project name, date, sample ID, test method
+● Aggregate size range (e.g., 10–14 mm)
+● Oven-dried weight of sample
+● Applied loads and % fines for each trial
+● Final interpolated load for 10% fines (TFV)
+● Compliance with relevant specifications
+⚠ Precautions
+
+=== PAGE 202 ===
+● Ensure uniform sample compaction in the cylinder.
+● Apply load gradually to prevent sudden failure.
+● Use properly calibrated compression testing equipment.
+● Clean and dry all sieves and apparatus before use.
+✅ Conclusion
+The Ten Percent Fines Value (TFV) Test is a critical indicator of the crushing strength of
+coarse aggregates. It ensures that only durable, mechanically sound materials are used in
+high-stress construction layers like base courses and structural concrete. Properly
+conducted TFV testing supports long-term performance of infrastructure.
+This guide is essential for lab engineers, QA/QC teams, and field technicians evaluating
+aggregate strength for concrete and pavement applications.
+
+=== PAGE 203 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 204 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 205 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 206 ===
+🪨 1 ⃣ Flakiness Index (FI)
+● Standard: BS 812 Part 105
+● Purpose: Measures the percentage of flaky particles in coarse aggregates, which
+affect compaction and interlocking strength.
+● ICTAD Requirement:
+○ FI ≤ 30% (for ABC and concrete aggregate)
+✅ Aggregates with high flakiness can cause weak interlock and reduce pavement durability.
+Aggregates must be angular but not flat.
+💥 2 ⃣ Aggregate Impact Value (AIV)
+● Standard: BS 812 Part 112
+● Purpose: Evaluates the toughness of aggregate — its ability to resist sudden shock
+or impact loads.
+● ICTAD Requirement:
+○ AIV ≤ 30% for base course aggregates
+○ For surface layers, a lower AIV may be required depending on design
+✅ A lower AIV indicates stronger, more impact-resistant aggregate — ideal for high-traffic
+roads.
+🔁 3 ⃣ Los Angeles Abrasion Value (LAAV)
+● Standard: ASTM C131 / BS 812 Part 113
+● Purpose: Measures aggregate resistance to abrasion and wear under traffic loads
+using a rotating drum and steel balls.
+● ICTAD Requirement:
+
+=== PAGE 207 ===
+○ LAAV ≤ 40% (general requirement for ABC aggregates)
+✅ Lower LAAV indicates better resistance to wear, important for maintaining road surface
+strength and reducing rutting over time.
+
+=== PAGE 208 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 209 ===
+Here is a professional and concise Week 14 Internship Diary Entry covering Road
+Construction Activities, including the Daily Progress Report (DPR) and Request for
+Inspection (RFI) Process, with a mention of your contribution to Excel-based automation
+for RFI and QA documentation.
+Week 14 – Road Construction Activities and Inspection
+Workflow
+This week, I was involved in observing and assisting with site documentation processes
+related to road construction progress and quality assurance. This included preparation and
+submission of the Daily Progress Report (DPR) and handling of the Request for
+Inspection (RFI) workflow in compliance with RDA procedures.
+📄 Daily Progress Report (DPR)
+The Daily Progress Report is an essential document that summarizes all major
+construction activities performed at the site each day.
+● The Site Engineer prepares and finalizes the DPR based on inputs from supervisors
+and site records.
+● The DPR must be submitted on the day prior to the planned inspection or activity
+for review and scheduling.
+● It includes:
+○ Road section and chainage
+○ Type of work (e.g., ABC laying, compaction)
+○ Equipment used
+○ Manpower
+○ Weather conditions
+○ Material details
+
+=== PAGE 210 ===
+📝 Request for Inspection (RFI) Process
+The RFI ensures that the Consulting Engineer or Resident Engineer (RE) verifies and
+approves each stage of construction before proceeding.
+🧾 Step-by-Step RFI Workflow:
+1. DPR + RFI Form Submission:
+After preparing the DPR, the Site Engineer submits the RFI to the Resident
+Engineer’s office along with the DPR.
+2. Site Inspection:
+The Consulting Site Engineer (RE's representative) visits the site to inspect the
+reported work.
+3. Inspection Outcome:
+○ If approved, the RFI is signed and returned to the contractor.
+○ If not approved, reasons are noted, and corrections must be made.
+4. Final Filing:
+The signed RFI is added to the RFI Register and retained as official proof of work
+inspection and approval.
+💻 Automation of RFI & QA Documentation
+To improve accuracy and efficiency in managing RFI records and monthly QA reports, I
+contributed to developing an Excel-based automation tool that:
+● Automatically logs RFI details by road number, date, and activity.
+● Generates summary reports for monthly QA submission.
+● Reduces manual errors and helps maintain compliance with RDA and consultant
+tracking systems.
+✅ Conclusion
+This week gave me hands-on experience in the administrative and quality assurance
+aspects of road construction, particularly the coordination between contractor and
+
+=== PAGE 211 ===
+consultant teams. I also applied my technical skills to streamline the process through
+Excel-based documentation tools, enhancing project efficiency and traceability.
+Let me know if you’d like to start drafting Week 15 – Compaction Testing & ABC Laying,
+or if you’d like help formatting this report.
+
+=== PAGE 212 ===
+Sand Cone Method (FDT)
+
+=== PAGE 213 ===
+Week 15 – Compaction Testing Using Sand Cone
+Method (FDT)
+This week, I learned about the Field Density Test (FDT) using the Sand Cone Method,
+which is a standard in-situ testing procedure to verify soil compaction. Compaction is a
+critical aspect of road construction, ensuring the stability and long-term performance of
+subgrade and base layers.
+🛠 Field Density Test (FDT) – Sand Cone Method
+📘 Purpose:
+The Sand Cone Test is used to determine the in-place dry density of compacted soil or
+aggregate layers. It verifies whether field compaction meets the specified percentage of
+the Maximum Dry Density (MDD) obtained from the Proctor Test.
+📏 Test Standards:
+● ASTM D1556
+● BS 1377: Part 9
+● ICTAD Specification Section 1602
+🧪 Equipment Used:
+● Sand cone apparatus
+● Clean, dry calibrated sand (uniform grading)
+● Metal tray with a central hole
+● Balance (0.01 g sensitivity)
+● Moisture container
+📍 Applications Observed in Site Work
+1 ⃣ Subgrade Preparation
+
+=== PAGE 214 ===
+● Conducted after trimming and compacting the natural ground.
+● Target compaction: ≥ 95% of MDD for mainline, ≥ 93% for confined/trench areas.
+● Field FDT ensures uniform compaction before placing sub-base materials.
+2 ⃣ Edge Widening Subgrade
+● Since it's narrow and adjacent to existing roads, achieving compaction is challenging.
+● FDT is critical to ensure edge stability and to match the existing pavement strength.
+3 ⃣ Filling Over Prepared Subgrade
+● Observed filling works using Type I EMB, Type II Sub-base, and Shoulder Material.
+● FDT ensures each layer achieves target compaction before placing the next.
+4 ⃣ ABC Laying
+● After laying and rolling the Aggregate Base Course, FDT is done at random
+locations.
+● Compaction target for ABC: ≥ 98% of MDD
+● Proper compaction prevents future rutting and pavement failure.
+📏 Compaction Thickness & Limitations
+According to ICTAD Specifications:
+● Layer Thickness:
+○ Should not exceed 150 mm before compaction (for EMB and SB)
+○ May be limited to 100 mm in case of hand compaction or confined areas
+● Each layer must be tested and approved before placing the next
+● Over-compaction or wet material can cause density loss or instability
+
+=== PAGE 215 ===
+✅ Conclusion
+The Sand Cone Method is a reliable and essential field test for confirming soil and aggregate
+compaction. This week provided practical exposure to compaction quality control across
+various layers—from subgrade to ABC. Understanding and applying these tests ensures
+structural integrity and long-term pavement performance.
+Let me know when you're ready to move on to Week 16 – Concrete Works (Slump &
+Properties) or if you'd like this turned into a printable report.
+4o
+You said:
+procedure and sample calculation
+ChatGPT said:
+Here is the Field Density Test (Sand Cone Method) explained with a clear step-by-step
+procedure and a sample calculation, ideal for your internship diary or QA documentation.
+🛠
+Sand Cone Method – Field Density Test (FDT)
+📘 Purpose
+To determine the in-situ dry density of compacted soil or granular layers and compare it with
+the laboratory Maximum Dry Density (MDD) obtained from the Proctor Test. This helps
+verify whether compaction meets the specified percentage (e.g., ≥ 95%).
+🔬
+Test Procedure
+✅ Preparation
+1. Calibrate the Sand Cone Apparatus
+○ Weigh the apparatus filled with calibrated dry sand.
+○ Determine the weight of sand required to fill the cone and base tray hole.
+
+=== PAGE 216 ===
+○ Record this as the Cone Correction.
+2. Select and Prepare the Test Spot
+○ Level a small area of the compacted surface.
+○ Place a metal tray with a circular hole over the test point.
+3. Excavate the Test Hole
+○ Dig a small hole through the tray using a chisel and hammer.
+○ Collect and store the excavated soil in a moisture container (for moisture
+content test).
+4. Determine Hole Volume Using Sand
+○ Place the inverted sand cone over the hole.
+○ Open the valve to allow sand to fill the hole.
+○ After flow stops, close the valve and weigh the remaining apparatus.
+📏
+Measurements Required
+Parameter Symbol Unit
+Initial weight of sand + cone W₁ grams
+Final weight after test W₂ grams
+Cone correction weight Wc grams
+Weight of excavated soil Ws grams
+Moisture content (from lab) w % (decimal)
+Sand density (from calibration) ρs g/cm³
+🧮
+Sample Calculation
+Example Input Data:
+
+=== PAGE 217 ===
+Measurement Value
+W₁ (initial sand + cone) 6500 g
+W₂ (final sand + cone) 5200 g
+Wc (cone correction) 200 g
+Ws (excavated soil) 1600 g
+Moisture Content (w) 8% (0.08)
+Calibrated Sand Density (ρs) 1.52 g/cm³
+Step-by-Step Calculation
+1. Sand Used in Test Hole (Wf):
+Wf = (W₁ - W₂) - Wc
+Wf = (6500 - 5200) - 200 = 1100 g
+2. Volume of Test Hole (V):
+V = Wf / ρs = 1100 / 1.52 = 723.68 cm³
+3. Wet Density (ρwet):
+ρwet = Ws / V = 1600 / 723.68 = 2.211 g/cm³
+4. Dry Density (ρdry):
+ρdry = ρwet / (1 + w)
+ρdry = 2.211 / (1 + 0.08) = 2.211 / 1.08 = 2.048 g/cm³
+5. Compaction Percentage:
+% Compaction = (ρdry / MDD) × 100
+If MDD from Proctor Test = 2.20 g/cm³:
+% Compaction = (2.048 / 2.20) × 100 = 93.09%
+✅
+Result Interpretation
+● If project spec requires ≥ 95% compaction, this sample fails.
+● The contractor must recompact and retest the area.
+
+=== PAGE 218 ===
+Let me know if you'd like this formatted for a QA sheet or added to your report with diagrams
+and forms.
+4o
+You said:
+Should not exceed 150 mm before compaction
+why?
+ChatGPT said:
+Great question!
+The reason why the layer thickness should not exceed 150 mm before compaction (as
+per ICTAD specifications and many international standards like AASHTO and ASTM) is to
+ensure uniform compaction and structural integrity of the layer.
+🔍 Why 150 mm is the Limit for Uncompacted Layer Thickness?
+✅ 1. Achieve Uniform Compaction Throughout the Layer
+● Compaction equipment (like rollers or plate compactors) can only transmit
+energy effectively to a certain depth.
+● If the layer is too thick (e.g., >150 mm), the lower part of the layer may not get
+compacted properly, resulting in soft zones.
+● This causes uneven settlement and reduces the pavement’s load-bearing capacity.
+✅ 2. Prevent Shear Failure and Rutting
+● Under-compacted lower layers may shear or compress under traffic loads.
+● This can cause pavement deformation, such as rutting, cracking, or potholes.
+✅ 3. Ensure Moisture Distribution
+
+=== PAGE 219 ===
+● For proper compaction, the material should be at or near Optimum Moisture
+Content (OMC).
+● In thick layers, moisture may not distribute evenly, leading to dry zones and poor
+compaction.
+✅ 4. Compliance with Lab-Determined Properties
+● Proctor Test (used to determine MDD and OMC) is done on layers around 100–150
+mm thick.
+● Field compaction should match lab conditions to ensure consistent and reliable
+density results.
+📏 ICTAD / Industry Practice
+Layer Type Max Loose Thickness (Before Compaction)
+Subgrade Fill 150 mm
+Subbase / Base Layer 150 mm
+ABC Layer 100–150 mm (based on project spec)
+Manual Compaction ≤ 100 mm (due to limited energy)
+If thicker layers are needed (e.g., 300 mm), they should be placed and compacted in two
+or more layers (each ≤150 mm) to achieve the desired density.
+❗ Consequences of Ignoring This
+● FDT will show low dry density, requiring rework.
+● May lead to RFI rejection by the Consultant or RE.
+● Delays in project and increased costs.
+
+=== PAGE 220 ===
+✅ Summary
+"The 150 mm rule ensures that each layer gets fully compacted, matches
+lab values, and contributes to a strong, durable pavement."
+
+=== PAGE 221 ===
+Concrete Works and Slump Test
+
+=== PAGE 222 ===
+Week 16 – Concrete Works and Slump Test
+This week, I was engaged in understanding the properties of fresh concrete and how they
+are controlled during construction. I also observed and assisted with the Slump Test, which
+is a standard on-site method used to measure the workability of concrete.
+🧱 Concrete – Key Properties and Parameters
+Concrete is a composite material whose performance depends on several interrelated
+parameters, especially at the fresh (plastic) and hardened stages.
+🔑 Important Properties of Fresh Concrete:
+Property Description How to Control It
+Workability Ease with which concrete can be mixed, Adjust water content, use
+placed, and compacted. admixtures
+Slump A measure of consistency/workability (via Controlled by water-cement
+Slump Test). ratio
+Setting Time Time taken for concrete to start and finish Affected by cement type,
+setting. temperature, admixtures
+Segregation Separation of aggregates from the mix. Controlled by proper mix
+design
+Bleeding Water rising to the surface after placing. Reduced by using proper
+grading & admixtures
+🔒 Key Properties of Hardened Concrete:
+Property Controlled By
+Compressive Strength Water-cement ratio, curing, mix proportion
+Durability Cement type, exposure conditions
+Shrinkage/Cracking Curing quality, water content
+
+=== PAGE 223 ===
+🧪 Slump Test – On-Site Workability Check
+The Slump Test is a simple field test to measure the consistency or workability of fresh
+concrete. It is widely used in site quality control for every concrete batch.
+🧰 Test Method:
+● Standard: ASTM C143 / BS EN 12350-2
+● Equipment:
+○ Slump cone (300 mm high, 200 mm base, 100 mm top)
+○ Tamping rod (16 mm diameter)
+○ Base plate
+○ Scale for measurement
+🧪 Procedure:
+1. Moisten the cone and base plate.
+2. Fill the cone in 3 layers, each tamped 25 times.
+3. Level the top surface and remove the cone vertically.
+4. Measure the vertical slump (subsidence) of the concrete.
+📏 Slump Value Interpretation:
+Slump (mm) Workability Use Case
+0–25 Very Low Mass concrete, road base layers
+25–50 Low Pavement and footings
+50–100 Medium General construction
+100–150 High Complex formwork, congested steel
+📌 Field Observations
+
+=== PAGE 224 ===
+● During site visits, slump tests were conducted before pouring concrete into structural
+elements (culverts, headwalls).
+● If the slump was outside the specified range (e.g., 75–100 mm), adjustments were
+made on-site:
+○ Too low → water/admixture added (within limits)
+○ Too high → batch rejected or re-mixed
+✅ Conclusion
+This week gave me insight into how fresh concrete properties affect constructability and
+long-term performance. I gained hands-on experience with the slump test, an essential field
+tool for ensuring concrete quality, especially in infrastructure projects under RDA
+supervision.
+Week 16 – Concrete Works and Slump Test
+Observations
+This week, I participated in quality control procedures related to fresh concrete placement at
+various road construction elements (e.g., culverts, headwalls). A key focus was on the
+Slump Test, which is critical to ensure proper workability and consistency of the concrete
+used on site.
+🧪 Slump Test – Purpose and Importance
+The Slump Test is a simple, standardized field test used to evaluate the workability or
+consistency of fresh concrete before it sets. It is vital for:
+● Verifying uniformity across batches
+● Ensuring suitability for placement and compaction
+● Monitoring the water-cement ratio, which directly impacts concrete strength and
+durability
+In road construction, particularly under ICTAD and RDA guidelines, this test is mandatory
+before placing concrete in structural elements.
+
+=== PAGE 225 ===
+Note: Excessive water reduces strength. Therefore, maintaining a proper slump
+value helps control strength indirectly.
+🛠 Slump Test – Step-by-Step Procedure (As Per Site Practice)
+1. Setup
+○ Place the slump cone on a clean, level surface.
+○ Step on the footholds to keep the cone stable.
+2. Filling the Cone
+○ Fill in 3 equal layers of concrete.
+○ Tamp each layer 25 times with the steel rod in a uniform way.
+3. Levelling
+○ Strike off excess concrete at the top with the tamping rod.
+○ Clean away spillage around the base.
+4. Lifting the Cone
+○ Lift the cone vertically and steadily.
+○ Place it upside down near the slumped concrete.
+5. Measuring the Slump
+○ Lay the steel rod across the top of the upturned cone.
+○ Measure the vertical distance from the rod to the highest point of the
+slumped concrete.
+○ Record the slump value to the nearest 5 mm.
+📊 Types of Slump and Their Meaning
+Slump Type Appearance Interpretation
+
+=== PAGE 226 ===
+True Slump Mix settles evenly, retains Good cohesion and workability
+shape
+Zero Slump No subsidence Very dry mix, suitable for low-workability
+uses (e.g., road base)
+Shear Slump Cone leans to one side Mix has excess water or poor cohesion
+Collapse Mix collapses completely Water-cement ratio too high; mix must be
+Slump rejected
+🧾 Site Observations
+● Slump tests were performed before concrete placement to ensure each batch met
+the design specification (usually 75–100 mm).
+● True slump was most common, indicating good quality mixes.
+● Shear slump occasionally occurred and was corrected by adjusting the water or
+admixture dosage.
+● Batches showing collapse slump were not allowed for use and returned or modified.
+✅ Conclusion
+The Slump Test remains a quick and effective field test to assess concrete workability.
+Through this week’s activities, I learned how concrete quality is managed practically on-site
+and how slump test results guide field decisions, ensuring compliance with structural and
+durability standards under RDA/ICTAD guidelines.
+
+=== PAGE 227 ===
+Bitumen Stability Test (Marshall
+Method)
+
+=== PAGE 228 ===
+Comprehensive Guide to Bitumen Stability Test (Marshall Method)
+🛣 Introduction
+The Bitumen Stability Test, commonly known as the Marshall Stability Test, is used to
+determine the strength and plastic flow characteristics of bituminous mixtures. It plays a
+critical role in evaluating mix design for asphalt pavements by assessing the maximum load
+a compacted specimen can withstand before failure. This ensures road surfaces are durable,
+stable, and resistant to deformation under traffic loads.
+📌 Purpose of the Test
+● Determine the Marshall Stability (maximum load) and Flow Value (deformation).
+● Identify the Optimum Bitumen Content (OBC).
+● Evaluate the strength and flexibility of bituminous mixtures.
+● Ensure the mix meets specification requirements for structural performance.
+⚙ Equipment Required
+● Marshall stability testing machine (with proving ring/load cell & flow meter)
+● Specimen mould (101.6 mm dia. × 63.5 mm height)
+● Compaction hammer (4.5 kg, 457 mm drop height)
+● Bitumen heating oven
+● Water bath (maintained at 60°C ± 1°C)
+● Balance (accuracy 0.1 g)
+● Mixing tray and mixing tools
+● Thermometer, filter paper
+
+=== PAGE 229 ===
+🧪 Test Procedure
+1. Sample Preparation
+○ Heat aggregates and bitumen to mixing temperature (~150–160°C).
+○ Mix thoroughly and place into a preheated Marshall mould.
+○ Compact with 75 blows per side (or 50 for light traffic roads).
+○ Cool and extrude specimen.
+2. Conditioning
+○ Place specimen in a water bath at 60°C for 30–40 minutes.
+3. Testing
+○ Place the specimen in the Marshall testing machine.
+○ Apply load at 50 mm/min until failure.
+○ Record:
+■ Stability = Maximum load (kN or kg)
+■ Flow = Deformation at peak load (measured in 0.25 mm units)
+📐 Calculations
+1. Marshall Stability = Maximum load at failure (kN or kg)
+2. Marshall Flow = Total deformation (mm)
+3. Plot graphs to evaluate:
+○ Bitumen content vs. stability
+○ Bitumen content vs. flow
+○ Bitumen content vs. density and voids
+From these graphs, determine Optimum Bitumen Content (OBC) where:
+
+=== PAGE 230 ===
+● Stability is at or near maximum
+● Flow is within range
+● Air voids meet target specification
+📊 Acceptance Criteria (Typical Values)
+Property Light Traffic Medium Traffic Heavy Traffic
+Stability (kg) > 500 > 750 > 1000
+Flow (mm) 2 – 4 2 – 4 2 – 4
+Air Voids (%) 3 – 5 3 – 5 3 – 5
+Voids in Mineral Agg. 13 – 15 14 – 16 15 – 17
+📄 Reporting Format
+A standard Marshall Test report should include:
+● Sample ID, mix design, date of test
+● Bitumen content, compaction details
+● Stability and Flow values
+● Bulk density, % air voids, VMA, VFB
+● Graphs for mix property trends
+● Optimum Bitumen Content (OBC)
+● Remarks on compliance with project specs
+⚠ Precautions
+● Ensure uniform heating and mixing of materials.
+● Compaction should be consistent.
+
+=== PAGE 231 ===
+● Use water bath at exact 60°C to maintain consistency.
+● Calibrate testing machine and flow meter regularly.
+✅ Conclusion
+The Marshall Stability Test is a critical quality control and design tool in bituminous mix
+design. It ensures that asphalt mixes provide adequate load-bearing strength and
+deformation resistance. This test guides pavement engineers in selecting the best binder
+content and aggregate combination for long-lasting road performance.
+This guide supports lab engineers, QA/QC staff, and road construction professionals in
+effectively conducting and interpreting Marshall stability tests.
+
+=== PAGE 232 ===
+Concrete Mix Methods and Mix Design
+
+=== PAGE 233 ===
+Week 17 – Concrete Mix Methods and Mix Design
+This week, I studied and compared different concrete mix methods used in road and
+structural works under the project, especially focusing on mix design principles and the use
+of HSR guidelines, Nominal Mix, and Ready Mix Concrete (RMC).
+📘 1. Highway Schedule of Rates (HSR) – Guideline Reference
+The HSR (Highway Schedule of Rates) is a guideline issued by RDA/ICTAD that defines
+standardized material quantities and proportions for various grades of concrete used in road
+and bridge construction. These mix ratios are often used in nominal mix design when a
+detailed lab-based mix design is not required.
+Example from HSR:
+● Grade 25 Concrete (M25)
+Cement: 1
+Fine Aggregate (Sand): 1.5
+Coarse Aggregate: 3
+Water: ~0.5 (by weight of cement)
+✅ HSR ensures consistency, cost estimation, and ease of construction, especially in
+low-risk or non-critical elements.
+🧱 2. Nominal Mix Concrete
+A Nominal Mix is a fixed-proportion concrete mix typically used for general construction
+when high precision or performance is not required.
+Grade Typical Ratio (C : FA : CA)
+M15 1 : 2 : 4
+M20 1 : 1.5 : 3
+M25 1 : 1 : 2
+📝 Characteristics:
+
+=== PAGE 234 ===
+● Based on volume batching
+● Does not account for material-specific properties (e.g., moisture, absorption)
+● Easy to prepare and used for blinding layers, non-critical structures, and
+site-made concrete
+📊 3. Concrete Mix Design (by Lab Trial)
+For critical structures (e.g., headwalls, culverts), design mix concrete is used. This is
+proportioned by weight and optimized through lab testing to achieve:
+● Target compressive strength (e.g., 25 MPa for M25)
+● Required workability (e.g., slump 75–100 mm)
+● Durability under exposure conditions
+🧪 Parameters Considered:
+● Water-Cement Ratio (low = higher strength)
+● Aggregate Grading
+● Moisture Content
+● Specific Gravity of materials
+● Use of admixtures (e.g., water reducers, retarders)
+✅ Design mixes ensure strength, quality, and durability — especially important for
+RDA-supervised road works.
+🚚 4. Ready Mix Concrete (RMC)
+Ready Mix Concrete is prepared at a batching plant and delivered to site in transit mixers. It
+provides:
+● Consistency across batches
+
+=== PAGE 235 ===
+● Time savings
+● Better control over mix design
+● Compliance with RDA quality standards
+At site, slump tests are conducted before placement, and cube samples are taken for
+strength testing at 7 & 28 days.
+✅ Site Observations:
+● RMC was used in culvert and headwall concreting operations.
+● Concrete was verified via slump tests and cube mould casting for later compressive
+strength testing.
+● Mix certificates and delivery slips were checked for each batch.
+✅ Conclusion
+This week provided comprehensive insight into concrete mix practices used on-site. I
+learned how HSR-based nominal mixes are applied for general use, while design mix and
+RMC are chosen for structurally critical elements. Understanding mix design parameters
+helped me appreciate the importance of material quality and proportioning in achieving
+durable concrete structures.
+
+=== PAGE 236 ===
+Bitumen Work and Surface
+Preparation
+
+=== PAGE 237 ===
+Week 19 – Bitumen Work and Surface Preparation
+This week, I was actively involved in observing and assisting with bitumen-related
+activities, particularly during the tack coat application and bitumen tray testing. Bitumen
+application is a critical part of flexible pavement construction and must follow ICTAD
+specifications for quality and performance.
+🛢 Role of Bitumen in Road Construction
+Bitumen acts as a binding agent between pavement layers and enhances:
+● Adhesion between the old surface and the new asphalt layer
+● Waterproofing and protection against moisture damage
+● Load transfer across pavement layers
+🧪 1. Bitumen Tray Test (Tack Coat Rate Check)
+The tray test is used to verify the application rate of bitumen (tack coat) before asphalt is
+laid.
+🧰 Procedure:
+1. Place a pre-weighed metal tray (known weight) on the prepared surface before
+bitumen spraying.
+2. Allow the spray to cover the tray area.
+3. Collect and reweigh the tray to determine the amount of bitumen sprayed (by weight
+difference).
+4. Calculate the application rate (kg/m²) and compare with specifications.
+📊 Standard Application Rates (per ICTAD / RDA):
+Surface Type Typical Tack Coat Rate
+Granular Base (e.g., ABC) 0.6 – 0.9 kg/m²
+
+=== PAGE 238 ===
+Existing Bituminous Surface 0.3 – 0.6 kg/m²
+✅ Results must be within the specified range to ensure proper bonding and prevent
+slippage or delamination of the asphalt layer.
+🌡 2. Bitumen Temperature Handling
+Bitumen is heated and maintained at specific temperatures to ensure proper flow and
+adhesion.
+Process Stage Target Temperature
+Heating in boiler 150 – 180°C
+Spraying temperature 140 – 160°C
+Minimum surface temp before spraying ≥ 25°C
+🔥 Overheating can cause bitumen degradation (burning), while underheating leads to
+poor sprayability and bonding.
+🛣 3. Surface Preparation for Bitumen Application
+Before applying bitumen tack coat:
+● The base surface (ABC or existing asphalt) must be clean, dry, and dust-free
+● Any loose material or standing water must be removed
+● Proper sweep and inspection is carried out by the contractor and verified by the
+Consultant/RE
+📌 Observation:
+In one instance, the consultant rejected bitumen spraying because the surface had fine dust
+particles, highlighting the importance of proper preparation.
+📋 4. QA Documentation
+
+=== PAGE 239 ===
+● All bitumen batches are documented with delivery slips and temperature logs
+● Tray test results are filed with chainage references
+● QA records include type of bitumen used (e.g., 60/70 penetration grade) and
+application area
+✅ Conclusion
+Bitumen work requires precision and strict quality control to ensure layer bonding and
+pavement durability. Through this week’s involvement, I gained valuable experience in tray
+testing, temperature monitoring, and site inspection procedures as per ICTAD and
+RDA standards. These practices are essential for achieving long-lasting, high-performance
+asphalt layers.
+🛣
+1. Prime Coat
+✅ Purpose:
+● Applied to unbound granular surfaces (e.g., Aggregate Base Course - ABC)
+● Penetrates into the base layer to bind loose particles
+● Prepares the surface for the first bituminous layer (usually a binder or asphalt layer)
+🛢 Material Used:
+● Low-viscosity bitumen cutbacks or emulsions
+○ Example: MC-30, MC-70 (medium-curing cutbacks)
+🔧 Function:
+● Acts as a sealant and binder for granular materials
+● Improves adhesion of the first asphalt layer
+● Controls dust and moisture penetration
+🧪 Application Rate:
+
+=== PAGE 240 ===
+● Typically 0.7 – 1.2 L/m² depending on base type and porosity
+🛢
+2. Bitumen (General Term)
+✅ Definition:
+● Bitumen is a viscous, black, hydrocarbon binder derived from crude oil refining
+● Used in various forms like:
+○ Penetration grade bitumen (e.g., 60/70)
+○ Cutback bitumen (bitumen + solvent)
+○ Bitumen emulsions (bitumen + water + emulsifier)
+🔧 Uses in Road Construction:
+● Binder in asphalt mixes
+● Prime coat and tack coat
+● Seal coats and waterproofing
+🧪 Grades:
+● 60/70, 80/100 (based on penetration value in tenths of mm)
+✅ So, bitumen is the base material used to create prime coats, tack coats, and asphalt
+mixes.
+🔗
+3. Tack Coat
+✅ Purpose:
+
+=== PAGE 241 ===
+● Applied between two bituminous layers (e.g., old asphalt surface and new asphalt
+overlay)
+● Promotes bonding between asphalt layers
+● Prevents slippage and layer separation
+🛢 Material Used:
+● Bitumen emulsion or diluted bitumen
+○ Example: Cationic Emulsion (RS-1, SS-1)
+○ Can also use penetration grade bitumen (diluted with kerosene)
+🧪 Application Rate:
+● Typically 0.3 – 0.6 kg/m² for bitumen-to-bitumen layers
+📊
+Summary Table:
+Feature Prime Coat Bitumen (General) Tack Coat
+Applied On Unbound granular base Raw binder used in Bituminous surface
+(e.g., ABC) all applications or binder course
+Purpose Seal and bind loose base Acts as a binder Promote bonding
+particles between asphalt
+layers
+Material Cutback/emulsified 60/70 penetration, Emulsion or diluted
+bitumen cutbacks, emulsions penetration bitumen
+Application 0.7 – 1.2 L/m² – 0.3 – 0.6 kg/m²
+Rate
+
+=== PAGE 242 ===
+Timing Before first asphalt layer Used in multiple Between asphalt
+stages layers
+🧠 Remember:
+● Prime Coat → Unbound base
+● Tack Coat → Between bituminous layers
+● Bitumen → Raw binder used to make both
+
+=== PAGE 243 ===
+Asphalt Mix Design, Batching, and
+Testing
+
+=== PAGE 244 ===
+Week 20 – Asphalt Mix Design, Batching, and Testing
+This week, I gained practical exposure to the process of Asphalt Mix Design validation,
+batching at the asphalt plant, and field sampling for laboratory testing. Ensuring that the
+asphalt mixture meets specified quality standards is critical for long-term pavement
+performance and durability.
+🧪 1. Asphalt Mix Design – Preparation and Submission
+● The initial asphalt mix design is prepared by the contractor or certified laboratory
+based on:
+○ Aggregate grading
+○ Bitumen content
+○ Voids in mineral aggregate (VMA)
+○ Marshall Stability and Flow values
+● The proposed design is submitted to the Resident Engineer (RE) and RDA for
+preliminary review before plant production begins.
+📋 Typical Mix Parameters Checked:
+Parameter Acceptance Range (per ICTAD)
+Bitumen Content (%) 4.5 – 5.5%
+Marshall Stability (kN) ≥ 9.0
+Flow Value (mm) 2 – 4
+Air Voids (%) 3 – 5
+VMA (%) 14 – 18
+🏭 2. Asphalt Plant Batching Process
+● Once the design is approved, the asphalt plant (batch or drum type) is set to
+produce the mix using controlled input from:
+
+=== PAGE 245 ===
+○ Aggregates (coarse + fine)
+○ Filler (e.g., cement or lime dust)
+○ Bitumen (temperature-controlled)
+● Each component is weighed and fed precisely according to the mix formula.
+📌 Observations:
+● Plant operator adjusted the bitumen pump and aggregate gate settings based on lab
+proportions.
+● Proper heating temperature was maintained:
+○ Aggregates: 160–170°C
+○ Bitumen: 150–160°C
+○ Final mix: ~155–165°C
+🧪 3. Plant Trial and Sample Collection
+Before allowing full-scale production for road laying, a trial batch is prepared and tested.
+● Samples were collected from:
+○ Hot Bin (for gradation check)
+○ Mixer Outlet (for extraction and Marshall tests)
+● These samples were immediately transported to the lab for confirmation testing.
+🧪 4. Asphalt Extraction Test
+The Extraction Test checks if the bitumen content in the produced mix matches the
+design.
+🛠 Test Method:
+
+=== PAGE 246 ===
+● A sample of asphalt mix is weighed and placed in the extraction device (usually a
+centrifuge or filter system).
+● Solvent (e.g., trichloroethylene) is used to dissolve the bitumen.
+● The extracted aggregates are washed, dried, and reweighed.
+● Bitumen content is calculated by difference.
+📊 Acceptable Range (per ICTAD):
+● Bitumen content deviation: ±0.3% from the design mix
+✅ If results fall outside the acceptable range, the mix is adjusted and retested before use in
+paving.
+
+=== PAGE 247 ===
+Sieve Analysis for Asphalt Aggregates
+
+=== PAGE 248 ===
+Week 21 – Sieve Analysis for Asphalt Aggregates
+This week, I participated in conducting Sieve Analysis on aggregates used in asphalt
+production. The purpose of this test is to ensure that aggregate gradation meets the
+specified limits in the approved Asphalt Mix Design and complies with ICTAD Section 1602
+standards.
+🧪 Purpose of Sieve Analysis
+Sieve Analysis determines the particle size distribution of aggregates used in asphalt
+mixtures. Proper gradation is crucial for:
+● Achieving target density and compaction
+● Maintaining mix stability and durability
+● Ensuring smooth surface finish and void control in the final asphalt layer
+🧰 Equipment Used
+● Standard sieve set (coarse and fine sieves: 37.5 mm – 0.075 mm)
+● Mechanical sieve shaker or hand shaking method
+● Oven (105–110°C) for drying
+● Balance (0.1 g accuracy)
+● Brush and pan
+🔬 Test Procedure (as per ASTM C136 / BS 812-103.1)
+1. Sample Preparation
+○ Aggregates were taken from hot bin samples at the asphalt plant.
+
+=== PAGE 249 ===
+○ Oven-dried to remove moisture and ensure accuracy.
+2. Weighing and Sieving
+○ A specific quantity of sample (~500–1000 g) was placed in the top sieve.
+○ Sieves were stacked from coarse (top) to fine (bottom), including a pan.
+○ The sample was sieved for 10–15 minutes.
+3. Weight Calculation
+○ Material retained on each sieve was weighed.
+○ Percent passing and percent retained were calculated.
+📊 Typical Sieve Sizes for Asphalt Mix Gradation
+Sieve Size (mm) Example Spec Limits (Dense-Graded Asphalt)
+19.0 100%
+13.2 85–100%
+9.5 70–90%
+4.75 50–70%
+2.36 35–55%
+0.600 20–35%
+0.075 4–10%
+Note: Exact limits vary depending on mix type (e.g., wearing course, binder course, etc.)
+📋 Observations
+● The tested sample conformed well to the approved gradation envelope from the
+mix design.
+
+=== PAGE 250 ===
+● Slight deviation in finer particles was observed in one trial, leading to an adjustment
+in filler feed rate at the plant.
+● The gradation results were plotted on semi-log graph paper to visually confirm
+conformity with target curves.
+✅ Conclusion
+Sieve Analysis is a key test in asphalt quality control. It ensures that aggregate grading
+supports good compaction, stability, and long-term durability of the pavement. This
+week improved my practical understanding of how aggregate gradation directly
+influences asphalt performance, and how it is continuously monitored and corrected
+during production.
+
+=== PAGE 251 ===
+Marshall Stability and Flow Test
+
+=== PAGE 252 ===
+Week 22 – Marshall Stability and Flow Test
+This week, I was involved in performing the Marshall Stability and Flow Test, which is a
+standard laboratory procedure used to determine the load-bearing capacity and plastic
+deformation characteristics of asphalt mixtures. The test is essential for verifying whether
+the asphalt produced at the plant conforms to the approved mix design and meets ICTAD
+Section 1602 requirements.
+🧪 Purpose of the Marshall Test
+● Evaluate the strength (stability) of the asphalt mix
+● Measure deformation (flow value) under loading
+● Ensure the mix has adequate stiffness and flexibility
+● Validate production against the design mix performance criteria
+🧰 Equipment Used
+● Marshall compaction machine (50 or 75 blows per face)
+● Mould assembly (diameter 101.6 mm, height 63.5 mm)
+● Water bath (maintained at 60°C)
+● Marshall testing frame with load dial and flow gauge
+🔬 Test Procedure (As per ASTM D6927 / ICTAD Spec)
+1. Sample Preparation
+○ Asphalt mix was collected from the plant or site.
+○ Cylindrical specimens were compacted with 75 blows per face using the
+Marshall hammer.
+
+=== PAGE 253 ===
+2. Curing
+○ Specimens were kept for 24 hours at room temperature.
+○ Then immersed in a water bath at 60°C for 30–40 minutes before testing.
+3. Testing
+○ The specimen was placed in the Marshall testing machine.
+○ Load was applied at a rate of 50 mm/min until the specimen failed.
+○ Maximum load = Marshall Stability
+○ Deformation (in mm) at peak load = Flow Value
+📊 Standard Acceptance Criteria (ICTAD / RDA Typical Specs)
+Parameter Target Range
+Marshall Stability ≥ 9.0 kN (minimum)
+Flow Value 2.0 – 4.0 mm
+Air Voids 3.0 – 5.0%
+VMA (Voids in Mineral Aggregate) 14 – 18%
+📋 Site Observations and Results
+● The tested asphalt mix (Dense Graded Wearing Course) achieved:
+○ Stability: 11.2 kN
+○ Flow: 3.1 mm
+→ ✅ Within acceptable range
+● Each batch was tested during plant trials and pre-laying validations.
+● Specimens that failed to meet minimum stability were traced back to bitumen
+content or gradation issues, prompting minor plant adjustments.
+
+=== PAGE 254 ===
+Asphalt Laying, Trial, and Core Cutting
+
+=== PAGE 255 ===
+Week 23 – Asphalt Laying, Trial, and Core Cutting
+This week, I observed and participated in key on-site operations related to asphalt laying,
+including the trial laying process, pre-laying sample checks, and core cutting for quality
+verification after compaction. These steps ensure that the final pavement meets the
+structural and functional standards set by the Road Development Authority (RDA) and
+ICTAD Specifications.
+🚜 1. Asphalt Laying Process
+The asphalt laying began at selected road sections after proper base layer preparation (ABC
+layer), surface cleaning, and bitumen tack coat application.
+Key Site Activities:
+● Asphalt was transported from the approved plant in insulated trucks to maintain
+temperature.
+● Paver machine laid the hot mix to the specified thickness and camber.
+● Steel wheel and pneumatic rollers compacted the mix while temperature was
+within the specified rolling range (135–160°C).
+● The surface finish, joint alignment, and compaction were continuously monitored by
+the site engineer and consultant.
+🧪 2. Laying Trial and Pre-Laying Checks
+Before full-scale production laying, an asphalt laying trial was conducted to:
+● Verify the workability of the mix under site conditions.
+● Confirm the effectiveness of the plant batch settings.
+● Conduct on-site sample collection for:
+○ Extraction Test (bitumen content)
+○ Sieve Analysis (gradation)
+
+=== PAGE 256 ===
+○ Marshall Test (stability and flow)
+✅ The results were compared to the approved asphalt mix design. Once the trial batch
+passed all parameters, the site was cleared for production-scale laying.
+🧱 3. Core Cutting for Asphalt Quality Verification
+After laying and final compaction, core samples were extracted to assess in-situ quality.
+Procedure:
+● Cores were taken from random chainages using a core drilling machine.
+● The extracted cylinders were measured and tested for:
+○ Actual thickness
+○ Density (Bulk Specific Gravity)
+○ Air voids and compaction level
+Acceptance Criteria (Typical):
+Parameter Requirement (RDA/ICTAD)
+Thickness Tolerance ±10 mm from design
+Density ≥ 95% of Marshall Density
+Voids Within mix design limits
+📌 If values fall below acceptable ranges, re-compaction or overlay may be required (none
+observed this week).
+✅ Conclusion
+This week’s activities strengthened my understanding of on-site asphalt paving
+operations, including laying trials, real-time quality monitoring, and post-laying core
+testing. These checks are crucial for achieving a smooth, well-compacted, and durable
+asphalt surface in compliance with RDA project standards.
+
+=== PAGE 257 === [IMAGE/FIGURE PAGE - No extractable text]
+
+=== PAGE 258 ===
+There are two major types of asphalt plants, based on the production method:
+1. Batch Mix Asphalt Plant
+● Working Principle: Produces asphalt in batches — each batch is separately
+weighed and mixed.
+● Key Features:
+○ Precise control over mix design and quality.
+○ Suitable for projects with varied specifications.
+○ Higher flexibility, but lower output than continuous plants.
+● Main Components:
+○ Cold aggregate feeder
+○ Dryer drum
+○ Screening unit
+○ Hot bins
+○ Weighing unit
+○ Pugmill mixer
+○ Bitumen and filler storage
+● Best Used For: Urban roads, airports, and projects requiring high precision and
+variety in mix designs.
+2. Drum Mix Asphalt Plant (Continuous Type)
+● Working Principle: Mixes the aggregate and bitumen continuously in a rotating
+drum.
+● Key Features:
+
+=== PAGE 259 ===
+○ High production capacity.
+○ Lower cost and simpler design.
+○ Less precise than batch plants, but faster.
+● Main Components:
+○ Cold aggregate feeder
+○ Conveyor belt
+○ Drying and mixing drum
+○ Bitumen supply system
+○ Storage silo
+● Best Used For: High-volume rural roads and highway projects where mix uniformity
+is acceptable.
+Optional Classification:
+You may also see plants categorized as:
+● Mobile Asphalt Plant – Easily moved from one site to another.
+● Fixed (Stationary) Asphalt Plant – Installed in one location for long-term use.
+—------------------------------------------------------------------------------------------------------------------------
+Asphalt plants are essential for producing the asphalt mixtures used in road construction.
+Here's a structured overview of the major types of asphalt plants, categorized by mixing
+method, mobility, and functionality:
+🏗 By Mixing Method
+
+=== PAGE 260 ===
+Type Description Best For
+Batch Mix Plant Produces asphalt in discrete Highways, airports, urban
+batches with precise control over roads requiring strict quality
+mix composition. standards.
+Drum Mix Plant Continuous production where Large-scale projects needing
+aggregates and bitumen are mixed consistent output.
+in a rotating drum.
+Parallel Flow Aggregates and hot gases flow in Simple operation and
+Drum Plant the same direction. maintenance.
+Counterflow Drum Aggregates and gases flow in Efficient drying and reduced
+Plant opposite directions for better heat emissions.
+transfer.
+Double Barrel Combines parallel and counterflow Projects with recycled asphalt
+Drum Plant features for enhanced RAP usage. requirements.
+🚚 By Mobility
+Type Description Best For
+Stationary Plant Permanently installed; high Long-term, large-scale
+capacity and stability. infrastructure projects.
+Mobile Plant Trailer-mounted or modular; Temporary or remote job sites.
+easy to relocate.
+
+=== PAGE 261 ===
+Semi-Stationary Installed on trailers; Medium-term projects with
+Plant reassembled at new sites. moderate relocation needs.
+🔄 By Functionality
+Type Description Best For
+Traditional Plant Standard design without advanced Budget-conscious projects.
+environmental controls.
+Eco-Friendly Includes dust filters, enclosed systems, Projects with
+Plant and emission controls. environmental regulations.
+Recycling Plant Uses reclaimed asphalt pavement to Sustainable construction
+(RAP) reduce material costs and emissions. projects.
+Hybrid Plant Combines batch, drum, and continuous Versatile, high-efficiency
+features. projects.
+⚙ Other Classifications
+● By Capacity: Small (<40 t/h), Medium (40–120 t/h), Large (>120 t/h)
+● By Fuel Type: Diesel, Gas, Coal
+● By Asphalt Type Produced: Hot Mix, Warm Mix, Cold Mix
