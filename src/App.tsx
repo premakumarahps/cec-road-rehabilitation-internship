@@ -1444,6 +1444,30 @@ export default function App() {
             Engineered with Precision &amp; Technical Excellence 🏗️
           </div>
         </div>
+        <div className="container" style={{ marginTop: '1rem', paddingTop: '1rem', borderTop: '1px solid rgba(255,255,255,0.04)', display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: '1.25rem', fontSize: '0.8rem' }}>
+          <a
+            href="https://github.com/premakumarahps/cec-road-rehabilitation-internship"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: '#94A3B8', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '0.35rem', transition: 'color 0.2s' }}
+            onMouseEnter={(e) => (e.currentTarget.style.color = '#FFFFFF')}
+            onMouseLeave={(e) => (e.currentTarget.style.color = '#94A3B8')}
+          >
+            <span>GitHub Repository</span>
+            <ExternalLink size={13} />
+          </a>
+          <a
+            href="https://premakumarahps.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: '#94A3B8', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '0.35rem', transition: 'color 0.2s' }}
+            onMouseEnter={(e) => (e.currentTarget.style.color = '#FFFFFF')}
+            onMouseLeave={(e) => (e.currentTarget.style.color = '#94A3B8')}
+          >
+            <span>Main Portfolio</span>
+            <ExternalLink size={13} />
+          </a>
+        </div>
       </footer>
     </>
   )
