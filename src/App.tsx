@@ -7,6 +7,7 @@ import {
   ClipboardList, ExternalLink, Mountain,
   ShieldCheck, Eye, CheckCircle2
 } from 'lucide-react'
+import { Analytics } from '@vercel/analytics/react'
 import './index.css'
 
 // Modular Data & Interactive Components
@@ -206,6 +207,7 @@ export default function App() {
 
   return (
     <>
+      <Analytics />
       {/* ── LIGHTBOX MODAL ── */}
       <PhotoLightbox
         item={activeLightboxItem}
